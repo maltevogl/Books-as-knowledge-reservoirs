@@ -64,10 +64,10 @@ var addUtterances = () => {
     script.src = "https://utteranc.es/client.js";
     script.async = "async";
 
-    script.setAttribute("repo", "github.com/maltevogl/Books-as-knowledge-reservoirs");
+    script.setAttribute("repo", "maltevogl/Books-as-knowledge-reservoirs");
     script.setAttribute("issue-term", "pathname");
     script.setAttribute("theme", "github-light");
-    script.setAttribute("label", "💬 comment");
+    script.setAttribute("label", "comment");
     script.setAttribute("crossorigin", "anonymous");
 
     sections = document.querySelectorAll("div.section");
@@ -349,6 +349,11 @@ commentsRunWhenDOMLoaded(addUtterances);
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#commenting-on-full-page">
+     Commenting on full page
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#interactive-binder-instance">
      Interactive Binder instance
     </a>
@@ -422,6 +427,10 @@ Readers are encouraged to write an interactive, digital paper on a specific rese
 <div class="section" id="annotation-and-highlighting">
 <h3>Annotation and highlighting<a class="headerlink" href="#annotation-and-highlighting" title="Permalink to this headline">¶</a></h3>
 <p>Using the <a class="reference external" href="https://hypothes.is">hypothes.is</a> service, all pages of the document can be annotated or highlighted. This requires an account on <a class="reference external" href="https://hypothes.is">hypothes.is</a>. If you set the visibility of a  comment to public, it will be visible for all audiences.</p>
+</div>
+<div class="section" id="commenting-on-full-page">
+<h3>Commenting on full page<a class="headerlink" href="#commenting-on-full-page" title="Permalink to this headline">¶</a></h3>
+<p>Using the <a class="reference external" href="https://github.com/utterance/utterances">Utterances app</a> you can comment on the bottom of each page. Comments are saved as Issues in Github and can be the basis of a discussion on methods or data, leading to changes and improvements in this book.</p>
 </div>
 <div class="section" id="interactive-binder-instance">
 <h3>Interactive Binder instance<a class="headerlink" href="#interactive-binder-instance" title="Permalink to this headline">¶</a></h3>
