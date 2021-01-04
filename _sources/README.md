@@ -2,6 +2,9 @@
 ## From critical distant reading to networks of ideas
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![DOI](https://zenodo.org/badge/326784948.svg)](https://zenodo.org/badge/latestdoi/326784948)
+
+
 
 Book hosted as [Github Pages](https://maltevogl.github.io/Books-as-knowledge-reservoirs/)
 
@@ -14,7 +17,7 @@ Published as interactive learning resource, under a
 
 Suggested citation:
 
-Malte Vogl (2020): Books as knowledge reservoirs: From critical distant reading to networks of ideas. URL: https://maltevogl.github.io/Books-as-knowledge-reservoirs. DOI: .
+Malte Vogl (2020): Books as knowledge reservoirs: From critical distant reading to networks of ideas.</br> URL: https://maltevogl.github.io/Books-as-knowledge-reservoirs.</br>DOI:  https://doi.org/10.5281/zenodo.4416119.
 
 ## Subject
 
