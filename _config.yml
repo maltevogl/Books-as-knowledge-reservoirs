@@ -8,6 +8,7 @@ execute:
   execute_notebooks: "off"
   exclude_patterns:
     - './env/*'
+    - 'Working_with_Jupyter/*'
 
 repository:
   url : https://github.com/maltevogl/Books-as-knowledge-reservoirs
@@ -23,4 +24,4 @@ html:
   comments:
     hypothesis: true
     utterances:
-      repo: "github.com/maltevogl/Books-as-knowledge-reservoirs"
+      repo: github.com/maltevogl/Books-as-knowledge-reservoirs
