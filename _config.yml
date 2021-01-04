@@ -24,4 +24,5 @@ html:
   comments:
     hypothesis: true
     utterances:
-      repo: github.com/maltevogl/Books-as-knowledge-reservoirs
+      repo: maltevogl/Books-as-knowledge-reservoirs
+      label: comment
