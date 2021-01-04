@@ -1,0 +1,593 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Load JSONL with pandas &#8212; Books as knowledge reservoirs</title>
+    
+  <link rel="stylesheet" href="../../_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.3da636dd464baa7582d2.js">
+
+    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "https://github.com/maltevogl/Books-as-knowledge-reservoirs");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Finding and counting words" href="ReadingData_2.html" />
+    <link rel="prev" title="Reading data" href="cover.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../../index.html">
+  
+  <img src="../../_static/wissensformen.jpeg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Books as knowledge reservoirs</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../intro.html">
+   Books as knowledge reservoirs
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Outline
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../outline.html">
+   Overview
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Setup tools and Jupyter
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/cover.html">
+   Tools for the book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/jn.html">
+   Talking with Code
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  From objects to data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/cover.html">
+   From objects to data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_1.html">
+   Starting to use Python (and Pandas)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_2.html">
+   Read all works by Tucholsky
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Reading data
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html">
+   Reading data
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Load JSONL with pandas
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_2.html">
+   Finding and counting words
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="nlp.html">
+   Natural Language Processing
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_3_Excercise_NLTK.html">
+   Working with NLTK
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="spacy.html">
+   Tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_4_Excercise_Spacy.html">
+   Using Spacy for POS tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_5_Training_Spacy.html">
+   Training a new spacy model for Tucholsky
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../../_sources/notebooks/readingdata/ReadingData_1.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fnotebooks/readingdata/ReadingData_1.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://notebooks.gesis.org/binder/v2/gh/maltevogl/Books-as-knowledge-reservoirs/master?urlpath=lab/tree/notebooks/readingdata/ReadingData_1.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="../../_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#read-file-into-pandas">
+   Read file into pandas
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#check-structure-and-access-data">
+   Check structure and access data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#sort-data-by-publication-years">
+   Sort data by publication years
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#plot-resulting-dataset">
+   Plot resulting dataset
+  </a>
+ </li>
+</ul>
+
+        </nav>
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="load-jsonl-with-pandas">
+<h1>Load JSONL with pandas<a class="headerlink" href="#load-jsonl-with-pandas" title="Permalink to this headline">¶</a></h1>
+<p>This notebook is purposfully not ready to be evaluated! You need to read and check every code and text cell and fill in some missing pieces. Mostly, they are marked by three question marks (???).</p>
+<p>At the end, there is a bonus question with a slightly more involved exercise.</p>
+<div class="section" id="read-file-into-pandas">
+<h2>Read file into pandas<a class="headerlink" href="#read-file-into-pandas" title="Permalink to this headline">¶</a></h2>
+<p>Enter the path to your downloaded corpus file.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_json</span><span class="p">(</span><span class="s1">&#39;../data/df_tucholsky.json&#39;</span><span class="p">,</span> <span class="n">lines</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>The read-in file is now assigned to the variable <code class="docutils literal notranslate"><span class="pre">data</span></code>.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>The size of the dataframe (i.e. table) can be obtained by using</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="o">.</span><span class="n">shape</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>The first number gives the number of rows, the second the number of columns.</p>
+</div>
+<div class="section" id="check-structure-and-access-data">
+<h2>Check structure and access data<a class="headerlink" href="#check-structure-and-access-data" title="Permalink to this headline">¶</a></h2>
+<p>You can access a column by using the column name, e.g. <code class="docutils literal notranslate"><span class="pre">data['name']</span></code>.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="p">[</span><span class="s1">&#39;ids&#39;</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>To read a specific row, you can use the function <code class="docutils literal notranslate"><span class="pre">.iloc[NUMBER]</span></code> to access by count, or select a specific row by content.
+This happens in two steps.
+First, you create a list of True/False values, and then reduce the data to rows which are True.</p>
+<p>To create a <em>boolean mask</em> (True/False list) for numbers you can use <em>comparision operators</em>, i.e. <code class="docutils literal notranslate"><span class="pre">==</span></code> for equal, or <code class="docutils literal notranslate"><span class="pre">&gt;=</span></code> for greater then.</p>
+<p>Example: <code class="docutils literal notranslate"><span class="pre">data['COLUMN']</span> <span class="pre">&gt;=</span> <span class="pre">10</span></code> or <code class="docutils literal notranslate"><span class="pre">data['COLUMN']</span> <span class="pre">==</span> <span class="pre">17</span></code></p>
+<p>You can combine several conditions by using AND (<code class="docutils literal notranslate"><span class="pre">&amp;</span></code>, <code class="docutils literal notranslate"><span class="pre">and</span></code>) and OR (<code class="docutils literal notranslate"><span class="pre">|</span></code>, <code class="docutils literal notranslate"><span class="pre">or</span></code>)  operators, e.g. <code class="docutils literal notranslate"><span class="pre">cond=(cond1</span> <span class="pre">&amp;</span> <span class="pre">cond2)</span></code>, .</p>
+<p>Example:  <code class="docutils literal notranslate"><span class="pre">data[(cond1</span> <span class="pre">&amp;</span> <span class="pre">cond2)]</span></code></p>
+<ul class="simple">
+<li><p>Select all rows of the year 1911</p></li>
+<li><p>BONUS: Select all rows for the years 1920 to 1925</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>yearMask1 = data.year == ???
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="p">[</span><span class="n">yearMask1</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>yearMask2 = (data.year &gt;=1920) &amp; ???
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="p">[</span><span class="n">yearMask2</span><span class="p">]</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>To select rows which contain text, we can use <em>string comparision</em>. For accessing all rows, which contain the text <code class="docutils literal notranslate"><span class="pre">hello</span></code>, we create a mask <code class="docutils literal notranslate"><span class="pre">cond</span> <span class="pre">=</span> <span class="pre">data[&quot;COLUMN&quot;].str.contains(&quot;hello&quot;)</span></code> and apply it to the data as above.</p>
+<ul class="simple">
+<li><p>Select all rows, where the title contains the word <em>Krieg</em>, (German for <em>war</em>)</p></li>
+<li><p>BONUS: Select all rows where the title contains <em>Krieg</em>, which are published before 1924</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">text</span> <span class="o">=</span> <span class="s1">&#39;test string&#39;</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="p">[</span><span class="s1">&#39;test&#39;</span> <span class="ow">in</span> <span class="n">text</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>textMask = data.text.str.contains(???)
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="p">[</span><span class="n">textMask</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>To test whether the text is correctly found, we can simply read the full text of a found work.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="p">[</span><span class="n">textMask</span><span class="p">]</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="sort-data-by-publication-years">
+<h2>Sort data by publication years<a class="headerlink" href="#sort-data-by-publication-years" title="Permalink to this headline">¶</a></h2>
+<p>To group a dataset by a certain column, we can use pandas <code class="docutils literal notranslate"><span class="pre">.groupby</span></code> function. It returns a <em>generator</em>-like object containing tuples of sub-dataframes with the value of the grouped column, e.g. <code class="docutils literal notranslate"><span class="pre">1911,data_for_1911)</span></code>.</p>
+<p>To get a specific group, you can use <code class="docutils literal notranslate"><span class="pre">.get_group(VALUE)</span></code> on the resulting grouped object.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">grouped</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">&#39;year&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<ul class="simple">
+<li><p>Select the group for the year 1917</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>grouped.get_group(???)
+</pre></div>
+</div>
+</div>
+</div>
+<p>For the size of each group (i.e. number of rows) we have the function <code class="docutils literal notranslate"><span class="pre">.size()</span></code>.</p>
+<ul class="simple">
+<li><p>Get a list of sizes for each year group</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>grouped.???
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="plot-resulting-dataset">
+<h2>Plot resulting dataset<a class="headerlink" href="#plot-resulting-dataset" title="Permalink to this headline">¶</a></h2>
+<p>Sometimes a plot gives a good overview over a dataset.</p>
+<p>For dataframes containing only numbers, its easy to generate graphs with pandas build-in functions <code class="docutils literal notranslate"><span class="pre">.plot()</span></code>. Bar charts can be obtained with <code class="docutils literal notranslate"><span class="pre">.plot.bar()</span></code>.</p>
+<ul class="simple">
+<li><p>Generate a plot of the number of publications per year</p></li>
+</ul>
+<ul class="simple">
+<li><p>Bonus: Generate a plot of the number of publications, which where published with the different pseudonyms of Tucholsky (‘Wrobel’, ‘Hauser’, ‘Tiger’, ‘Panter’) and compare them to the overall publication output and the publications published under his real name. Can you normalize the data for each year?</p></li>
+</ul>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./notebooks/readingdata"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="cover.html" title="previous page">Reading data</a>
+    <a class='right-next' id="next-link" href="ReadingData_2.html" title="next page">Finding and counting words</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Malte Vogl, Vielfalt der Wissensformen, Humboldt-University Berlin & Max-Planck-Institut für Wissenschaftsgeschichte<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../../_static/js/index.3da636dd464baa7582d2.js"></script>
+
+
+    
+  </body>
+</html>

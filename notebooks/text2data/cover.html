@@ -1,0 +1,532 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>From objects to data &#8212; Books as knowledge reservoirs</title>
+    
+  <link rel="stylesheet" href="../../_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.3da636dd464baa7582d2.js">
+
+    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "https://github.com/maltevogl/Books-as-knowledge-reservoirs");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Starting to use Python (and Pandas)" href="Text2Data_1.html" />
+    <link rel="prev" title="Talking with Code" href="../basics/jn.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../../index.html">
+  
+  <img src="../../_static/wissensformen.jpeg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Books as knowledge reservoirs</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../intro.html">
+   Books as knowledge reservoirs
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Outline
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../outline.html">
+   Overview
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Setup tools and Jupyter
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/cover.html">
+   Tools for the book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/jn.html">
+   Talking with Code
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  From objects to data
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   From objects to data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Text2Data_1.html">
+   Starting to use Python (and Pandas)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Text2Data_2.html">
+   Read all works by Tucholsky
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Reading data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/cover.html">
+   Reading data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_1.html">
+   Load JSONL with pandas
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_2.html">
+   Finding and counting words
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/nlp.html">
+   Natural Language Processing
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_3_Excercise_NLTK.html">
+   Working with NLTK
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/spacy.html">
+   Tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_4_Excercise_Spacy.html">
+   Using Spacy for POS tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_5_Training_Spacy.html">
+   Training a new spacy model for Tucholsky
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../../_sources/notebooks/text2data/cover.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fnotebooks/text2data/cover.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ocr-pitfalls-and-opportunities">
+   OCR pitfalls and opportunities
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#example-1">
+     Example 1
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#scanning-quality">
+   Scanning quality
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#example-2">
+     Example 2
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#existing-collections">
+   Existing collections
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#exercises">
+   Exercises
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#exercise-1">
+     Exercise 1
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#exercise-2">
+     Exercise 2
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#exercise-3">
+     Exercise 3
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+        </nav>
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="from-objects-to-data">
+<h1>From objects to data<a class="headerlink" href="#from-objects-to-data" title="Permalink to this headline">¶</a></h1>
+<p>Reading a book gives us information (and fun!) but it is a slow method. If we want to read many books, we need a lot of time at our disposal.</p>
+<p>So how can we read many books in a short time and still get out some information?</p>
+<p>Entrance <em>Distant reading</em> and Co.</p>
+<p>Distant reading requires as a first step, that the library we are interested in is <em>machine readable</em>. Once we have made a picture from every page of a book, we can use OCR to embedd the text in the image. In a second step we can try some automated processes to extract the structure of the text on a page, and save the result in the <em>TEI</em> format.</p>
+<p>In the following, we discuss some aspects of availability and biases in these steps and start with some introductory exercises.</p>
+<div class="section" id="ocr-pitfalls-and-opportunities">
+<h2>OCR pitfalls and opportunities<a class="headerlink" href="#ocr-pitfalls-and-opportunities" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>OCR = Optical character recognition</p></li>
+<li><p>Make sources machine-readable</p></li>
+<li><p>Most common programs good for “modern” (i.e. printed!) texts only (Abby / Teseract)</p></li>
+<li><p>Many other approaches, see e.g. <a class="reference external" href="https://www.uni-wuerzburg.de/en/zpd/ocr4all">OCR4all</a></p></li>
+<li><p>Tesseract is Open Source and useful tutorials can be found easily, see e.g. <a class="reference external" href="https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d">here</a>.</p></li>
+</ul>
+<blockquote>
+<div><p>For texts spanning a wide period of time, OCR quality will vary a lot</p>
+</div></blockquote>
+<div class="section" id="example-1">
+<h3>Example 1<a class="headerlink" href="#example-1" title="Permalink to this headline">¶</a></h3>
+<p>As a first example for data quality, have a look at
+Leo Bergmanns <em>Das Buch der Arbeit</em> from 1855. Written in Fraktur, the text is still recognized and readable. However, we can find several errors in the OCR and the text structure is not recognized very well.</p>
+<p><a class="reference external" href="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN76673319X&amp;PHYSID=PHYS_0011&amp;view=fulltext-parallel&amp;DMDID=DMDLOG_0001">STABI Example</a></p>
+</div>
+</div>
+<div class="section" id="scanning-quality">
+<h2>Scanning quality<a class="headerlink" href="#scanning-quality" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>OCR quality is improved by higher resolution images</p></li>
+<li><p>But what about file size? ➡️ For 400dpi, one page eq. 40 MB</p></li>
+<li><p>To research paper / materiality of sources, even higher resolution might be necessary</p></li>
+</ul>
+<blockquote>
+<div><p>Long term preservation of raw data raises questions on data quality</p>
+</div></blockquote>
+<div class="section" id="example-2">
+<h3>Example 2<a class="headerlink" href="#example-2" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>What about other languages?</p></li>
+</ul>
+<p><img alt="Vespucci, B. et al.; Nota eorum quae in hoc libro continentur ... " src="../../_images/OCRexample.png" /></p>
+<p>Source: <a class="reference external" href="http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/library/0PY87NRF/index.meta&amp;pn=8">ECHO at MPIWG</a></p>
+</div>
+</div>
+<div class="section" id="existing-collections">
+<h2>Existing collections<a class="headerlink" href="#existing-collections" title="Permalink to this headline">¶</a></h2>
+<p>There are already many existing text collections. Depending on the initial research question, it can be much faster to use them as the starting point.
+To capture the full structure of a text, many collections use the Text Encoding Initiative (TEI) standard based on XML. See e.g. <a class="reference external" href="https://tei-c.org/">TEI-C</a> for an introduction.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://crowd.loc.gov/topics/suffrage-women-fight-for-the-vote/">LOC</a>: Crowd-sourced transcriptions</p></li>
+<li><p><a class="reference external" href="https://textgridrep.org/repository.html">Textgrid</a>: German texts in TEI format</p></li>
+<li><p><a class="reference external" href="http://www.newtonproject.ox.ac.uk/">Newton Project</a>: Works and correspondence of Isaac Newton</p></li>
+<li><p><a class="reference external" href="https://verfassungsschutzberichte.de/">Verfassungsschutzberichte</a>: All public reports from the <em>Office for the Protection of the Constitution</em></p></li>
+<li><p><a class="reference external" href="https://arxiv.org">Arxiv</a>: Physics preprints of the last decades</p></li>
+</ul>
+</div>
+<div class="section" id="exercises">
+<h2>Exercises<a class="headerlink" href="#exercises" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="exercise-1">
+<h3>Exercise 1<a class="headerlink" href="#exercise-1" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Use a PDF you are interested in and convert it to TEI using Grobid</p>
+<ul>
+<li><p>URL: <a class="reference external" href="http://cloud.science-miner.com/grobid/">GROBID</a></p></li>
+</ul>
+</li>
+<li><p>What result do you get?</p></li>
+<li><p>Can it be converted, why not?</p></li>
+<li><p>Is the information of authors/publishers correct? Only if you use an academic paper..</p></li>
+</ul>
+</div>
+<div class="section" id="exercise-2">
+<h3>Exercise 2<a class="headerlink" href="#exercise-2" title="Permalink to this headline">¶</a></h3>
+<p><em>Installation of JupyterLab can be done with pip as well…</em></p>
+<ul class="simple">
+<li><p>Download and install <a class="reference external" href="https://www.anaconda.com/products/individual">Anaconda</a></p></li>
+<li><p>Open JupyterLab</p></li>
+<li><p>Download material from github</p></li>
+<li><p>Have a look in the folder <em>Working_with_Jupyter</em></p></li>
+</ul>
+</div>
+<div class="section" id="exercise-3">
+<h3>Exercise 3<a class="headerlink" href="#exercise-3" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Download material <em>text2data</em></p></li>
+<li><p>Evaluate notebook <em>Text2Data_1.ipynb</em></p>
+<ul>
+<li><p>Do you need to install a new package?</p></li>
+</ul>
+</li>
+<li><p>Try to load a new text resource</p>
+<ul>
+<li><p>E.g. from <a class="reference external" href="https://textgrid.de/de/digitale-bibliothek">Textgrid</a>, or a PDF you converted using Grobid.</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./notebooks/text2data"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="../basics/jn.html" title="previous page">Talking with Code</a>
+    <a class='right-next' id="next-link" href="Text2Data_1.html" title="next page">Starting to use Python (and Pandas)</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Malte Vogl, Vielfalt der Wissensformen, Humboldt-University Berlin & Max-Planck-Institut für Wissenschaftsgeschichte<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../../_static/js/index.3da636dd464baa7582d2.js"></script>
+
+
+    
+  </body>
+</html>

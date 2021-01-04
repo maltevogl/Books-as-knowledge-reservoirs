@@ -1,0 +1,653 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Export text to Doccano format &#8212; Books as knowledge reservoirs</title>
+    
+  <link rel="stylesheet" href="../../_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../../_static/sphinx-book-theme.2d2078699c18a0efb88233928e1cf6ed.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.3da636dd464baa7582d2.js">
+
+    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/language_data.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.be0a4a0c39cd630af62a2fcf693f3f06.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../../index.html">
+  
+  <img src="../../_static/wissensformen.jpeg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Books as knowledge reservoirs</h1>
+  
+</a>
+</div>
+
+<form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../intro.html">
+   Books as knowledge reservoirs
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Outline
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../outline.html">
+   Aim of the book
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Setup tools and Jupyter
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/cover.html">
+   Tools for the book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/cover.html#talking-with-code-literal-programming">
+   Talking with Code: Literal programming
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/Basics_4.html">
+   Example for a notebook article publication
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  From text to data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/cover.html">
+   From objects to data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/cover.html#exercise">
+   Exercise
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_1.html">
+   How to use Python (and Pandas)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_2.html">
+   From objects to data
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Reading data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html">
+   Overall Outline
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html#todays-seminar">
+   Todays seminar
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html#reading-data">
+   Reading Data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html#tagging">
+   Tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html#an-excursion-into-machine-learning">
+   An excursion into machine learning
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html#natural-language-processing">
+   Natural Language Processing
+  </a>
+ </li>
+</ul>
+
+</nav>
+
+ <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        <div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../../_sources/notebooks/readingdata/Sem2_2_Export_Corpus_to_Doccano.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+    
+</div>
+        <!-- Source interaction buttons -->
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/notebooks/readingdata/Sem2_2_Export_Corpus_to_Doccano.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="../../_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">re</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfT</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_hdf</span><span class="p">(</span><span class="s1">&#39;./data/df_tucholsky_meta.hd5&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">FileNotFoundError</span><span class="g g-Whitespace">                         </span>Traceback (most recent call last)
+<span class="o">&lt;</span><span class="n">ipython</span><span class="o">-</span><span class="nb">input</span><span class="o">-</span><span class="mi">2</span><span class="o">-</span><span class="n">cde01fc63bf2</span><span class="o">&gt;</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">dfT</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_hdf</span><span class="p">(</span><span class="s1">&#39;./data/df_tucholsky_meta.hd5&#39;</span><span class="p">)</span>
+
+<span class="nn">~/Dokumente/GMPG/jupyterbook/env/lib/python3.8/site-packages/pandas/io/pytables.py</span> in <span class="ni">read_hdf</span><span class="nt">(path_or_buf, key, mode, errors, where, start, stop, columns, iterator, chunksize, **kwargs)</span>
+<span class="g g-Whitespace">    </span><span class="mi">385</span> 
+<span class="g g-Whitespace">    </span><span class="mi">386</span>         <span class="k">if</span> <span class="ow">not</span> <span class="n">exists</span><span class="p">:</span>
+<span class="ne">--&gt; </span><span class="mi">387</span>             <span class="k">raise</span> <span class="ne">FileNotFoundError</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;File </span><span class="si">{</span><span class="n">path_or_buf</span><span class="si">}</span><span class="s2"> does not exist&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">388</span> 
+<span class="g g-Whitespace">    </span><span class="mi">389</span>         <span class="n">store</span> <span class="o">=</span> <span class="n">HDFStore</span><span class="p">(</span><span class="n">path_or_buf</span><span class="p">,</span> <span class="n">mode</span><span class="o">=</span><span class="n">mode</span><span class="p">,</span> <span class="n">errors</span><span class="o">=</span><span class="n">errors</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+
+<span class="ne">FileNotFoundError</span>: File ./data/df_tucholsky_meta.hd5 does not exist
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="export-text-to-doccano-format">
+<h1>Export text to Doccano format<a class="headerlink" href="#export-text-to-doccano-format" title="Permalink to this headline">¶</a></h1>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfPart</span> <span class="o">=</span> <span class="n">dfT</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span><span class="c1"># dfT[dfT.year == 1917]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">createMeta</span><span class="p">(</span><span class="n">row</span><span class="p">):</span>
+    <span class="n">cols</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;ids&#39;</span><span class="p">,</span><span class="s1">&#39;year&#39;</span><span class="p">,</span><span class="s1">&#39;title&#39;</span><span class="p">,</span><span class="s1">&#39;textLength&#39;</span><span class="p">]</span>
+    <span class="k">return</span> <span class="p">{</span><span class="n">x</span><span class="p">:</span><span class="n">row</span><span class="p">[</span><span class="n">x</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">cols</span><span class="p">}</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">meta</span> <span class="o">=</span>  <span class="n">dfPart</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">row</span><span class="p">:</span> <span class="n">createMeta</span><span class="p">(</span><span class="n">row</span><span class="p">),</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">labels</span> <span class="o">=</span> <span class="n">dfPart</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="p">[])</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfPart</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="s1">&#39;meta&#39;</span><span class="p">,</span><span class="n">meta</span><span class="p">)</span>
+<span class="n">dfPart</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="s1">&#39;labels&#39;</span><span class="p">,</span><span class="n">labels</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfPart</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>ids</th>
+      <th>meta</th>
+      <th>labels</th>
+      <th>year</th>
+      <th>title</th>
+      <th>text</th>
+      <th>textLength</th>
+      <th>wordOccurance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>tg1736.wmbd.0</td>
+      <td>{'ids': 'tg1736.wmbd.0', 'year': 1932, 'title'...</td>
+      <td>[]</td>
+      <td>1932</td>
+      <td>Der Floh</td>
+      <td>\n\n                              Der Floh\n\n...</td>
+      <td>214</td>
+      <td>{'und': 0.037383177570093455, 'in': 0.02336448...</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>tg1737.wg20.0</td>
+      <td>{'ids': 'tg1737.wg20.0', 'year': 1932, 'title'...</td>
+      <td>[]</td>
+      <td>1932</td>
+      <td>Das Lied von der Gleichgültigkeit</td>
+      <td>\n\n                              Das Lied von...</td>
+      <td>236</td>
+      <td>{'der': 0.07203389830508475, 'mit': 0.07203389...</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfPart</span> <span class="o">=</span> <span class="n">dfPart</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">&#39;year&#39;</span><span class="p">,</span><span class="s1">&#39;ids&#39;</span><span class="p">,</span><span class="s1">&#39;title&#39;</span><span class="p">,</span><span class="s1">&#39;wordOccurance&#39;</span><span class="p">],</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>Select only those texts, which contain the german word for war <code class="docutils literal notranslate"><span class="pre">Krieg</span></code></p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfWar</span> <span class="o">=</span> <span class="n">dfPart</span><span class="p">[</span><span class="n">dfPart</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="s1">&#39;\sKrieg\s&#39;</span><span class="p">)]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfWar</span><span class="o">.</span><span class="n">shape</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>(230, 4)
+</pre></div>
+</div>
+</div>
+</div>
+<p>Export this dataset to JSON line format.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dataLAbels</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_json</span><span class="p">(</span><span class="s1">&#39;./data/doccano_corpus.json1&#39;</span><span class="p">,</span><span class="n">lines</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfWar</span><span class="o">.</span><span class="n">to_json</span><span class="p">(</span><span class="s1">&#39;./data/warCorpusTucholsky.jsonl&#39;</span><span class="p">,</span><span class="n">orient</span><span class="o">=</span><span class="s1">&#39;records&#39;</span><span class="p">,</span><span class="n">lines</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfWar</span><span class="p">[</span><span class="n">dfWar</span><span class="o">.</span><span class="n">textLength</span> <span class="o">&lt;</span> <span class="mi">3000</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>meta</th>
+      <th>labels</th>
+      <th>text</th>
+      <th>textLength</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2</th>
+      <td>{'ids': 'tg1738.wjbn.0', 'year': 1932, 'title'...</td>
+      <td>[[188, 206, Title of piece of art], [146, 160,...</td>
+      <td>\n\n                              Fräulein Nie...</td>
+      <td>2470</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>{'ids': 'tg1747.wjgv.0', 'year': 1932, 'title'...</td>
+      <td>[]</td>
+      <td>\n\n                              Brief meines...</td>
+      <td>281</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>{'ids': 'tg1752.wmxv.0', 'year': 1932, 'title'...</td>
+      <td>[]</td>
+      <td>\n\n                              Recht muß Re...</td>
+      <td>262</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>{'ids': 'tg1753.wm6v.0', 'year': 1932, 'title'...</td>
+      <td>[]</td>
+      <td>\n\n                              Auf dem Nach...</td>
+      <td>2364</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>{'ids': 'tg1772.wn13.0', 'year': 1932, 'title'...</td>
+      <td>[]</td>
+      <td>\n\n                              Krieg gleich...</td>
+      <td>761</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>1625</th>
+      <td>{'ids': 'tg1421.wh2b.0', 'year': 1929, 'title'...</td>
+      <td>[]</td>
+      <td>\n\n                              Hat Mynona w...</td>
+      <td>1822</td>
+    </tr>
+    <tr>
+      <th>1662</th>
+      <td>{'ids': 'tg623.wgr6.0', 'year': 1923, 'title':...</td>
+      <td>[]</td>
+      <td>\n\n                              »Das will ke...</td>
+      <td>761</td>
+    </tr>
+    <tr>
+      <th>1683</th>
+      <td>{'ids': 'tg27.wmpq.0', 'year': 1913, 'title': ...</td>
+      <td>[]</td>
+      <td>\n\n                              An Arno Holz...</td>
+      <td>806</td>
+    </tr>
+    <tr>
+      <th>1726</th>
+      <td>{'ids': 'tg145.wk8j.0', 'year': 1917, 'title':...</td>
+      <td>[]</td>
+      <td>\n\n                              Die Sekt-Eul...</td>
+      <td>557</td>
+    </tr>
+    <tr>
+      <th>1734</th>
+      <td>{'ids': 'tg153.whfg.0', 'year': 1917, 'title':...</td>
+      <td>[]</td>
+      <td>\n\n                              Unterwegs 19...</td>
+      <td>2501</td>
+    </tr>
+  </tbody>
+</table>
+<p>214 rows × 4 columns</p>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfWar</span><span class="o">.</span><span class="n">labels</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">dataLAbels</span><span class="o">.</span><span class="n">labels</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>/home/mvogl/Dokumente/GMPG/Lehre/Books-as-knowledge-reservoirs/env/lib/python3.7/site-packages/pandas/core/indexing.py:671: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_with_indexer(indexer, value)
+/home/mvogl/Dokumente/GMPG/Lehre/Books-as-knowledge-reservoirs/env/lib/python3.7/site-packages/ipykernel_launcher.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  &quot;&quot;&quot;Entry point for launching an IPython kernel.
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">dfWar</span><span class="p">[</span><span class="n">dfWar</span><span class="o">.</span><span class="n">textLength</span> <span class="o">&lt;</span> <span class="mi">3000</span><span class="p">][:</span><span class="mi">100</span><span class="p">]</span><span class="o">.</span><span class="n">to_json</span><span class="p">(</span><span class="s1">&#39;./data/warCorpusTucholsky.jsonl&#39;</span><span class="p">,</span><span class="n">orient</span><span class="o">=</span><span class="s1">&#39;records&#39;</span><span class="p">,</span><span class="n">lines</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./notebooks/readingdata"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Malte Vogl<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../../_static/js/index.3da636dd464baa7582d2.js"></script>
+
+
+    
+  </body>
+</html>

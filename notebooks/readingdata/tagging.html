@@ -1,0 +1,818 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tagging &#8212; Books as knowledge reservoirs</title>
+    
+  <link rel="stylesheet" href="../../_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.3da636dd464baa7582d2.js">
+
+    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "https://github.com/maltevogl/Books-as-knowledge-reservoirs");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Excercise 3: Working with natural language processing" href="ReadingData_3_Excercise_NLTK.html" />
+    <link rel="prev" title="Finding and counting words" href="ReadingData_2.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../../index.html">
+  
+  <img src="../../_static/wissensformen.jpeg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Books as knowledge reservoirs</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../intro.html">
+   Books as knowledge reservoirs
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Outline
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../outline.html">
+   Overview
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Setup tools and Jupyter
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/cover.html">
+   Tools for the book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/jn.html">
+   Talking with Code
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  From objects to data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/cover.html">
+   From objects to data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_1.html">
+   How to use Python (and Pandas)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_2.html">
+   Read all works by Tucholsky
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Reading data
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="cover.html">
+   Reading data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_1.html">
+   Load JSONL with pandas
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_2.html">
+   Finding and counting words
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="#natural-language-processing">
+   Natural Language Processing
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_3_Excercise_NLTK.html">
+   Excercise 3:  Working with natural language processing
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="spacy.html">
+   Using ML to automate tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_4_Excercise_Spacy.html">
+   Using Spacy for POS tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="spacyII.html">
+   Training Spacy
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="ReadingData_5_Training_Spacy.html">
+   Train new spacy model for Tucholsky
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../../_sources/notebooks/readingdata/tagging.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fnotebooks/readingdata/tagging.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Tagging
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#taggin-guidelines">
+     Taggin guidelines
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#exercise">
+     Exercise
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#tagging-excercise">
+     Tagging excercise
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#natural-language-processing">
+   Natural Language Processing
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#nlp">
+     NLP
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#basic-concepts-and-routines">
+     Basic concepts and routines
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#sentences">
+       Sentences
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#tokens">
+       Tokens
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#lemmatization">
+       Lemmatization
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#stemming">
+       Stemming
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#lemmatization-or-stemming">
+       Lemmatization or Stemming
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#parts-of-speech">
+       Parts of Speech
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#key-concepts">
+       Key concepts
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id1">
+     Exercise
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+        </nav>
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="tagging">
+<h1>Tagging<a class="headerlink" href="#tagging" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><p>Tagging by crowd sourcing</p>
+<ul>
+<li><p>Hugh market for low-skilled workers, e.g. <a class="reference external" href="https://www.mturk.com/">Amazon Mechanical Turk</a></p></li>
+<li><p>Skills of annotators are measured and weighted into results</p></li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<div><p>Inter-annotater agreement:</p>
+<p>How well do two or more annotators agree on annotation decisions</p>
+</div></blockquote>
+<div class="section" id="taggin-guidelines">
+<h2>Taggin guidelines<a class="headerlink" href="#taggin-guidelines" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Annotation guidelines describe how tags are to be used</p>
+<ul>
+<li><p>E.g. should “the book” be tagged or only “book”, is “Mr Smith” or “Smith” a persons name?</p></li>
+<li><p>To capture all possible cases, these documents can be huge, e.g. <a class="reference external" href="https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/5065/file/Beisswenger_Bartz_Storrer_Tagset_and_guidelines_for_the_PoS_tagging_2015.pdf">here</a></p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="exercise">
+<h2>Exercise<a class="headerlink" href="#exercise" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Exercise:</p>
+<ul>
+<li><p>What metadata could be useful?</p></li>
+<li><p>Format sub-corpus for Doccano</p></li>
+<li><p>JSONL format</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="tagging-excercise">
+<h2>Tagging excercise<a class="headerlink" href="#tagging-excercise" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Exercise:</p>
+<ul>
+<li><p>Head over to the <a class="reference external" href="http://doccano.herokuapp.com/">Doccano test instance</a></p></li>
+<li><p>Try out the tagging infrastructure</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="natural-language-processing">
+<h1>Natural Language Processing<a class="headerlink" href="#natural-language-processing" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="nlp">
+<h2>NLP<a class="headerlink" href="#nlp" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p><strong>NLP</strong>: Natural language processing tries to understand, interpret and manipulate human language.</p>
+</div></blockquote>
+<ul class="simple">
+<li><p>In Python: <em>nltk</em> or <em>spacy</em> package</p></li>
+<li><p>Routines for <em>parts-of-speech</em> tagging, <em>named-entity-recognition</em>, <em>tokenization</em> and more</p></li>
+</ul>
+</div>
+<div class="section" id="basic-concepts-and-routines">
+<h2>Basic concepts and routines<a class="headerlink" href="#basic-concepts-and-routines" title="Permalink to this headline">¶</a></h2>
+<p>For a given text:</p>
+<ul class="simple">
+<li><p>Recognize the sentence boundaries</p></li>
+<li><p>In each sentence, find all tokens (i.e. words without punctuation)</p></li>
+<li><p><em>Lemmatization</em> and <em>Stemming</em> describe the process to find roots of words</p>
+<ul>
+<li><p>Lemma of <em>went</em> is <em>go</em>, or for nouns <em>mice</em> becomes <em>mouse</em></p></li>
+<li><p>Stemm is part of word which does not change, e.g. the stem of <em>produced</em> is <em>produc</em> because of words like <em>production</em></p></li>
+</ul>
+</li>
+<li><p>Identify parts of speech (<em>nouns</em>,<em>verbs</em>, ..) for every lemmatized word</p></li>
+</ul>
+<div class="section" id="sentences">
+<h3>Sentences<a class="headerlink" href="#sentences" title="Permalink to this headline">¶</a></h3>
+<div class="sphinx-bs container pb-4 docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<ul class="simple">
+<li><p class="card-text">Recognize the sentence boundaries</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>import pandas as pd
+import nltk
+data = pd.read_json(&#39;./data/df_tucholsky.json&#39;, lines=True)
+text = data.text.iloc[0]
+
+sentences = nltk.sent_tokenize(text)
+
+sentences[0]
+
+# outputs gives
+&#39;Der Floh Im Departement du Gard – ganz richtig, da, wo Nîmes liegt und der Pont du Gard: im südlichen Frankreich – da saß in einem Postbüro ein älteres Fräulein als Beamtin, die hatte eine böse Angewohnheit: sie machte ein bißchen die Briefe auf und las sie.&#39;
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="tokens">
+<h3>Tokens<a class="headerlink" href="#tokens" title="Permalink to this headline">¶</a></h3>
+<div class="sphinx-bs container pb-4 docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<ul class="simple">
+<li><p class="card-text">Recognize the sentence boundaries</p></li>
+<li><p class="card-text">In each sentence, find all tokens</p>
+<ul>
+<li><p class="card-text">could be words only</p></li>
+<li><p class="card-text">or including punctuation</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>import pandas as pd
+import nltk
+data = pd.read_json(&#39;./data/df_tucholsky.json&#39;, lines=True)
+text = data.text.iloc[0]
+
+sentences = nltk.sent_tokenize(text)
+nltk.word_tokenize(sentences[0])
+
+# outputs gives
+[&#39;Der&#39;,&#39;Floh&#39;,&#39;Im&#39;,&#39;Departement&#39;,&#39;du&#39;,&#39;Gard&#39;,&#39;–&#39;,&#39;ganz&#39;,&#39;richtig&#39;,&#39;,&#39;,&#39;da&#39;,&#39;,&#39;,&#39;wo&#39;,&#39;Nîmes&#39;,
+&#39;liegt&#39;,&#39;und&#39;,&#39;der&#39;,&#39;Pont&#39;,&#39;du&#39;,&#39;Gard&#39;,...]
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="lemmatization">
+<h3>Lemmatization<a class="headerlink" href="#lemmatization" title="Permalink to this headline">¶</a></h3>
+<div class="sphinx-bs container pb-4 docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<ul class="simple">
+<li><p class="card-text">Recognize the sentence boundaries</p></li>
+<li><p class="card-text">In each sentence, find all tokens</p></li>
+<li><p class="card-text"><em>Lemmatization</em> to find roots of token</p>
+<ul>
+<li><p class="card-text">Lemma of <em>goes</em> is <em>go</em>, or for nouns <em>mice</em> becomes <em>mouse</em></p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>import nltk
+lemmatizer = nltk.stem.WordNetLemmatizer()
+lemmatizer.lemmatize(&#39;goes&#39;)
+
+# output gives
+&#39;go&#39;
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="stemming">
+<h3>Stemming<a class="headerlink" href="#stemming" title="Permalink to this headline">¶</a></h3>
+<div class="sphinx-bs container pb-4 docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<ul class="simple">
+<li><p class="card-text">Recognize the sentence boundaries</p></li>
+<li><p class="card-text">In each sentence, find all tokens</p></li>
+<li><p class="card-text"><em>Stemming</em> to find roots of tokens</p>
+<ul>
+<li><p class="card-text">Stemm is part of token which does not change, e.g. the stem of <em>produced</em> is <em>produc</em></p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>import nltk
+stemmer = nltk.stem.SnowballStemmer(&#39;english&#39;)
+stemmer.stem(&#39;produced&#39;)
+
+# output gives
+&#39;produc&#39;
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="lemmatization-or-stemming">
+<h3>Lemmatization or Stemming<a class="headerlink" href="#lemmatization-or-stemming" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Stemming simpler, rule based process</p></li>
+<li><p>Lemmatization computational more expensive, based on dictionaries</p></li>
+</ul>
+<div class="sphinx-bs container pb-4 docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<p class="card-text">Strongly language dependent</p>
+<ul class="simple">
+<li><p class="card-text">Larger corpora mostly English, thus poorer results for less frequent languages</p></li>
+<li><p class="card-text">For example: No German lemmatizer in standard NLTK</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<p class="card-text">Related links:</p>
+<ul class="simple">
+<li><p class="card-text">Leipzig Corpus Miner (<a class="reference external" href="http://www.epol-projekt.de/tools-nlp/leipzig-corpus-miner-lcm/">LCM</a>)</p></li>
+<li><p class="card-text">Erlangen University <a class="reference external" href="https://www.linguistik.phil.fau.de/resources/demos/">Corpus-Linguistik</a></p>
+<ul>
+<li><p class="card-text">Hanover Tagger <a class="reference external" href="https://github.com/wartaal/HanTa">Source</a></p></li>
+</ul>
+</li>
+<li><p class="card-text">Classical Languages Tool Kit <a class="reference external" href="http://cltk.org">CLTK</a></p></li>
+<li><p class="card-text"><a class="reference external" href="http://conceptnet.io/">ConceptNet</a></p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="parts-of-speech">
+<h3>Parts of Speech<a class="headerlink" href="#parts-of-speech" title="Permalink to this headline">¶</a></h3>
+<div class="sphinx-bs container pb-4 docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<ul class="simple">
+<li><p class="card-text">Recognize the sentence boundaries</p></li>
+<li><p class="card-text">In each sentence, find all tokens</p></li>
+<li><p class="card-text"><em>Lemmatization</em> or <em>Stemming</em> to find roots of tokens</p></li>
+<li><p class="card-text">Identify parts of speech (<em>nouns</em>,<em>verbs</em>, ..) for every transformed token</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-body docutils">
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>import spacy
+nlp = spacy.load(&#39;de_core_news_md&#39;)
+doc = nlp(text) # loaded with Pandas, as before
+tokens = [(token.lemma_,token.pos_) for token in doc]
+tokens[:10]
+
+# output gives
+[(&#39;\n\n                              &#39;, &#39;SPACE&#39;),
+(&#39;der&#39;, &#39;DET&#39;),
+(&#39;Floh&#39;, &#39;NOUN&#39;),
+(&#39;\n\n                              &#39;, &#39;SPACE&#39;),
+(&#39;Im&#39;, &#39;ADP&#39;),
+(&#39;Departement&#39;, &#39;NOUN&#39;),
+(&#39;du&#39;, &#39;PROPN&#39;),
+(&#39;Gard&#39;, &#39;PROPN&#39;),
+(&#39;–&#39;, &#39;PUNCT&#39;),
+(&#39;ganz&#39;, &#39;ADV&#39;)]
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="key-concepts">
+<h3>Key concepts<a class="headerlink" href="#key-concepts" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Concordance</p>
+<ul>
+<li><p>visually ordered list of searched word in context</p></li>
+<li><p>derived from that: Find words with similar context or return the shared context of two or more words</p></li>
+</ul>
+</li>
+<li><p>Collocations</p>
+<ul>
+<li><p>words that often occur together, e.g. “crystal clear” or “nuclear family”</p></li>
+</ul>
+</li>
+<li><p>Expanded version: <em>“n-grams”</em></p>
+<ul>
+<li><p>groups of n words or characters, e.g. character bi-grams “cr”, “ri”, “is”, “st”, “ta”, “al”</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id1">
+<h2>Exercise<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Exercise 3</p>
+<ul>
+<li><p>Use nltk to explore NLP concepts</p></li>
+<li><p>Load all Tucholsky’s text</p>
+<ul>
+<li><p>Use <code class="docutils literal notranslate"><span class="pre">concordance</span></code>, <code class="docutils literal notranslate"><span class="pre">similar</span></code>, <code class="docutils literal notranslate"><span class="pre">collocations</span></code></p></li>
+<li><p>Look for word occurrences over <em>text time</em></p></li>
+</ul>
+</li>
+<li><p>Bonus: Zipf’s law function</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./notebooks/readingdata"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="ReadingData_2.html" title="previous page">Finding and counting words</a>
+    <a class='right-next' id="next-link" href="ReadingData_3_Excercise_NLTK.html" title="next page">Excercise 3:  Working with natural language processing</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Malte Vogl, Vielfalt der Wissensformen, Humboldt-University Berlin & Max-Planck-Institut für Wissenschaftsgeschichte<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../../_static/js/index.3da636dd464baa7582d2.js"></script>
+
+
+    
+  </body>
+</html>

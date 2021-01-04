@@ -1,0 +1,516 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Books as knowledge reservoirs &#8212; Books as knowledge reservoirs</title>
+    
+  <link rel="stylesheet" href="_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="_static/js/index.3da636dd464baa7582d2.js">
+
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "https://github.com/maltevogl/Books-as-knowledge-reservoirs");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Overview" href="notebooks/outline.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="index.html">
+  
+  <img src="_static/wissensformen.jpeg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Books as knowledge reservoirs</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1 current active">
+  <a class="reference internal" href="#">
+   Books as knowledge reservoirs
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Outline
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/outline.html">
+   Overview
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Setup tools and Jupyter
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/basics/cover.html">
+   Tools for the book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/basics/jn.html">
+   Talking with Code
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  From objects to data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/text2data/cover.html">
+   From objects to data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/text2data/Text2Data_1.html">
+   Starting to use Python (and Pandas)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/text2data/Text2Data_2.html">
+   Read all works by Tucholsky
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Reading data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/cover.html">
+   Reading data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/ReadingData_1.html">
+   Load JSONL with pandas
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/ReadingData_2.html">
+   Finding and counting words
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/nlp.html">
+   Natural Language Processing
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/ReadingData_3_Excercise_NLTK.html">
+   Working with NLTK
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/spacy.html">
+   Tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/ReadingData_4_Excercise_Spacy.html">
+   Using Spacy for POS tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="notebooks/readingdata/ReadingData_5_Training_Spacy.html">
+   Training a new spacy model for Tucholsky
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/intro.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#from-critical-distant-reading-to-networks-of-ideas">
+   From critical distant reading to networks of ideas
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#subject">
+     Subject
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#context">
+     Context
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#target-group">
+     Target group
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#outcome">
+     Outcome
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#interactivity">
+   Interactivity
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#annotation-and-highlighting">
+     Annotation and highlighting
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#interactive-binder-instance">
+     Interactive Binder instance
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#source-code">
+     Source code
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#download">
+     Download
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#relevant-reading">
+   Relevant reading
+  </a>
+  <ul class="nav section-nav flex-column">
+  </ul>
+ </li>
+</ul>
+
+        </nav>
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="books-as-knowledge-reservoirs">
+<h1>Books as knowledge reservoirs<a class="headerlink" href="#books-as-knowledge-reservoirs" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="from-critical-distant-reading-to-networks-of-ideas">
+<h2>From critical distant reading to networks of ideas<a class="headerlink" href="#from-critical-distant-reading-to-networks-of-ideas" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="subject">
+<h3>Subject<a class="headerlink" href="#subject" title="Permalink to this headline">¶</a></h3>
+<p>At the core of this online book lies the idea of books as a means of storing knowledge. While we traditionally tap into these reservoirs by <em>getting lost in a good book</em>, the raise of digital methods in humanities gives us new opportunities to have a more quantitative access to textual data. As with any new method and technology, this brings novel types of obstacles, inequalities, and valid criticism.
+The book aims at empowering readers to understand both the possibilities as well as pit-falls of <em>distant reading</em> methods, both statistical and in the field of machine-learning by providing perspectives from the data science and critical theory.</p>
+</div>
+<div class="section" id="context">
+<h3>Context<a class="headerlink" href="#context" title="Permalink to this headline">¶</a></h3>
+<p>The book offers a hands-on approach to every step of the process from OCR, data cleaning, and keyword analysis to building networks of words, persons or places and analyzing them.
+In each step, the specific sources of misinterpretation, finer points of data inequality and current criticisms towards the methods will be discussed. To further open up the black box of digital humanities, readers will be assisted to use open source technologies and encounter aspects of open science, like e.g. data publishing and crowd-assisted humanities.</p>
+</div>
+<div class="section" id="target-group">
+<h3>Target group<a class="headerlink" href="#target-group" title="Permalink to this headline">¶</a></h3>
+<p>The book requires no prior experience in coding or other technical skills. Basic usage of a computer and a personal laptop are required. The interdisciplinary book is aimed at readers from humanities, who are interested in practical knowledge of digital methods, and readers from technical domains, who are interested in critically assessing their digital skills.</p>
+</div>
+<div class="section" id="outcome">
+<h3>Outcome<a class="headerlink" href="#outcome" title="Permalink to this headline">¶</a></h3>
+<div class="margin sidebar">
+<p class="sidebar-title"></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This book started as a seminar for the project <em>Vielfalt der Wissensformen</em> funded by
+the <em>Bundesministerium für Bildung und Forschung</em>.</p>
+</div>
+<a class="reference internal image-reference" href="_images/bmbf.jpeg"><img alt="_images/bmbf.jpeg" src="_images/bmbf.jpeg" style="height: 150px;" /></a>
+</div>
+<p>The readers will get hands-on experience with the full pipeline of distant reading and learn to critically evaluate digital methods in the humanities.
+Readers are encouraged to write an interactive, digital paper on a specific research question developed during reading the book, which will bring the acquired digital humanities knowledge to practical use.</p>
+</div>
+</div>
+<div class="section" id="interactivity">
+<h2>Interactivity<a class="headerlink" href="#interactivity" title="Permalink to this headline">¶</a></h2>
+<p>This documentation allows for several ways of interaction with the content.</p>
+<div class="section" id="annotation-and-highlighting">
+<h3>Annotation and highlighting<a class="headerlink" href="#annotation-and-highlighting" title="Permalink to this headline">¶</a></h3>
+<p>Using the <a class="reference external" href="https://hypothes.is">hypothes.is</a> service, all pages of the document can be annotated or highlighted. This requires an account on <a class="reference external" href="https://hypothes.is">hypothes.is</a>. If you set the visibility of a  comment to public, it will be visible for all audiences.</p>
+</div>
+<div class="section" id="interactive-binder-instance">
+<h3>Interactive Binder instance<a class="headerlink" href="#interactive-binder-instance" title="Permalink to this headline">¶</a></h3>
+<p>Furthermore, the top menu offers access to run the notebooks on a Binder instance offered by <a class="reference external" href="https://notebooks.gesis.org/">GESIS</a>. In these you can change parameters and re-run e.g. the examples. Note that
+due to the file size, some notebooks can not be run on Binder.</p>
+</div>
+<div class="section" id="source-code">
+<h3>Source code<a class="headerlink" href="#source-code" title="Permalink to this headline">¶</a></h3>
+<p>The full source code for this Jupyter Book is available online, see corresponding Github button. If you find problems with the analysis or code, feel free to open an issue using the Issue button.</p>
+</div>
+<div class="section" id="download">
+<h3>Download<a class="headerlink" href="#download" title="Permalink to this headline">¶</a></h3>
+<p>Each page can be downloaded in either text format or as Jupyter Notebook, depending on its source. All data is published as CC-by.</p>
+</div>
+</div>
+<div class="section" id="relevant-reading">
+<h2>Relevant reading<a class="headerlink" href="#relevant-reading" title="Permalink to this headline">¶</a></h2>
+<p>Bolukbasi, T. et at. (2016). “Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings”. Proc. Neural Information Processing Systems. <a class="reference external" href="https://arxiv.org/pdf/1607.06520.pdf">URL</a></p>
+<p>Caliskan, A.; Bryson, J. J.,; Narayanan, A. (2017). “Semantics derived automatically from language corpora contain human-like biases”. Science 356 (6334), 183-186, <a class="reference external" href="http://dx.doi.org/10.1126/science.aal4230">URL</a></p>
+<p>Campbell, S., Yu, Z., Connell, S., and Dunne, C. (2018). “Close and Distant Reading via Named Entity Network Visualization: A Case Study of Women Writers Online”. Proc. 3rd Workshop on Visualization for the Digital Humanities (VIS4DH), <a class="reference external" href="http://vis4dh.dbvis.de/papers/2018/Close%20and%20Distant%20Reading%20via%20Named%20Entity%20Network%20Visualization%20A%20Case%20Study%20of%20Women%20Writers%20Online.pdf">URL</a></p>
+<p>Düring, M. (2015). “From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources”. The Programming Historian 4, <a class="reference external" href="https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources">URL</a></p>
+<p>Hovy, D. and Spruit, S.L. (2016). “The Social Impact of Natural Language Processing”, Proc. Association for Computational Linguistics (ACL) 591-598, <a class="reference external" href="https://www.aclweb.org/anthology/P16-2096.pdf">URL</a></p>
+<p>Lavin, M.J. (2019). “Analyzing Documents with TF-IDF”. The Programming Historian 8, <a class="reference external" href="https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf">URL</a></p>
+<p>Leek, J.T. and Peng, R.D. (2015). “Reproducible research can still be wrong”, PNAS 112 (6), 1645-1646. <a class="reference external" href="https://doi.org/10.1073/pnas.1421412111">URL</a></p>
+<p>Simanowski, R., ed. (2016). Digital Humanities and Digital Media: Conversations on Politics, Culture, Aesthetics and Literacy. Open Humanities Press, <a class="reference external" href="http://www.openhumanitiespress.org/books/titles/digital-humanities-and-digital-media">URL</a></p>
+<p>Underwood, T. (2017). “A Genealogy of Distant Reading”. Digital Humanities Quarterly 11.2, <a class="reference external" href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html">URL</a></p>
+<p>Walsh, B. and Horowitz, S. (2016). Introduction to Text Analysis: A Coursebook. Github, <a class="reference external" href="https://walshbr.com/textanalysiscoursebook/">URL</a></p>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='right-next' id="next-link" href="notebooks/outline.html" title="next page">Overview</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Malte Vogl, Vielfalt der Wissensformen, Humboldt-University Berlin & Max-Planck-Institut für Wissenschaftsgeschichte<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="_static/js/index.3da636dd464baa7582d2.js"></script>
+
+
+    
+  </body>
+</html>
