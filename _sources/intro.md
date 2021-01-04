@@ -35,6 +35,9 @@ This documentation allows for several ways of interaction with the content.
 ### Annotation and highlighting
 Using the [hypothes.is](https://hypothes.is) service, all pages of the document can be annotated or highlighted. This requires an account on [hypothes.is](https://hypothes.is). If you set the visibility of a  comment to public, it will be visible for all audiences.
 
+### Commenting on full page
+Using the [Utterances app](https://github.com/utterance/utterances) you can comment on the bottom of each page. Comments are saved as Issues in Github and can be the basis of a discussion on methods or data, leading to changes and improvements in this book.
+
 ### Interactive Binder instance
 Furthermore, the top menu offers access to run the notebooks on a Binder instance offered by [GESIS](https://notebooks.gesis.org/). In these you can change parameters and re-run e.g. the examples. Note that
 due to the file size, some notebooks can not be run on Binder.
