@@ -1,0 +1,23 @@
+- file: intro
+- part: Outline
+  chapters:
+    - file: notebooks/outline
+- part: Setup tools and Jupyter
+  chapters:
+    - file: notebooks/basics/cover
+    - file: notebooks/basics/jn
+- part: From objects to data
+  chapters:
+    - file: notebooks/text2data/cover
+    - file: notebooks/text2data/Text2Data_1.ipynb
+    - file: notebooks/text2data/Text2Data_2.ipynb
+- part: Reading data
+  chapters:
+    - file: notebooks/readingdata/cover
+    - file: notebooks/readingdata/ReadingData_1.ipynb
+    - file: notebooks/readingdata/ReadingData_2.ipynb
+    - file: notebooks/readingdata/nlp
+    - file: notebooks/readingdata/ReadingData_3_Excercise_NLTK.ipynb
+    - file: notebooks/readingdata/spacy
+    - file: notebooks/readingdata/ReadingData_4_Excercise_Spacy.ipynb
+    - file: notebooks/readingdata/ReadingData_5_Training_Spacy.ipynb

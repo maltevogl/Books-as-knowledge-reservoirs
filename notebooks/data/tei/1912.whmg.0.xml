@@ -1,0 +1,979 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:whmg.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61C5-B</idno><idno type="textgrid">textgrid:wj8g.0</idno></publicationStmt><sourceDesc/></fileDesc></teiHeader><teiCorpus corresp="textgrid:wggh.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Hinrichtung</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5BE2-7</idno><idno type="textgrid">textgrid:wggh.0</idno><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg11.wggj.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1912/Hinrichtung">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Hinrichtung</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5BE3-5</idno><idno type="TextGridUri">textgrid:wggj.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>45-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <head type="h2" xml:id="tg10.2.1.wggj.0">1912</head>
+                        <pb n="43" xml:id="tg10.2.2.wggj.0"/> 
+                        <pb type="start" n="45" xml:id="tg10.2.3.wggj.0"/>
+                        <lb xml:id="tg10.2.4.wggj.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg11.2.wggj.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg11.2.1.wggj.0">Hinrichtung</head>
+
+                              <p xml:id="tg11.2.2.wggj.0">Sachsen, das sich in Dingen der Verwaltung und Justiz durch ein Unmaß von Gemüt auszeichnet, ist für jede Opposition von nicht zu unterschätzender agitatorischer Bedeutung. So hat es jüngst wieder bei einer Hinrichtung eines Raubmörders wertvolles Material zur Abschaltung der Todesstrafe geliefert.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg11.2.3.wggj.0">Um sich die Szene zu vergegenwärtigen, muß man sich abgewöhnen, bei dem Wort ›Gefängnishof‹ an etwas Außerordentliches zu denken. Ein Gefängnishof ist schließlich ein Hof wie jeder andere, nur fehlt die Teppichklopfstange, und er wirkt vielleicht ein bißchen grau und Trübselig durch die Gitter, mit denen die Hoffenster der umliegenden Gebäude versehen sind. Aber er ist doch ein Hof, mit Steinen gepflastert, er steht auf ebenderselben Erde wie wir . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg11.2.4.wggj.0"> Nun denke man sich, eine Tür öffnet sich und sie zerren einen Menschen heraus, der soll sterben und will nicht. (Sein Opfer wollte es auch nicht – also wozu die Scheußlichkeit wiederholen? –) Der Staatsanwalt, Beamter bis in die Schnurrbartspitzen, liest dem Halbirren, vor Angst Vertierten, etwas vor, » . . . von seinem Begnadigungsrecht keinen Gebrauch gemacht« . . . er wird überbrüllt, überkreischt von dem Tollen, der sich abquält und sich windet unter den Fäusten der Scharfrichterknechte. Dieser hier (Göhlert hieß er wohl) rief zum Beispiel, man habe ihn unschuldig verurteilt, die Justiz solle sich das merken, er habe das auch an seine Frau geschrieben, irres Zeug, hervorgesprudelt von einem Tier, einem Tier.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg11.2.5.wggj.0"> Unter den Zuschauern befanden sich drei Söhne und ein Schwiegersohn der Ermordeten! – Ich bin überzeugt, es war auch ein Pfaffe da mit der Bibel: Richtet nicht, auf daß ihr nicht gerichtet werdet! – Was die Söhne wohl bei dieser Scheußlichkeit gedacht haben? – Rache? Befriedigung? –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg11.2.6.wggj.0"> Im ganzen waren es diesmal nur 60 (sechzig) Zuschauer, Bei Grete Beier fand ja ein kleines Volksfest statt: damals zierten 200 den Hof.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg11.2.7.wggj.0"> Diesmal war es ein kleines, aber gewähltes Publikum, das den spannenden Vorgängen auf der Bühne mit Interesse folgte und nach Schluß der Aufforderung der Beamten Folge leistend, sogleich den Hof verließ.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg11.2.8.wggj.0"> Also: eine mäßige Vorstellung.</p>
+                              <lb xml:id="tg11.2.9.wggj.0"/>
+                              <byline xml:id="tg11.2.10.wggj.0">
+                                 <seg xml:id="tg11.2.10.1.wggj.0">
+· K.T.<lb xml:id="tg11.2.10.1.1.wggj.0"/>
+Vorwärts, 07.02.1912.</seg>
+                              </byline>
+                              <lb xml:id="tg11.2.11.wggj.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wh4r.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Rotundenzensur in Königsberg</title><title>Hinrichtung</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5E11-7</idno><idno type="textgrid">textgrid:wh4r.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg12.wh4s.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1912/Rotundenzensur in Königsberg">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Rotundenzensur in Königsberg</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5E10-9</idno><idno type="TextGridUri">textgrid:wh4s.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>45-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg12.2.wh4s.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg12.2.1.wh4s.0">Rotundenzensur in Königsberg</head>
+
+                              <lg>
+                                 <l xml:id="tg12.2.2.wh4s.0">Die hiesige Garnisonverwaltung –</l>
+                                 <l xml:id="tg12.2.3.wh4s.0">(wir sind schon weit in der Kultur)</l>
+                                 <l xml:id="tg12.2.4.wh4s.0">die brauchte zwecks Toilettegestaltung</l>
+                                 <l xml:id="tg12.2.5.wh4s.0">Papier – und zwar Makulatur.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg12.2.6.wh4s.0"/>
+                                 <pb n="45" xml:id="tg12.2.7.wh4s.0"/> 
+                                 <l xml:id="tg12.2.8.wh4s.0">Doch darf kein Blatt von jener Sorte,</l>
+                                 <l xml:id="tg12.2.9.wh4s.0">so roh, so rot und so verderbt</l>
+                                 <l xml:id="tg12.2.10.wh4s.0">darunter sein –</l>
+                                 <l xml:id="tg12.2.11.wh4s.0">An solchem Orte</l>
+                                 <l xml:id="tg12.2.12.wh4s.0">kann man nie wissen, ob das färbt.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg12.2.13.wh4s.0"/>
+                                 <l xml:id="tg12.2.14.wh4s.0">Ertappt man etwa die Rekruten,</l>
+                                 <l xml:id="tg12.2.15.wh4s.0">und lesen sie solch ein Traktat,</l>
+                                 <l xml:id="tg12.2.16.wh4s.0">und grad, wenn sie – Reveille tuten:</l>
+                                 <l xml:id="tg12.2.17.wh4s.0">das wäre glatter Hochverrat!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg12.2.18.wh4s.0"/>
+                                 <l xml:id="tg12.2.19.wh4s.0">Wir dürfen dieses nicht beklagen! –</l>
+                                 <l xml:id="tg12.2.20.wh4s.0"> . . . <hi rend="italic" xml:id="tg12.2.20.1.wh4s.0">›Kreuzzeitung‹ . . . ›Post‹</hi> – nun – weg ist weg!</l>
+                                 <l xml:id="tg12.2.21.wh4s.0">Und sie erreichen sozusagen</l>
+                                 <l xml:id="tg12.2.22.wh4s.0">den eigentlichen Bestimmungszweck.</l>
+                              </lg>
+                              <lb xml:id="tg12.2.23.wh4s.0"/>
+                              <byline xml:id="tg12.2.24.wh4s.0">
+                                 <seg xml:id="tg12.2.24.1.wh4s.0">
+· Kurt<lb xml:id="tg12.2.24.1.1.wh4s.0"/>
+Vorwärts, 17.02.1912, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg12.2.25.wh4s.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wg4v.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Streikjustiz</title><title>Rotundenzensur in Königsberg</title><title>Hinrichtung</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5ACA-5</idno><idno type="textgrid">textgrid:wg4v.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>46-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg13.wg4w.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1912/Streikjustiz">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Streikjustiz</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5ACB-3</idno><idno type="TextGridUri">textgrid:wg4w.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>46-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg13.2.wg4w.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg13.2.1.wg4w.0">Streikjustiz</head>
+
+                              <lg>
+                                 <l xml:id="tg13.2.2.wg4w.0">Du siehst sie durchs Gefilde hupfen:</l>
+                                 <l xml:id="tg13.2.3.wg4w.0">die Wangen angenehm verpudert,</l>
+                                 <l xml:id="tg13.2.4.wg4w.0">frech, nicht mehr jung, und auch verludert,</l>
+                                 <l xml:id="tg13.2.5.wg4w.0">verschminkt . . . zwei rosarote Tupfen . . .</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg13.2.6.wg4w.0"/>
+                                 <l xml:id="tg13.2.7.wg4w.0">Die Waage wackelt hin und her.</l>
+                                 <l xml:id="tg13.2.8.wg4w.0">Das Schwert – mein Gott – es ist aus Pappe,</l>
+                                 <l xml:id="tg13.2.9.wg4w.0">sie trägt es scherzhaft als Attrappe,</l>
+                                 <l xml:id="tg13.2.10.wg4w.0">ein eisernes ist ihr zu schwer.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg13.2.11.wg4w.0"/>
+                                 <l xml:id="tg13.2.12.wg4w.0">Sie richtet so! O ja – man siehts!</l>
+                                 <l xml:id="tg13.2.13.wg4w.0">die schwarzen, hohen Stöckelschuhe</l>
+                                 <l xml:id="tg13.2.14.wg4w.0">zertrampeln alles – schaffen Ruhe.</l>
+                                 <l xml:id="tg13.2.15.wg4w.0">So tänzelt Fräulein Streikjustiz.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg13.2.16.wg4w.0"/>
+                                 <l xml:id="tg13.2.17.wg4w.0">Es raschelt des Talars Frou-Frou . . .</l>
+                                 <l xml:id="tg13.2.18.wg4w.0">– »Du trugst doch früher eine Binde?«</l>
+                                 <l xml:id="tg13.2.19.wg4w.0">– »Die hab ich noch! Dem, den ich finde,</l>
+                                 <l xml:id="tg13.2.20.wg4w.0">schnür ich damit die Kehle zu!« –</l>
+                              </lg>
+                              <lb xml:id="tg13.2.21.wg4w.0"/>
+                              <byline xml:id="tg13.2.22.wg4w.0">
+                                 <seg xml:id="tg13.2.22.1.wg4w.0">
+                                    <pb n="46" xml:id="tg13.2.22.1.1.wg4w.0"/> · Kurt<lb xml:id="tg13.2.22.1.2.wg4w.0"/>
+Dresdner Volkszeitung, 01.04.1912, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg13.2.23.wg4w.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wj8s.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Mehr Fotografien!</title><title>Streikjustiz</title><title>Rotundenzensur in Königsberg</title><title>Hinrichtung</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61CC-E</idno><idno type="textgrid">textgrid:wj8s.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>47-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>46-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg14.wj8q.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1912/Mehr Fotografien!">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Mehr Fotografien!</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-61CD-C</idno><idno type="TextGridUri">textgrid:wj8q.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>47-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg14.2.wj8q.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg14.2.1.wj8q.0">Mehr Fotografien!</head>
+
+                              <p xml:id="tg14.2.2.wj8q.0">Im berliner Gewerkschaftshaus hängen an den Wänden Fotografien verstümmelter Hände. Betriebsunfälle der Holzarbeiter. Sie wirken: das rüttelt die Gleichgültigsten auf, bis weit nach rechts setzt es schmierige Feuilletons.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg14.2.3.wj8q.0">So etwas verdient Nachahmung. So ein Blatt mit den halbierten Fingern redet (agitatorisch) mehr als Statistik, Berichte, als die aufreizendsten Reden. Mehr Fotografien! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg14.2.4.wj8q.0"> Es gibt schon welche. In der Wohnungsenquete der Ortskrankenkasse für den Gewerbebetrieb der Kaufleute sind einige Wohnungsaufnahmen, die den Unkundigen erblassen machen – sie sind noch zu mild, zu abgetönt, in Wirklichkeit ist es schlimmer. Aber sie wirken. Da ist eins – 1911 –: ich überlege mir immer, wenn ich es sehe, warum man es nicht längst verwertet hat; In einer Küche – 4,00 m, 2,75 m, 2,60 m – arbeiten vier Personen, darunter zwei schulpflichtige Kinder – an der Herstellung von Knallbonbons . . . Dreck, Unordnung, schlechte Luft . . . Warum nimmt man dies Bild nicht, fotografiert eine bürgerliche Hochzeitsgesellschaft, einen Tanz – und netzt beide nebeneinander? – Ganz ohne Text, oder vielleicht nur: Hier muß jeder nach seiner Façon selig werden! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg14.2.5.wj8q.0"> Wir brauchen viel mehr Fotografien. Eine Agitation kann gar nicht schlagfertiger geführt werden. Da gibt es keine Ausreden – so war es, und damit basta.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg14.2.6.wj8q.0"> Wie wäre es mit einer Aufnahme von Sistierungen in Berlin? – Oder: Streikposten und Polizei. Oder: Der Feldwebel Kornischke bei der Rekrutenausbildung, Oder eine Hinrichtung . . . ?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg14.2.7.wj8q.0"> Nichts beweist mehr, nichts peitscht mehr auf als diese Bilder. Es gibt so wenige, zerstreut, durch Zufall entstanden. Das ist nichts. Systematisch muß gezeigt werden: so wird geprügelt, und so wird erzogen, so werdet ihr behandelt, und so werdet ihr bestraft. Mit Gegensätzen und Gegenüberstellungen. Und mit wenig Text. Etwa eine Serie: Illustrierte Kaiserworte . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg14.2.8.wj8q.0"> Ungeahnte Möglichkeiten eröffnen sich: Bethmann, das Deutsche Reich regierend. Oder; Wilhelm II., ein Todesurteil unterschreibend. Oder noch höher: Jagow, einen vernünftigen Erlaß diktierend. Aber freilich: Das Unmögliche kann man nicht fotografieren . . .</p>
+                              <lb xml:id="tg14.2.9.wj8q.0"/>
+                              <byline xml:id="tg14.2.10.wj8q.0">
+                                 <seg xml:id="tg14.2.10.1.wj8q.0">
+· tu.<lb xml:id="tg14.2.10.1.1.wj8q.0"/>
+Vorwärts, 28.06.1912.</seg>
+                              </byline>
+                              <lb xml:id="tg14.2.11.wj8q.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:whzs.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Amerika heute und morgen</title><title>Mehr Fotografien!</title><title>Streikjustiz</title><title>Rotundenzensur in Königsberg</title><title>Hinrichtung</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-60CA-9</idno><idno type="textgrid">textgrid:whzs.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>47-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>47-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>46-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg15.whzv.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1912/Amerika heute und morgen">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Amerika heute und morgen</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-60CB-7</idno><idno type="TextGridUri">textgrid:whzv.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>47-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg15.2.whzv.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg15.2.1.whzv.0">Amerika heute und morgen</head>
+
+                              <p xml:id="tg15.2.2.whzv.0">Arthur Holitscher, den Thomas Mann in einem wundervollen Prosastück zu einem sich selbst genügenden Ästheten namens Spinell verarbeitet hat, hat eine amerikanische Reise gemacht und darüber berichtet. <pb n="47" xml:id="tg15.2.2.1.whzv.0"/> (S. Fischer, Verlag.) Und wie hat er berichtet! – Spinell ist tot, es lebe Arthur Holitscher! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.3.whzv.0">Was ist es mit diesem Amerika? – Lies hundert Bücher über der Deutschen Verwaltung, Sitten, Gebräuche, Wirtschaftsformen, höre Kollegs, sieh dir Fotografien an, und du wirst doch nicht, hast du deinen Wohnsitz anderswo, die Luft riechen, das spezifisch Deutsche erfassen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.4.whzv.0"> Was wußte Holitscher, als er, der Fremde, das ungeheure Land Amerika aufsuchte. Und es kommt auch gar nicht darauf an, ob er in der subtilsten Frage, die es drüben gibt, der Rassenfrage, recht hat oder nicht, ob Ellis-Eiland, die Burg gegen die Einwandererströme, wirklich eine Notwendigkeit ist, ob die Kinderrepublik in Freeville eine Farce ist oder eine Wohltat, – darüber mag man in Spezialwerken nachlesen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.5.whzv.0"> Aber daß endlich mal einer uns diesen Begriff ›Amerika‹ auflöst in hundert kleine menschliche Einzelzüge – das ist es. Wie wir nun nach zwanzig, dreißig Bildern, Impressionen merken, wie drüben auch mit Wasser gekocht wird, wie sie dort arbeiten und fröhlich sind und zerwalkt werden und in ihrem rasenden Tempo nicht einhalten, bis – zu Ende. Wie alles so anders ist als bei uns. Und das ist das Gute an diesem Buch: daß Holitscher nicht in unserem Maßstabe mißt, weil er weiß, daß Psychologie und Wirtschaftsform sich gegenseitig bedingen, weil er mit etwas völlig Neuem das völlig Neue, Andersgeartete mißt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.6.whzv.0"> Der Absatz <hi rend="italic" xml:id="tg15.2.6.1.whzv.0">›Chicago‹</hi> war ja hier abgedruckt und zeigte schon die ganze Kunst, ohne ermüdende Einzelheiten den Kern zu geben, aber nicht mit der unverschämten Sicherheit des Zugereisten, sondern zweifelnd, vorsichtig, voll Skepsis.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.7.whzv.0"> Wie lebt alles, was er schrieb! Die Schulen, die großen Volksbildungsanstalten, die Sporthallen (die übrigens nie von Holitscher beweihräuchert werden, sondern immer als das betrachtet werden, was sie sind: als Tropfen auf den heißen Stein Kapitalismus).</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.8.whzv.0"> Dieses Buch ist anders als alle anderen: J. V. Jensen war drüben und hat mit scharfen Augen gesehen und – nicht gesehen und hat mit seiner Stahlhand ein Amerika geformt, das es nicht gibt –, auch er hat begriffen, aber hinzugefügt <hi rend="italic" xml:id="tg15.2.8.1.whzv.0">(›Die neue Welt‹</hi>. Essays. S. Fischer, Verlag). Wolzogen war drüben und hat geschwätzig über Äußerlichkeiten berichtet – niemand, niemand fand diesen Ton.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.9.whzv.0"> New York, die Wolkenkratzer, und das Essen da und die Schutzleute und Wahltage in kleinen Nestern, Kanada, dies ungeheure Landreservoir, die Landstreicher . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.10.whzv.0"> Und all das untermischt mit fabelhaft geschickten Fotografien, Gegenüberstellungen, wie sie bei uns viel zu wenig gemacht werden; z.B. <hi rend="italic" xml:id="tg15.2.10.1.whzv.0">›Arbeitswillig‹</hi> und <hi rend="italic" xml:id="tg15.2.10.2.whzv.0">›Verbraucht‹</hi>, und Gruppenaufnahmen: <hi rend="italic" xml:id="tg15.2.10.3.whzv.0">›Solche Leute braucht der Westen‹</hi>, Männer voll unheimlicher Kraft <pb n="48" xml:id="tg15.2.10.4.whzv.0"/> und Energie, die noch in den Überschüssen, in der maßlosen Korruption erkennen lassen, wie wertvoll die richtiggeleiteten Kräfte sein würden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg15.2.11.whzv.0"> Lest dies Buch: so sieht es drüben aus. Lest dies Buch: so sieht einer die Welt.</p>
+                              <lb xml:id="tg15.2.12.whzv.0"/>
+                              <byline xml:id="tg15.2.13.whzv.0">
+                                 <seg xml:id="tg15.2.13.1.whzv.0">
+                                    <pb n="49" xml:id="tg15.2.13.1.1.whzv.0"/> · tu.<lb xml:id="tg15.2.13.1.2.whzv.0"/>
+Vorwärts, 08.11.1912.</seg>
+                              </byline>
+                              <lb xml:id="tg15.2.14.whzv.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wm49.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Rheinsberg</title><title>Amerika heute und morgen</title><title>Mehr Fotografien!</title><title>Streikjustiz</title><title>Rotundenzensur in Königsberg</title><title>Hinrichtung</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1912</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-67DD-3</idno><idno type="textgrid">textgrid:wm49.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>50-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>47-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>47-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>46-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>45-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg16.wm4b.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1912/Rheinsberg">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Rheinsberg</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-67DE-1</idno><idno type="TextGridUri">textgrid:wm4b.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>50-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg16.2.wm4b.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg16.2.1.wm4b.0">Rheinsberg</head>
+
+                              <head type="h4" xml:id="tg16.2.2.wm4b.0">ein Bilderbuch für Verliebte</head>
+
+                              <milestone unit="head_start"/>
+                                 <p rend="zenoPR" xml:id="tg16.2.3.wm4b.0">Unsern lieben Frauen</p>
+                                 <p rend="zenoPR" xml:id="tg16.2.4.wm4b.0">M. W.</p>
+                                 <p rend="zenoPR" xml:id="tg16.2.5.wm4b.0">K. F.</p>
+                                 <p rend="zenoPR" xml:id="tg16.2.6.wm4b.0">C. P.</p>
+                              <milestone unit="head_end"/>
+                              <lb xml:id="tg16.2.7.wm4b.0"/>
+                              <p rend="zenoPLm20n20" xml:id="tg16.2.8.wm4b.0"> . . . das beginnt nach der Liebeserfüllung; nicht vorher. Da entfalten die Seelen ihre volle Stärke, nicht vorher. Da geht der Kampf in voller Rüstung, nicht vorher. Da stehen die Charaktere auf gleichem Feld, nicht vorher. Da sind die Schranken zwischen zwei Menschen dahin, da erst, nicht vorher.</p>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPR" xml:id="tg16.2.9.wm4b.0">Alfred Kerr</p>
+                              <milestone unit="hi_end"/>
+                              <lb xml:id="tg16.2.10.wm4b.0"/>
+                              <lg>
+                                 <l rend="zenoPLm20n20" xml:id="tg16.2.11.wm4b.0">Müde und bekränzt streckt sich der Sommer ins Gras.</l>
+                              </lg>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPR" xml:id="tg16.2.12.wm4b.0">Heinrich Mann</p>
+                              <milestone unit="hi_end"/>
+                              <lb xml:id="tg16.2.13.wm4b.0"/>
+                              <p xml:id="tg16.2.14.wm4b.0">Seinen eigentlichen Anfang nahm das Abenteuer erst, als sie in Löwenberg ausstiegen. Der D-Zug ruhte lang und dunkel in der Halle unter dem Holzdach – sie durchschritten einen Tunnel, oben, in hellem Sonnenlicht, stand die Kleinbahn, wie aus Holz gefügt, steif und verspielt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.15.wm4b.0">Sie stiegen ein.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.16.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.17.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.18.wm4b.0"> »Diese Bahn scheint noch lange hier zu stehen . . . machen wir einen kleinen Spaziergang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.19.wm4b.0"> »Setz dich hin und falte die Hände! Sie geht gleich ab.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.20.wm4b.0"> Der Zug ruckte und ruckelte sich gemächlich durch Salatgärten, Hofmauern. Der Horizont flimmerte blendend weiß . . . War es eine Schönheit, diese Landschaft? – Nein: da standen Baumgruppen, durch nichts ausgezeichnet, das Land wurde wellig in der Ferne, versteckte ein Wäldchen und zeigte ein anderes – man freute sich im Grunde, daß alles da war . . . Das Maschinchen schnob und klingelte zornig, durch den staubigen Rauch hindurch klingelte es melodisch, wie eine läutende Kirchturmsglocke bei Sturm.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.21.wm4b.0"> »Wolf, den Reiseführer!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.22.wm4b.0"> Sie hatten ihn im D-Zug liegen lassen – er hatte ihn im D-Zug liegen lassen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.23.wm4b.0"> Sie hielten, mitten im Walde, auf der Strecke. Die Köpfe heraus; die Beamten waren zurückgelaufen, hatten Schaufeln mitgenommen: die <pb n="50" xml:id="tg16.2.23.1.wm4b.0"/> Lokomotive mußte Funken ausgeworfen haben, ein kleiner Brand war entstanden . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.24.wm4b.0"> »Ich will mitlöschen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.25.wm4b.0"> Er kugelte den sandigen Abhang herunter; die Reisenden lachten. Oben stand Claire und verdrehte die Augen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.26.wm4b.0"> »Du mußt ja . . . !«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.27.wm4b.0"> Er kam zurück, ganz bestaubt, lächelnd, glücklich. Er hatte sich wieder einmal betätigt. Die Beamten kamen, stiegen auf, der Zug ruckte an . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.28.wm4b.0"> »Eigentlich . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.29.wm4b.0"> »Na?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.30.wm4b.0"> »Ich finde es heiter. Denk mal, mein Papa und mein Mama sitzen jetzt im Kontor, fahren in der Stadt herum und glauben ihr Töchterchen wohlgeborgen im Schoße der treusorgenden Freundin. Hingegen . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.31.wm4b.0"> »Hingegen . . . ?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.32.wm4b.0"> »Na, ja, treusorgen sorgst du ja für mich . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.33.wm4b.0"> Der Jäger nebenan hatte schon lange in sich hineingelacht. Er saß da, grün, bepackt, schwer und braungebrannt. Man hatte, wenn man ihn sah, die Empfindung von ganz frühen, feuchten Morgen, ein Mann tappt durch den halbdunklen Wald, es riecht kräftig und gut . . . Das kleine, runde Loch der Büchse guckte unheilverkündend, schwarz und dunkel in die Luft: kleine Kugeln werden herausfliegen, das Reh, auf das es morgen gerichtet wird, lief vielleicht jetzt gerade mit seinen Gefährten zur Quelle, trank und war zierlich im Walde verschwunden . . . Der Jäger stand auf, stopfte sich eine Pfeife und sagte beim Herausgehen: »Schonzeit, junger Mann, Schonzeit!« – und trampfte lachend davon.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.34.wm4b.0"> Das Coupé war erfüllt von ihrem Schreien, das die rumpelnden und klirrenden Geräusche übertönen sollte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.35.wm4b.0"> Man verständigte sich nur schwer:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.36.wm4b.0"> » . . . Sonne weit über das Land . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.37.wm4b.0"> » . . . wie? Sonne reit über das Land? . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.38.wm4b.0"> » . . . nein . . . Sonne weeiit . . . Land . . . Seh mal: 'ne Akazie! 'ne blühende Akazie, lauter blühende Akazien!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.39.wm4b.0"> »Is gar keine, is 'ne Magnolie!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.40.wm4b.0"> »Hach! Also wer weiß denn von uns beiden in der Botanik Bescheid? Ich oder ich?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.41.wm4b.0"> »'ne Magnolie is es.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.42.wm4b.0"> »Meine Liebe, ich müßte bedauern, es mit einem kräftig gefaßten Schlag gegen Sie nicht bewenden lassen zu können. Alle Wesensmerkmale der Akazie deuten auch bei diesen Bäumen auf eine solche hin.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.43.wm4b.0"> »Is aber 'ne Magnolie.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.44.wm4b.0"> »Herr Gott, Claire! Siehst du denn nicht diese typisch ovalen Blätter, die weißen, kleinen, traubenförmigen Blütenstiele! – Mädchen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.45.wm4b.0">
+                                 <pb n="51" xml:id="tg16.2.45.1.wm4b.0"/> »Aber . . . Wölfchen . . . wo es doch 'ne Magnolie is . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.46.wm4b.0"> Sie erstickte in Küssen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.47.wm4b.0"> Dann galt es noch eine Bauersfrau nachzuahmen, die auf der letzten Station hochgeschürzt und breitbeinig stehengeblieben war, um sich vermittels ihres zweiten Unterrocks zu schneuzen. Claire erwies sich hierbei als geschickt und brauchbar.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.48.wm4b.0"> Endlich kamen sie aber doch an.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.49.wm4b.0"> Es zeigte sich, daß das Hotel, das sich schon durch einen Anschlag im Zuge als altbekannt und mit einer gepflegten Küche versehen angepriesen hatte, durch einen Wagen, zwei Pferde und einen Bediensteten vertreten war. Dieser Mann mußte die Gepäckstücke holen, die man in Berlin sorgfältig aufgegeben hatte: zwei winzig kleine Köfferchen. Sie wurden verladen; die Reisenden stiegen ein. Sie rutschten auf den schwarzen, hier und da ein wenig aufgeplatzten Wachstuchkissen der Sitze herum; die Fenster klirrten, die beiden machten sich durch weitausladende Handbewegungen verständlich. Der Wagen war leer, die Chaussee staubig und öde. Einige hundert Meter saßen sie manierlich, aber schon an der Ecke, die das Anwesen des Gütlers Johannes Lauterbach und das der Post bilden, lagen sie in lautem Hader, wessen Koffer durch seine Kleinheit am meisten Verdacht erregen werde. Sie nannten diese Reisegegenstände ›Segelschweine‹, und die Claire rang die Hände, Wolf sei ein Schandfleck. Sie, ihrerseits, wahre das Dekorum. Sie schwatzten fortwährend, die Claire am heftigsten. Ihr Deutsch war ein wenig aus der Art geschlagen. Sie hatte sich da eine Sprache zurechtgemacht, die im Prinzip an das Idiom erinnerte, in dem kleine Kinder ihre ersten lautlichen Verbindungen mit der Außenwelt herzustellen suchen; sie wirbelte die Worte so lange herum, bis sie halb unkenntlich geworden waren, ließ hier ein ›T‹ aus, fügte da ein ›S‹ ein, vertauschte alle Artikel, und man wußte nie, ob es ihr beliebte, sich über die Unzulänglichkeit einer Phrase oder über die andern lustig zu machen. Daß sie Medizinerin war, wie sie zu sein vorgab, war kaum glaubhaft, jedoch mit der Wahrheit übereinstimmend. Sie spielte immer, gab stets irgendeiner lebenden oder erdachten Gestalt für einige Augenblicke Wirklichkeit . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.50.wm4b.0"> Der Wagen hielt. Während sie ausstiegen:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.51.wm4b.0"> »Paß auf, Frauchen, wo ist der Koffer mit dem falschen Geld? – Ah da . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.52.wm4b.0"> Der Hausknecht ließ den Mund weit offen stehen, sperrte die Augen auf . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.53.wm4b.0"> Freundlich geleitete sie der alte Wirt in ein Zimmer des ersten Stockwerks. Es war kahl, einfach, blumig tapeziert. Holzbetten standen darin, ein großer Waschtisch, eine Vase mit einem künstlichen Blumenstrauß – an der Wand hingen zwei Pendants: ›Eroberung Englands durch die Normannen‹, und in gleichartigem Rahmen und symmetrisch aufgehängt<pb n="52" xml:id="tg16.2.53.1.wm4b.0"/> ›Großpapachens 70. Geburtstag‹. Die Tür schloß sich, sie waren allein.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.54.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.55.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.56.wm4b.0"> »Jetzt weiß ich nicht, sollte ich den Kofferschlüssel zu Hause vergessen haben . . . ?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.57.wm4b.0"> »My honey-suckle«, und sie drückte ihm einen heftigen Kuß auf den Mund, während ihr Gesicht rachsüchtig und boshaft erglänzte, und stieß ihn von sich:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.58.wm4b.0"> »Och, der kleine Jungchen muß ja alles vergess – psch, psch, psch . . . « Und man wußte nicht, ob diese Töne eine wiegende Mutter nachahmten oder ganz etwas anderes.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.59.wm4b.0"> »Pack aus, mein Hulle-Pulle!« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.60.wm4b.0"> Schwer seufzend packten sie aus, räumten ein.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.61.wm4b.0"> »Ja, ich bin nu so weit. Jetzt frisiere ich mich, un denn gehe ich spaziers. Un du?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.62.wm4b.0"> »Das überlasse du nur mir; es wird dir dann seinerzeit das Nötige mitgeteilt werden.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.63.wm4b.0"> Der Stil war im großen und ganzen einheitlich verzerrt. Sie sagten sich häufig Dinge, die nicht recht zueinander paßten, nur um diese oder jene Redewendung anbringen zu können, den andern zu irritieren, sein Gleichgewicht zu erschüttern . . . Sie gingen herunter . . .</p>
+                              <lb xml:id="tg16.2.64.wm4b.0"/>
+                              <p xml:id="tg16.2.65.wm4b.0">Da war der Marktplatz, der mit alten, sehr niedrigen Bäumen bepflanzt war, schattig und still lag er da. Sie schritten durch ein schmiedeeisernes Tor in den Park. Hier war es ruhig. In dem einfachen weißen Bau des Schlosses klopfte ein Handwerker. Sie gingen durch den Hof wieder in den Park, wieder in die Stille . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.66.wm4b.0">Noch brausten und dröhnten in ihnen die Geräusche der großen Stadt, der Straßenbahnen, Gespräche waren noch nicht verhallt, der Lärm der Herfahrt . . . der Lärm ihres täglichen Lebens, den sie nicht mehr hörten, den die Nerven aber doch zu überwinden hatten, der eine bestimmte Menge Lebensenergie wegnahm, ohne daß man es merkte . . . Aber hier war es nun still, die Ruhe wirkte lähmend, wie wenn ein regelmäßiges, langgewohntes Geräusch plötzlich abgestellt wird. Lange sprachen sie nicht, ließen sich beruhigen von den schattigen Wegen, der stillen Fläche des Sees, den Bäumen . . . Wie alle Großstädter bewunderten sie maßlos einen einfachen Strauch, überschätzten seine Schönheit und ohne das Praktische aller sie umgebenden ländlichen Verhältnisse zu ahnen, sahen sie die Dinge vielleicht ebenso einseitig an, wie der Bauer – nur von der andern Seite. Nun, hier in Rheinsberg erforderten die Gegenstände nicht allzuviel praktische Kenntnis, man war ja nicht auf einem Gut, das bewirtschaftet werden sollte. – Sie kamen an den Rand eines zweiten Sees, an eine Bank, Stille . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.67.wm4b.0"> 
+                                 <pb n="53" xml:id="tg16.2.67.1.wm4b.0"/> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.68.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.69.wm4b.0"> »Glaubssu, daß es hier Bärens gibs? Eine alte Tante von mir is beinah mal von einem . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.70.wm4b.0"> » . . . von einem Bären zerrissen worden?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.71.wm4b.0"> »Nein.« Sie war ganz empört. »Habe ich das gesagt? – Ich meinte nur . . . Aber, du – beschützs mich doch, ja?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.72.wm4b.0"> »Ich schwöre dir . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.73.wm4b.0"> »Hm«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.74.wm4b.0"> Wieder war es sehr still. Die Claire saß da und sah sehr bestimmt in das schmutzig-grüne Wasser.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.75.wm4b.0"> »Also paß mal auf. Warum ist hier nicht überall der zweite Friedrich? So wie er in Sanssouci überall ist. Auf jedem geharkten Weg, an jedem Boskett, hinter jeder Statue? – Hier hat er gelebt. Gut. Wüßtest du es nicht, würdest du es merken?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.76.wm4b.0"> »Nein. Vielleicht muß man älter, machtvoller sein, um die Welt um sich zu formen nach seinem Ebenbilde . . . Wer ist heute sowie der Alte war? Sehen unsere Wohnungen aus, wie wenn sie nur und ausschließlich dem Besitzer gehören könnten? . . . Ein Specht, siehst du ein Specht!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.77.wm4b.0"> »Wölfchen, es ist kein Specht. Es ist eine Schleiereule.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.78.wm4b.0"> Er stand auf. Mit Betonung:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.79.wm4b.0"> »Ich habe ein außerordentlich feines Empfinden dafür, ich vermute, du bist gewillt, dich über mich lustig zu machen. Wird diese Vermutung zur Gewißheit, so schlage ich dich nieder.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.80.wm4b.0"> Ihr Gelächter klang weit durch die Fichten.</p>
+                              <lb xml:id="tg16.2.81.wm4b.0"/>
+                              <p xml:id="tg16.2.82.wm4b.0">Das Schloß! – Das Schloß mußte besichtigt werden. Man schritt hallend in den Hof und zog an einer Messingstange mit weißem Porzellangriff. Eine kleine Glocke schepperte. Ein Fenster klappte: »Gleich!« – Eine Tür oberhalb der kleinen Stiege öffnete sich, und es kam nichts, und dann tappte es, und dann schob sich der massige Kastellan in den Hof, Als er der Herrschaften ansichtig wurde, tat er etwas Überraschendes. Er stellte sich vor. »Mein Name ist Herr Adler. Ich bin hier der Kastellan.« Man dankte geehrt und präsentierte sich als Ehepaar Gambetta aus Lindenau. Historische Erinnerungen schienen den dicken Mann zu bewegen, seine Lippen zuckten, aber er schwieg. Dann:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.83.wm4b.0">»Nu kommen Sie man hier hinten rum, – da ist es am nächsten.« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.84.wm4b.0"> Und schloß eine bohlene Tür auf, die in einen dunklen Steinaufgang hineinführte. Sie kletterten eine steile Treppe mühsam herauf. Oben, in einem ehemaligen Vorzimmer, lagen braune Filzschuhe auf dem Boden, verstreut, in allen Größen für Groß und Klein, zwanzig, dreißig – man mochte an irgendein Märchen denken, vielleicht hatte sie eine Fee hierher verschüttet, oder ein Wunschtopf hatte wieder einmal versagt und war übergelaufen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.85.wm4b.0"> 
+                                 <pb n="54" xml:id="tg16.2.85.1.wm4b.0"/> Die Claire behauptete: <hi rend="italic" xml:id="tg16.2.85.2.wm4b.0">So</hi> kleine gäbe es gar nicht. –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.86.wm4b.0"> »Ih«, sagte Herr Adler, »immer da rein; wenn sie auch ein bißchen kippeln, des tut nichts.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.87.wm4b.0"> Er aber war nicht genötigt, solche Schuhe anzuziehen, weil er von Natur Filzpantoffeln trug.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.88.wm4b.0"> Die Zimmer, durch die er sie führte, waren karg und enthaltsam eingerichtet. Steif und ausgerichtet standen Stühle an den Wänden aufgebaut. Es fehlte jene leise Unregelmäßigkeit, die einen Raum erst wohnlich erscheinen läßt, hier stand alles in rechtem Winkel zueinander . . . Herr Adler erklärte:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.89.wm4b.0"> » . . . und düs hier sei das sogenannte Prinzenzimmer, und in diesem Korbe habe das Windspiel geschlafen. Das Windspiel – man wisse doch hoffentlich . . . ?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.90.wm4b.0"> »Zu denken, Claire, daß auch durch deine Räume einst Liebende der Führer mit beredtem Munde leitet . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.91.wm4b.0"> »Gott sei Dank! Konnt er ja! Bei uns war es piekfein.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.92.wm4b.0"> Und dann sagte Herr Adler, dies seien chinesische Vasen, und dieselben hätte der junge Graf Schleuben von seiner Asienreise mitgebracht.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.93.wm4b.0"> Aber hier – man trat in ein anderes höheres Zimmer – hier sei der Gemäldesaal. Die Bilder habe der berühmte Kunstmaler Pesne gemalen, und die Bilder seien so vorzüglich gemalen, daß sie den geehrten Besuchern überallhin mit den Augen folgten. Man solle nur einmal die Probe machen! Herr Adler gab diese Fakten stückweis, wie ein Geheimnis, preis. Es war, als wundere er sich immer, daß seine Worte auf die Besucher keine größere Wirkung machten. – Herrgott, die Claire! – Sie begann den Kastellan zu fragen. Wolfgang wollte sie hindern, aber es war schon zu spät. –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.94.wm4b.0"> »Sagen Sie mal, Herr Adler, woher wissen Sie denn das alles, das mit dem Schloß und so?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.95.wm4b.0"> Herr Adler leitete sein Wissen von seinem Vorgänger, dem Herrn Breitriese, her, der es seinerseits wieder von dem damaligen Archivar Brackrock habe. –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.96.wm4b.0"> »Und dann, was ich noch fragen wollte, Herr Adler, hat es hier wohl früher ein Badezimmer gegeben?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.97.wm4b.0"> »Nein, aber <hi rend="italic" xml:id="tg16.2.97.1.wm4b.0">wir</hi> haben eins unten, wenn es Sie interessiert . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.98.wm4b.0"> Sie dankten. Herr Adler, der noch zum Schluß auf eine Miniatur, ein Geschenk der Großfürstin Sofie von Rußland, hingewiesen hatte, verfiel plötzlich in abruptes Schweigen. Und erst nachdem das Trinkgeld in seiner Hand klingelte, blickte er zum Fenster hinaus und sagte, ein wenig geistesabwesend: »Dies ist ein ehrwürdiges Schloß. Sie werden die Erinnerung daran Ihr ganzes Leben bewahren. Im Garten ist auch noch die Sonnenuhr sehenswert.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.99.wm4b.0"> Claire unterließ es nicht, Wolf ein wenig zu kneifen, und an der <pb n="55" xml:id="tg16.2.99.1.wm4b.0"/> blumenkohlduftenden Kastellanswohnung vorbei schritten sie hinaus, ins Freie.</p>
+                              <lb xml:id="tg16.2.100.wm4b.0"/>
+                              <p xml:id="tg16.2.101.wm4b.0">Am Nachmittag fuhren sie auf dem See herum. Er ruderte, und sie saß am Steuer, während sie dann und wann drohte, sie werde ihre graue, alte Familie unglücklich machen, sie habe es nunmehr satt und stürze sich ins Wasser. Er werde sowieso bald umwerfen. Nein – sie landeten an einer kleinen Insel. Ein paar Bäume standen darauf. Sie lagerten sich ins Gras . . . Ein kühler Wind strich vom See herüber. Die Uferlinien waren unendlich fein geschwungen, die hellblaue Fläche glänzte matt . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.102.wm4b.0">»Sehssu, mein Affgen, das is nu deine Heimat. Sag mal: würdest du für dieselbe in den Tod gehen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.103.wm4b.0"> »Du hast es schriftlich, liebes Weib, daß ich nur für dich in den Tod gehe. Verwirre die Begriffe nicht. Amor patriae ist nicht gleichzusetzen mit der ›amor‹ als solcher. Die Gefühle sind andere.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.104.wm4b.0"> »Nun, ich bescheide mich.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.105.wm4b.0"> Und, nach einem langen Träumen in den hellen Himmel, – er war so hell, so hell, daß die blitzenden Funken vor den Augen tanzten, sah man lange hinein –:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.106.wm4b.0"> »Wölfchen, du hast doch niemalen eine andere geliebt, vor mir?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.107.wm4b.0"> »Nie!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.108.wm4b.0"> Es prickelte, so über die Sehnsucht der Bürger zu spotten, über das, was sie Liebe nannten, über ihre Gier, stets der erste zu sein . . . Sie waren beide nicht unerfahren.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.109.wm4b.0"> Stimmen kamen, Ruderboote, Familien, die hier zu einem Picknick landen wollten. Riesige, blecherne Vorratskörbe bedrohten wie Geschütze das Lager der Friedlichen . . . Auf und davon! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.110.wm4b.0"> Mitten im See: »Söh mal, du muß mir auch ma rudern gelaß gehabt haben –! Mich möcht diß auch mal – buh.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.111.wm4b.0"> »Bitte, rudere!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.112.wm4b.0"> Sie wechselten, das Boot schwankte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.113.wm4b.0"> Die Claire ruderte. Es war eine Freude. Einmal verlor sie beide Ruder. Er mußte mit dem Stock rudern. Endlich fingen sie die Hölzer wieder, die weitab auf dem Wasser getrieben hatten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.114.wm4b.0"> »Ich kann es sehr schön. Ich konnt ja auch mal ohne Ruder – ja, konnt ich! Lach nich, du Limmel! Hab ich fürleichs nicht recht, na!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.115.wm4b.0"> Und ruderte, daß sie prusten und keuchen mußte, wie eine kleine asthmatische Dampfmaschine. Die Sonne ging schon unter, als sie anlegten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.116.wm4b.0"> Er bezahlte. Die Claire schwätzte mit der Bootsverleiherin. Er hörte gerade: »So – also ein kräftiger Menschenschlag ist hier, wie?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.117.wm4b.0"> »Tje Fröln, <hi rend="italic" xml:id="tg16.2.117.1.wm4b.0">wir</hi> vertobaken uns Jungen ja nich schlecht!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.118.wm4b.0"> Sie lachten noch, als sie am Hotel waren.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.119.wm4b.0"> 
+                                 <pb n="56" xml:id="tg16.2.119.1.wm4b.0"/> Wie friedlich dieser Abend war; sie saßen unter den niedrigen dunklen Bäumen und warteten auf das Essen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.120.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.121.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.122.wm4b.0"> »Mir ist so . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.123.wm4b.0"> »Gut so, mein Junge.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.124.wm4b.0"> »Nein! Spaß beiseite, mir ist mit dem Magen nicht recht.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.125.wm4b.0"> »Das ist Cholera. Wart, bis du was zu essen bekommst.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.126.wm4b.0"> »Nein, hör doch, ich hab so ein Gefühl, so leer, so . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.127.wm4b.0"> »Typisch, Das ist geradezu – bezeichnend ist das. Du stirbs, Wölfchen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.128.wm4b.0"> »Die richtige Liebe deinerseits ist das auch nicht! Erst lasse ich dich auf Medizin studieren, und jetzt willst du nich mal durch dein Hörrohr kucken.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.129.wm4b.0"> »Ach Gott, nicht wahr, was heißt denn hier überhaupt! – Nicht wahr? – Wer denn schließlich . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.130.wm4b.0"> Aber sie ging doch mit zur Apotheke, die hellbraun und ganz modern sachlich eingerichtet war; weiße Büchsen und Töpfe aus Porzellan reihten sich auf Borden, ein leichter Baldriangeruch durchzog die Räumlichkeiten. Hier händigte man dem Kranken nach eingehender Rücksprache und leutseligem Reden an den Provisor eine kleine Flasche mit einer dunkelbraunen Flüssigkeit ein. Sie half. Gott sei Dank.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.131.wm4b.0"> Dann aßen sie, und nach Tisch rauchte die Claire. Drüben am Haus saßen die Herren, die jeder Zugereiste als Honoratioren zu bezeichnen pflegt. Juristen, Beamte, der Apotheker, der durch Bruch des Berufsgeheimnisses mit Hinweis auf die beiden der kleinen Runde fettes Gelächter entlockte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.132.wm4b.0"> »Prost, Wolf, auf die Alten!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.133.wm4b.0"> »Auf die Alten!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.134.wm4b.0"> Die Gläser klangen, und drüben die Gäste, die in langer Tischreihe am beleuchteten Haus speisten, blickten herüber. Die Claire blies Ringe.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.135.wm4b.0"> »Es ist eine maßlose Frechheit«, entschied sie.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.136.wm4b.0"> »Hm?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.137.wm4b.0"> »Hierher zu fahren. Wenn das niemand merkt! Aber es merks niemands – paß mal auf, es merks niemand.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.138.wm4b.0"> »Ne quis animadvertat! Prost.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.139.wm4b.0"> »Weißt du, lieber reise ich mit einem Flohzirkus wie mit dir.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.140.wm4b.0"> »Als, Claire, als mit dir.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.141.wm4b.0"> »Ach Gott, konnste auch besser mir nicht zu bekorrigieren zu gebrauchs gehabs habs! Ich spreche dir das schiere Hochdeutsch!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.142.wm4b.0"> »Hm. – Eingeweihte wissen davon Kantaten zu singen. Trinkst du noch was?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.143.wm4b.0"> »Ob ich noch wen trinke? – Nö.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.144.wm4b.0"> »Ich finde, wir gehen noch ein bißchen, hä?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.145.wm4b.0"> 
+                                 <pb n="57" xml:id="tg16.2.145.1.wm4b.0"/> Sie schlenderten durch den dunklen Ort. Nach langen, schwarzen Häuserstrecken kam eine Bogenlampe, umschwirrt von surrenden braunen Flecken. Insekten, die durchaus in das Licht gelangen wollten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.146.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.147.wm4b.0"> »Wölfchen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.148.wm4b.0"> »Die Tiere da oben, siehst du?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.149.wm4b.0"> »Ja.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.150.wm4b.0"> »So auch der Mensch.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.151.wm4b.0"> Sie blieb stehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.152.wm4b.0"> »Wieso . . . bitte?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.153.wm4b.0"> »Wie jene Lebewes . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.154.wm4b.0"> »Bitte – was hier zu symbolisieren is, symbolisier ich mir alleine. Überhaupt mußt du schlafen gehen. Du sprichst ja schon ganz . . . anders. Soll ich dir aufs Aam nehmen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.155.wm4b.0"> »Buhle!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.156.wm4b.0"> An dunklen Fensterläden kamen sie vorbei und an langen Mauern; hinter rötlich beleuchteten Gardinen saßen Familien und spielten Karten . . . Einmal traten sie in einen Hof, stolperten über Pflastersteine und blickten durch ein Fenster in einen Saal.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.157.wm4b.0"> Drinnen spielten sie Theater.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.158.wm4b.0"> Von der Bühne sah man nur einen kleinen, gelben, hellen Winkel; aber man hörte alles. »Hoho«, sagte eine überlaute Frauenstimme im Alt, »da werden wir meinen Schwager fragen müssen. Ah, da kommt er ja . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.159.wm4b.0"> Das Publikum schnaufte und zuckte wie eine vielköpfige Bestie im Dunkel. Man sah Schultern sich bewegen. Köpfe sich hin- und herwenden . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.160.wm4b.0"> »Himmel, der Fritz«, kreischte jemand auf der Bühne, und die Menge der Theaterbesucher lachte, ihre Körper tauchten auf und nieder, man murmelte . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.161.wm4b.0"> »Wie merkwürdig«, sagte Wolfgang, »draußen ist es totenstill, der Mond scheint, und hier drinnen spielen sie ein Scheinleben. Und wir kommen hinzu, wissen nichts von den Voraussetzungen des ersten Akts und bleiben ernst.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.162.wm4b.0"> Es war still, der hell erleuchtete Winkel der Bühne blieb leer; einer mußte wohl eine zum Lachen reizende Geste gemacht haben, denn jetzt lachten die Frauen hell kreischend, während die Männer beifällig grunzten. Sie beugten sich weiter vor, man konnte undeutlich und durch das Fensterglas verschoben den übrigen Teil der Bühne erkennen, der eine Zimmereinrichtung mit gelber Tapete und gemalten Einrichtungsgegenständen darstellte; ein Mann in grüner Schürze hielt dort oben Zwiesprache mit einer robusten Weibsperson in den Vierzigern. Als Souffleurkasten diente ein alter Strandkorb. Sie hörten die beiden sagen:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.163.wm4b.0"> »So, Er soll hier reinemachen (in der Tat hielt der Mann einen Besen <pb n="58" xml:id="tg16.2.163.1.wm4b.0"/> in der Hand), und statt dessen scharwenzt Er mit den Mädels! Paß Er nur auf. Er Liederjan.« – Hier kicherte das Publikum. – »Ich werde Ihm die Suppe schon versalzen. Hier und hier und da und da!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.164.wm4b.0"> Das Publikum lachte: »Hoho!« und oben bekam der Mann, der bis dahin mit gutgespielter Teppenhaftigkeit den Kopf beflissen-horchend geneigt hielt, einige patschende Schläge ins Gesicht . . . In diesem Augenblick trat ein junges Mädchen auf die Bühne, und hier nahm die Heiterkeit des Publikums einen so beängstigenden Grad an, daß die beiden unwillkürlich vom Fenster zurückfuhren.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.165.wm4b.0"> »Der erste Akt!« seufzte er. »Uns fehlt der erste Akt!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.166.wm4b.0"> »So ein kleiner Junge, will sich das Theater besehens! Marsch zu Bett!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.167.wm4b.0"> Und sie gingen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.168.wm4b.0"> Als sie die Treppe hinaufkletterten, hörten sie noch das lachende Lärmen der angeregten Honoratioren.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.169.wm4b.0"> »Claire, belustigen sich die ackerbautreibenden Bürger über uns? – Ich bin fürchterlich in meiner Wut.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.170.wm4b.0"> »Ja, mein Jungchen. Nu geh man zu Bett.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.171.wm4b.0"> Ihre großen, breitschultrigen Schatten tanzten an der Wand, weil die Kerzenflamme tanzte . . . Die Claire stand vor dem Spiegel und löste ihre Haare auf.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.172.wm4b.0"> »Wölfchen, paß ma auf; da war ich noch 'n kleiner Mädchen, un da bin ich bei meine Freundin, die Alice gegangen – heb mir doch mal die Nadel auf! – und da war ein Herr, wie er hieß, weiß ich nicht mehr, und der hat gesagt, mein Haar ist wie aus Seide gesponnen. Ja.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.173.wm4b.0"> »Na – und –?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.174.wm4b.0"> »Nüchs.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.175.wm4b.0"> Die Claire liebte es, Geschichten zu erzählen, die, ohne Pointe, kleine, anspruchslose Begebenheiten ihrer Kindheit enthielten. Sie verlangte, daß man sie sich oft anhöre, und wurde zornig erregt bei dem Hinwand, man kenne dies.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.176.wm4b.0"> »Du bist gar nicht freundlich zu mir. Du liebst mich nicht mehr.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.177.wm4b.0"> Einem seelischen Chamäleon gleich, bot sie nun den Anblick einer Liebeskranken. Der Mund war schmerzlich verschoben, der Oberkörper leicht geneigt, die Hände krampften sich.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.178.wm4b.0"> »Ich meinerseits liege im Bett«, sagte er. Die Kerzenflamme verlosch . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.179.wm4b.0"> Unten schwatzte das Wirtshauspublikum. Man hörte, wie der Wirt seinen Rundgang bei den Tischen veranstaltete:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.180.wm4b.0"> »Nun, auch die Flau Schwester wieder gesund? – Ja, ja, so gehts. Hat es den Herrschaften geschmeckt? Ja . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.181.wm4b.0"> Oben aber sagte die Claire gedankenvoll, langsam:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.182.wm4b.0"> »Ich möchts dir nu nehmen und einem in sein Gulasch werfen. Seh mal, er wundert sich bestimmt. Wie –?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.183.wm4b.0"> Aber dann schwieg sie.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.184.wm4b.0"> 
+                                 <pb n="59" xml:id="tg16.2.184.1.wm4b.0"/> In der Nacht wachte er auf. Vorsichtig bauschte er den Vorhang, der weiß und faltig am Fenster leise vom Nachtwind bewegt war. Der Mond gespensterte in den Bäumen, ein Obelisk stand seitwärts drohend da und warf einen scharfen Schatten. Das Laub rauschte auf. Warum reagieren wir darauf wie auf etwas Schönes, fühlte er. Es ist doch nur ein durch Schallwellen fortgepflanztes Geräusch . . . Und überließ sich gleich darauf willenlos diesem ruhigen Rauschen, das ein wenig traurig war, aber Hohes ahnen ließ und die Brust weiter machte . . . Er fuhr herum. Eine ganz verschlafene Kinderstimme sagte unter einem Wasserfall von Haaren:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.185.wm4b.0"> »Is niemand in mein klein Bettchen, und soll aber jemand da sein, und Klein-Clärchen is ganz allein . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.186.wm4b.0"> Er trug sie zurück.</p>
+                              <lb xml:id="tg16.2.187.wm4b.0"/>
+                              <p xml:id="tg16.2.188.wm4b.0">Als er früh am Morgen vom Friseur zurückkam, war die Claire am Aufstehen. Es war das so eine Sache: die erste Viertelstunde pflegte sie mit feiner Stimme ein entzückend klingendes Gemurmel zu stammeln, unzusammenhängende Silben hervorzubringen und in den verschiedensten Nachahmungen von Tierstimmen zu paradieren. Kaum hatte er die Tür hinter sich zugezogen, so begrüßte ihn das Winseln und Mauen einer neugeborenen Katze.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.189.wm4b.0">»Aufstehen! Claire! Aufstehen! Alle Leute sind schon nach Tisch.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.190.wm4b.0"> Man mußte ein wenig übertreiben – es half sonst nichts.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.191.wm4b.0"> »Buh!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.192.wm4b.0"> »Ja, ich weiß. Komm!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.193.wm4b.0"> Und zog ihr die Bettdecke fort.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.194.wm4b.0"> Später:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.195.wm4b.0"> »Wölfchen, zieh ich nu das Grüne oder das Weiße an?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.196.wm4b.0"> »Hm, welches möchtest du denn gerne anziehen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.197.wm4b.0"> »Das . . . das weiß ich nicht. C'est pourquoi ich dich frage.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.198.wm4b.0"> »So zieh denn das Weiße an.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.199.wm4b.0"> »Schön. Was <hi rend="italic" xml:id="tg16.2.199.1.wm4b.0">dieser</hi> Junge mich tyrannisiert, das ist nicht zu sagen. Haach!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.200.wm4b.0"> Pause.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.201.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.202.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.203.wm4b.0"> »Meinst du würklich, daß ich das Weiße anziehen soll? Seh mal . . . ich meine, mit den Fleckens un so . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.204.wm4b.0"> »Also: das Grüne.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.205.wm4b.0"> »Schön.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.206.wm4b.0"> Nach einer kleinen Weile:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.207.wm4b.0"> »Ja, haber – ich möcht doch aber gern . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.208.wm4b.0"> »Was möchst du gern?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.209.wm4b.0"> »Das Grüne –«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.210.wm4b.0"> 
+                                 <pb n="60" xml:id="tg16.2.210.1.wm4b.0"/> »Aber ich sage dir ja, ziehs an!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.211.wm4b.0"> »Ja . . . aber . . . wenn dus mir sagst, machts mir gar keinen Spaß. Du mußt sagen: Ziehs nich an, mußt du sagen, oder: zieh das Weiße an, tja.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.212.wm4b.0"> Und bevor er sich noch erholt hatte, fing sie an, ein wundervolles Gezänk von sich zu geben, nach Art gewisser Frauen, die sich beleidigt glauben und aus ihren Gefühlen auch dem Dienstmädchen gegenüber kein Hehl zu machen pflegen. Das Ganze paßte nicht recht her, aber sie war im Zuge, da war nichts zu machen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.213.wm4b.0"> »So? – Also in <hi rend="italic" xml:id="tg16.2.213.1.wm4b.0">meinem</hi> Hause lasse ich mir das nicht sagen, ich nicht! Sie stauben meine kostbaren Seidenmöbel nicht ab, Sie . . . Geschöpf! – Aber mein Mann, der Bergassessor . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.214.wm4b.0"> Er floh. Noch auf dem Korridor hörte er sie wie einen Schusterjungen pfeifen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.215.wm4b.0"> Auf den Kaffeetisch schien die Sonne; hier roch es stark und ländlich nach Milch, Butter und einer frischgewaschenen Decke. Bienen und dicke Fliegen schwammen in einem alten Honigglas, das der vorsorgliche Wirt mit Zuckerwasser gefüllt hatte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.216.wm4b.0"> Sie kam herunter, eine Weile sprachen sie nicht. Sie aß . . . mein Gott, sie aß und hatte Hunger, den richtigen Morgenhunger des Langschläfers.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.217.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.218.wm4b.0"> »Wolf?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.219.wm4b.0"> »Ich denke, wir fahren heute morgen ein wenig spazieren.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.220.wm4b.0"> »So, und ich? – Mich nimmt er gar nicht mit! – Ich will auch mit!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.221.wm4b.0"> »Ich sagte: wir.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.222.wm4b.0"> »Buh, buh!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.223.wm4b.0"> »Ja, du kannst auch mit. Nu weine man nich und eß.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.224.wm4b.0"> »Wolfgang, ein so wunderschönes Deutsch sprichst du ja auch nicht, nein, das kann man nicht sagen. Aber keine Sorge: Meine Bemühungen werden mich das Ziel schon erreichen lassen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.225.wm4b.0"> Sie konnte ganz gewählt sprechen, wie es wohl alte Erzieherinnen manchmal tun, mit übermäßig stark betonten Endsilben und weit nach hinten gerutschten Gaumen-›R‹s.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.226.wm4b.0"> »Mein Papa sagt immer, Wölfschen, ich spräche keinen guten Deutsch. Wie? – Ja, er ist ein erfahrener Greis, aber wie steht es ihm an zu sprechen ›Stoße nicht in das Horn des Leichtsinns, mein Kind, und witzele nicht über so schwerwiegende Dinge!‹ Ich frage dich: Hat er unrecht oder hat er unrecht? Zwei Möglichkeiten kommen nur in Betracht.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.227.wm4b.0"> »Er hat recht. Da kommt der Wagen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.228.wm4b.0"> Es war sein Glück. Denn schon hatte sie sich hochaufgerichtet und stand da, die Hände fest auf Tisch gedrückt und schielte . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.229.wm4b.0"> 
+                                 <pb n="61" xml:id="tg16.2.229.1.wm4b.0"/> Leicht und schnell rollte der Wagen durch die grüne Allee.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.230.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.231.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.232.wm4b.0"> »Merks du nichs?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.233.wm4b.0"> »Wie bitte?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.234.wm4b.0"> »Obs du nichs merks?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.235.wm4b.0"> »Nein.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.236.wm4b.0"> »Na, aber süh mir mal an!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.237.wm4b.0"> »Bei Gott, nichts. Zuckt die Achseln.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.238.wm4b.0"> »Du mußt das nicht mitsprechen, was in Klammern steht. Zuckt die Achseln, das steht in Klammern, weißt du? – Aber merkst du nichts?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.239.wm4b.0"> »Du hast dich gewaschen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.240.wm4b.0"> »P! – Aber . . . ein blaues Band hatt ich gestern durch mein Hemd gezogs, un nu nich mehr. Du erlaubs mirs ja nich. Du ja nich.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.241.wm4b.0"> Bot sie nicht das Aussehen einer sichtlich Gekränkten, die schmollend die bessern Gefühle des Geliebten anrief?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.242.wm4b.0"> »Du hast ja 'n Freund, der wo sagt, bunte Bänders in der Wäsche tragen nur Kellnerinnen! Kennst deinem Freund gesagt haben, er könnt bei mir gegangen gewesen sein, ob ich vielleicht 'ne Kellnerin war.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.243.wm4b.0"> Ja, er wolle das bestellen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.244.wm4b.0"> Aber nun mußten sie in das Grüne sehen, das sich an ihnen vorüberbewegte. Nicht, als ob dieser Wald jene gerühmte Schönheit besessen hätte, wie wir sie auf Bildern und Postkarten zu sehen Gelegenheit haben. Er wies keine ›Partien‹ auf, keine Durchblicke. Aber er machte sie froh. Es war wohl mehr ihre allgemeine Freude, am Leben zu sein. Zwischen den Vergangenen und denen, die noch kommen würden – jetzt waren <hi rend="italic" xml:id="tg16.2.244.1.wm4b.0">sie</hi> an der Reihe – hurra! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.245.wm4b.0"> An einer Biegung der Chaussee machte der Kutscher halt, murmelte und verschwand im Gebüsch. Die Claire begleitete seinen Weggang mit frommen Reden . . . Und dann fuhren sie weiter, und an einem Wirtshaus am See wurde Rast gemacht, und dort gab es zu essen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.246.wm4b.0"> Und dann fuhren sie wieder auf langen Umwegen nach Hause, nach Rheinsberg. Fußgänger begegneten ihnen, schwitzende Familienväter, die ihre Spazierstöcke mit den baumelnden Jacken am Ende Gewehr über trugen und schweigend der nächsten Bierquelle zustrebten, Verliebte, die mit verkrampften Händen selig daherstolperten, einmal hörten sie das Bruchstück eines Gespräches zweier spitzmäuliger Damen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.247.wm4b.0"> »Ja«, sagte die eine, »und denken Sie, sie ist eine Berlinerin, aber wissen Sie, im guten Sinne des Wortes . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.248.wm4b.0"> Der Wagen juckelte und knarrte, bald gehen die Pferde im Trab, bald trotten sie langsam mit gesenkten, nickenden Köpfen . . . Und immer konnte man, wenn es einem beliebte, den Kopf nach hinten legen, »auf den Verdeck«, wie Claire das nannte, und dann sah man <pb n="62" xml:id="tg16.2.248.1.wm4b.0"/> in die Wolken, immer in die Wolken, während der Körper im Rhythmus des Fahrens angenehm bewegt wurde . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.249.wm4b.0"> Am Spätnachmittag kamen sie an; es war heiß, vielleicht würde es abends ein Gewitter geben, sagte der Wirt. Sie gingen in den Park. An einem kleinen Rondell schimmerten weiße Figuren aus dem Blätterwerk. Ein Satyr lehnte an einem Baumstumpf, mit gesenkter Flöte, ein Faun stach eine fliehende Nymphe . . . Das Schloß leuchtete weiß, violett funkelten die Fensterscheiben in hellen Rahmen, von staubigen Lichtern rosig betupft, alles spiegelte sich im glatten Wasser. Baumgruppen standen da, rötlich-gelb beschienen mit schwärzlichen Schatten, sie warfen lange, dunkle Flächen auf den Rasen. Träge schob sich der See in kleinen Weilchen an die schilfigen Ufer . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.250.wm4b.0"> »Brühheiß. Kann man eigentlich so den Hitzschlag bekommen, Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.251.wm4b.0"> Sie lag am Boden und kaute einen Halm, der schwankend ihrem Munde entwuchs.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.252.wm4b.0"> »Das kommt ganz auf die Innentemperatur an, mein Junge. Du – bei deiner Hitze – ja, du kannst wohl einen kriegen! Zeig mal die Zunge – hm . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.253.wm4b.0"> »Du tätest auch besser daran, mehr in den Kollegs aufzupassen, anstatt Herzen mit meinen Initialen in die Bänke zu schneiden. Überhaupt das Frauenstudium . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.254.wm4b.0"> »Bitte, nehmen Sie Platz.« Sie war ganz Würde, und obgleich sie im Gras saß, konnte man glauben, was den Ausdruck ihres Gesichts anbetraf, einen vielbeschäftigten, an seinen Patienten interessierten Arzt vor sich zu sehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.255.wm4b.0"> »Einen Weg zur Heilung werden wir schon finden . . . schon finden . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.256.wm4b.0"> Sie kraute sich einen imaginären Bart. »Wissen Sie, ob Ihr Herr Großpapa jemals an einem icterus katarrhalis litt? Oder an einer angina vincentis? Nun, wir werden das Übel schon beheben. Darf ich bitten, den Mund zu öffnen, weiter, weiter – so . . . « Und sie warf den Aufhorchenden mit einem starken Stoß nach hinten, ins Gras . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.257.wm4b.0"> Die Luft lag unbeweglich, drückend, sie schritten über eine Brücke, darunter das Wasser grün und schleimig abfloß. Sie blickten hinunter. Blätter schwammen vorbei, kleine Zweige, Hölzchen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.258.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.259.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.260.wm4b.0"> »Erlaubsus mir? Ja? Nur einmal! Bitte! Bitte!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.261.wm4b.0"> Sie drängte sich an ihn, umkoste ihn, ging ihm um den Bart, sozusagen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.262.wm4b.0"> »Was denn, was denn, Kind?« Er machte sich frei.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.263.wm4b.0"> »Erlaubs mir doch! Nie nich erlaubsu mir wen! Ich möcht doch soo gern . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.264.wm4b.0"> 
+                                 <pb n="63" xml:id="tg16.2.264.1.wm4b.0"/> »Aber was denn?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.265.wm4b.0"> Sie schwieg. Sie sahen wieder von der Brücke in das dahinschleichende Wasser.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.266.wm4b.0"> »Wolfgang«, sagte die Claire träumerisch, »ich möcht <hi rend="italic" xml:id="tg16.2.266.1.wm4b.0">einmal</hi> in das Wasser spucken . . . « Und in den höchsten Tönen: »Erlaubs du mir?« Und piepsend: »Ja?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.267.wm4b.0"> Er erlaubte es ihr.</p>
+                              <lb xml:id="tg16.2.268.wm4b.0"/>
+                              <p xml:id="tg16.2.269.wm4b.0">Sie gingen durch die Straßen der Stadt. Schaufenster boten lockend ihre Einlagen an, kunstreich geordnet. Oh, man war hier durchaus auf der Höhe, wie man mit Stolz sagen durfte, und hatte sich die Errungenschaften der neuen Zeit zunutze gemacht: ein moderner Wind wehte auch hier. Nach künstlerischen Prinzipien hatte z.B. Herr Krummhaar, der Kolonialwarenhändler an der Ecke des Marktes, sein Schaufenster arrangiert. Blickte man durch die blankpolierten Scheiben, so tat sich dem Beschauer eine schlaraffenhafte Landschaft auf: auf einem Hügel von Paniermehl stand ein Zuckerhut mit einem roten Gelatinekreuz, und sah man näher hin, war es eine Windmühle, Pflaumenwege führten an mit Preisen versehenen Korinthenbeeten vorbei, und auf einem Spiegelglas schwamm eine Brigg, die Herrn Krummhaar aus dem fernen Indien bauchige Flaschen Danziger Goldwassers und Salzbrezeln heranschleppte . . . Vor der Ladentür waren Fässer aufgebaut, die bis oben hin mit köstlichen Erbsen und allerhand getrocknetem, nun aber längst verstaubtem Obst gefüllt zu sein schienen; nur der Kundige konnte ahnen, daß es sich um eine geschickte Täuschung handle. Lange stand die Claire vor der bunten Pracht, dann zitierte sie mit Ausdruck:</p>
+                              <lg>
+                                 <l xml:id="tg16.2.270.wm4b.0">»Und einen Ochsen, ganz bepackt,</l>
+                                 <l xml:id="tg16.2.271.wm4b.0">Mit Fleischextrakt . . . «</l>
+                              </lg>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.272.wm4b.0">Überall blieb sie stehen, alles wollte sie kaufen, und sie wirbelte herum, schwatzte, lachte, und war nacheinander: ein Frauchen, das ihren Mann zu Einkäufen bewegen will, ein unfolgsames Kind, das sich meckernd von der Hand der Bonne durch die Straßen schleppen läßt, ein kleiner Hund, – und zehn Schritte lang bot sie sogar die Kopie eines durchaus nicht einwandfreien Geschöpfes . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.273.wm4b.0"> Vor der Tür eines kleinen Lädchens, dessen Schaufenster dem Käufer Posamentier- und Weißwaren versprachen, standen die Fräulein Luft, zwei gutmütige ältliche Wesen, die ein wenig muffig rochen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.274.wm4b.0"> Sie schöpften die Abendluft, einen Käufer gab es jetzt nicht. Die beiden drängten sie in ihren Laden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.275.wm4b.0"> »Ich möchte, bitte, Wäscheknöpfe.« Die Claire war geschäftig, ganz bei der Sache.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.276.wm4b.0"> »Tje . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.277.wm4b.0"> »Aber bitte, geben Sie mir doch, bitte, weiße Wäscheknöpfe . . . zum Annähen . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.278.wm4b.0"> 
+                                 <pb n="64" xml:id="tg16.2.278.1.wm4b.0"/> »Tje . . . Gewiß.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.279.wm4b.0"> Aber die Fräulein Luft rührten sich nicht, sondern sahen sich und die beiden Besucher, die ihren Laden nahezu ausfüllten, ratlos, verlegen an. Eine von ihnen holte tief Atem . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.280.wm4b.0"> »Mochte der schunge Härr nicht so lang rausgehen . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.281.wm4b.0"> ›Welch treue Seele‹, dachte er. Und ging heraus.</p>
+                              <lb xml:id="tg16.2.282.wm4b.0"/>
+                              <p xml:id="tg16.2.283.wm4b.0">»Ein Kinematograph? Hier in Rheinsberg? Wölfchen, nach dem Souper? Ja?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.284.wm4b.0">Wirklich, es gab einen, und sie gingen hin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.285.wm4b.0"> Auf dem Wege schon murrte es in den Wolken, die langsam aufzogen. Wind schüttelte Laub von den rauschenden Bäumen, Staub wirbelte auf . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.286.wm4b.0"> Aber noch trocken kamen sie in dem Saal des Wirtshauses an. Richtig, ein kleines Orchester war da, es verdunkelte sich der Saal . . .</p>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPC" xml:id="tg16.2.287.wm4b.0">NATUR! MALERISCHE FLUSS-</p>
+                                 <p rend="zenoPC" xml:id="tg16.2.288.wm4b.0">FAHRT DURCH DIE BRETAGNE.</p>
+                                 <p rend="zenoPC" xml:id="tg16.2.289.wm4b.0">KOLORIERT.</p>
+                              <milestone unit="hi_end"/>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.290.wm4b.0">Der Apparat schnatterte und warf einen rauchigen Lichtkegel durch den Saal. Eine bunte Landschaft erschien, bunt, farbenprächtig, heiter. Die Kolorierung war der Natur getreulich nachgebildet: Die Bäume waren spinatgrün, der Himmel, wie in einem ewigen Sonnenuntergang, in Rosa und Blau schwimmend . . . Während die Flußlandschaft hell vorbeizog, schwankte dauernd ein schwarzer Schatten, in Form einer Stange, durch das Bild, was vermuten ließ, daß die Aufnahme von einem Dampfboot aus gemacht worden war. Dies bestätigte sich; denn nach einer kleinen Weile drehte sich der hellbraun gebohlte Teil eines Schiffes in das Bild, das nun das Nahe und das Ferne zugleich erkennen ließ: eine rosagekleidete Dame, mit weißem Spitzenschirm, anscheinend zu diesem Zwecke hinbeordert, erzeugte vermittels freundlichen Lächelns, Winkens und eifrigen Auf- und Abspazierens geschickt den Eindruck sommerlichen Glückes; hinten glitten die kolorierten Bestandteile der Bretagne vorbei, Trauerweiden, die Zweige in das Wasser hängen ließen, kleine ockergelbe Häuschen, die anscheinend auf ihre Umgebung abgefärbt hatten, ein vorüberziehender Fischdampfer . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.291.wm4b.0"> Die Claire saß erschüttert.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.292.wm4b.0"> »Wolfgang, es ist zu traurig! Glaubsu, daß der sterbende Krieger seine Heimat erreicht?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.293.wm4b.0"> Er glaubte es nicht. Um so weniger, als jetzt der eben eingetretene Klavierspieler geräuschvoll drei kräftige Akkorde erschallen ließ, sein Bierglas herunterwarf, aber hierdurch unbeirrt sich anschickte, den nunmehr folgenden Film: <hi rend="italic" xml:id="tg16.2.293.1.wm4b.0">›Moritz lernt kochen‹</hi> in angemessener Weise zu begleiten. Die Musik tobte: der Nachbar steckt den Kopf zur <pb n="65" xml:id="tg16.2.293.2.wm4b.0"/> Tür herein, Moritz steht am Kochherd, packt den andern, wirft ihn in den Topf, daß die Beine heraussehen. Schwanken, Fallen, Töpfe kippen, Sintflut, man schwimmt gemeinschaftlich die Treppe herunter, schüttelt sich unten die Hände, nimmt das triefende Mobiliar unter den Arm und verschwindet . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.294.wm4b.0"> Die Claire konnte sich nicht beruhigen: sie fragte, wollte alles wissen. Ob er denn nun kochen könne, ob der Nachbar gut durchgekocht sei, sie könne übrigens kochen, perfekt, möchte sie nur sagen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.295.wm4b.0"> Und schwieg erst, als helle Buchstaben auf dunklem Grund ankündigten:</p>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPC" xml:id="tg16.2.296.wm4b.0">
+                                    <hi rend="italic" xml:id="tg16.2.296.1.wm4b.0">›Das rettende Lichtsignal‹</hi>.</p>
+                                 <p rend="zenoPC" xml:id="tg16.2.297.wm4b.0">In der Titelrolle Herr Violo.</p>
+                                 <p rend="zenoPC" xml:id="tg16.2.298.wm4b.0">Von der Greizer Hofoper.</p>
+                              <milestone unit="hi_end"/>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.299.wm4b.0">Auf Grund einer freundlichen, stillen Übereinkunft zwischen Filmfabrik und Publikum bedeutet die blaue Farbe Nacht, während die rote die Katastrophe einer Feuersbrunst anzeigt, so daß es allen klar wurde, wie man in solch gefährlichen Stunden eines rettenden Lichtsignales des Bräutigams bedurfte. Mochte die Handlung durchsichtig sein, hier war das Leben, aber konzentriert. Wenn das Meer, wenn die Brandung an Felsen schlug, wenn der Vorplatz eines Hauses einen Augenblick frei blieb und man an den Zweigen sehen konnte, wie der Wind geweht hatte, <hi rend="italic" xml:id="tg16.2.299.1.wm4b.0">der</hi> Augenblick war dahin, unwiederbringlich dahin . . . Wie beängstigend schön war es, wenn Eisenbahnzüge, lautlos, wie große Schatten erschienen, immer näher, größer – ein Kopf sah aus dem Fenster . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.300.wm4b.0"> Aber als die leuchtenden Lichtgestalten zu weinen begannen und ein Harmonium in Aktion gesetzt wurde, schnupfte die Claire tief auf und äußerte schluchzend den Wunsch, nach Hause zu gehen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.301.wm4b.0"> Sie kämpften sich durch Wind und Regen ins Hotel.</p>
+                              <lb xml:id="tg16.2.302.wm4b.0"/>
+                              <p xml:id="tg16.2.303.wm4b.0">Am Morgen gingen sie in die Felder. Das Gewitter von gestern hatte abgekühlt, die ersten herbstlichen Tage kamen. Der Wind wehte stark. Als sie gegen ihn angingen, sang er wie klagend . . . An den Wegen schäumten die Laubmassen. Milchigweißes Licht beglänzte gleichmäßig die Felder. Die Sonne steckte hinter den stürmenden Wolken; manchmal kam sie hervor, dann war sie rot und fror in der rauhen, kräftigen Herbstluft. Ein leerer Pfad lag vor ihnen, reingefegt vom Wind, – und es war Seligkeit, darüber hinwegzuschreiten; junge Linden reihten sich endlos, und es war Glück, immer wieder den ächzenden Stamm zur Seite zu haben. Tief ging der Atem, und die Schultern hoben sich. Sie gingen im Gleichschritt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.304.wm4b.0">Sehnsucht – Sehnsucht nach der Erfüllung! Hier war alles (fühlte er), Herbst, der klärende, klare Herbst, Claire, alles – und doch zog es weiter, der Fuß strebte vorwärts, irgendwo lag ein Ziel, nie zu erreichen!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.305.wm4b.0"> 
+                                 <pb n="66" xml:id="tg16.2.305.1.wm4b.0"/> Viel, fast alles auf der Welt war zu befriedigen, beinahe jede Sehnsucht war zu erfüllen – nur diese nicht. Was war, von oben betrachtet, ein Liebender? – Ein Narr. Wenn sich ihm das geliebte Herz eröffnete, schwieg er, satt und zufrieden. Ganze Literaturen wären nicht, riegelten die Mädchen ihre Türen auf . . . Ein Amoroso war zu befriedigen, gebt ihm das Weib, das er begehrt, und der tönende Mund schweigt. Was gibt es, <hi rend="italic" xml:id="tg16.2.305.2.wm4b.0">uns</hi> zum Schweigen zu bringen? Wir haben nichts mehr zu verschleiern, wir wissen um alle Heimlichkeiten der Körper . . . Auch um alle der Seele? – Es gibt Worte, die nie gesagt werden dürfen, sonst sterben sie . . . Aber wir wollen nicht in diese Tiefen der Schatzkammern, wir haben einander ganz und doch sehnen wir uns. Was ist das, das uns forttreibt, weiter, höher, vorwärts? – Der Frühling ist es nicht; denn es ist da zu allen Jahreszeiten, die Jugendzeit ist es nicht; denn wir spüren es in allen Altern, die Claire ist es nicht, wir fühlen es ohnehin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.306.wm4b.0"> Jetzt kamen sie durch einen windstillen Hain junger Birken.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.307.wm4b.0"> Glücklich sein, aber nie zufrieden. Das Feuer nicht auslöschen lassen, nie, nie! In einem runden Loch kreiste träge schwarzes, fauliges Wasser. Alles andere ist ein Vorspiel: die Werbung, die Gewährung, das Genießen. Dann fängt es an und höret nimmer auf. Was kann vorher sein? Beschäftigt mit der simplen Frage: Ja? – Nein? – sehen sie nicht das Wesentliche, nicht das Eigentliche, Entkleide die deinige von deinen Begierden, sie zu besitzen, setze sie in dein Zimmer, wunschlos, allein, denk, du habest alles, was du wolltest . . . Bliebe sie? Kann sie mehr als locken, versprechen? – Kann sie <hi rend="italic" xml:id="tg16.2.307.1.wm4b.0">geben?</hi> Nicht jede hält die Belastungsprobe aus. Man behütet nicht umsonst ängstlich das Letzte, wenn man nicht weiß, daß es das Kostbarste ist, was man zu geben hat. Eroberungen, bei denen der Reiz nur im Erobern besteht. Wir aber wollen besitzen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.308.wm4b.0"> Und es gibt keine tiefere Sehnsucht als diese: die Sehnsucht nach der Erfüllung. Sie kann nicht befriedigt werden . . .</p>
+                              <lb xml:id="tg16.2.309.wm4b.0"/>
+                              <p xml:id="tg16.2.310.wm4b.0">»Wölfchen! Hallo!« Sie war weit voraufgelaufen und pflückte im Gebüsch weiße Eisbeeren, legte sie im Kreis auf den Boden und knackte sie mit dem Fuß entzwei.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.311.wm4b.0">»Warum tust du es?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.312.wm4b.0"> »Hast du keinen Sinn für Schönheit? <hi rend="italic" xml:id="tg16.2.312.1.wm4b.0">Fühlst</hi> du nicht, daß das befriedigt, erlöst, wie von einem Druck befreit, wenn die Beere – endlich – aufknackt – Banause!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.313.wm4b.0"> Die Gräser glänzten im Licht, ein dicker Käfer zog über die Chaussee, flog auf, ein Wind strich über den Weg, führte ihn mit sich fort, wallte er dorthin? – Nun, er würde auch da glücklich sein . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.314.wm4b.0"> Eine Schafherde trappelte durch die gestoppelten Felder; sie wollten ausweichen, aber es war zu spät, der Schäferhund hatte eine lange Reihe <pb n="67" xml:id="tg16.2.314.1.wm4b.0"/> zurechtgebellt, sie waren mitten unter ihnen, die Schafe umwogten sie, die Claire schwankte lachend in dem Meer her und hin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.315.wm4b.0"> »Wölfchen, wenn mir die Tieren nu fressens?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.316.wm4b.0"> »Ihnen nicht, Fräulein, es dürfte sich nicht lohnen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.317.wm4b.0"> Endlich krochen sie heraus, staubbedeckt, lachend.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.318.wm4b.0"> »Daß du dir da rausgefunden hast, Wölfchen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.319.wm4b.0"> Sie waren auf freiem Feld, glänzend wehten grüne Gräser im Wind, die Luft war in starker Bewegung, aber das Land lag ruhig, mochte es wehen und darüber hinfahren, die Erde blieb fest.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.320.wm4b.0"> Sie standen auf einem kleinen Hügel, das Land wellte sich weit fort, spielend riß die starke Luft an den Haaren. Dies alles umarmen können, nicht, weil es gut oder schön ist, sondern weil es da ist, weil sich die Wolkenbänke weiß und wattig lagern, weil wir leben! Kraft! Kraft der Jugend! . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.321.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.322.wm4b.0"> »Na?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.323.wm4b.0"> Und wurde gepackt und wie ein Wickelkind davongetragen, den Abhang herunter bis tief in die blumige Mulde.</p>
+                              <lb xml:id="tg16.2.324.wm4b.0"/>
+                              <p xml:id="tg16.2.325.wm4b.0">Und wieder kamen sie nach Rheinsberg, und weil es der letzte Tag war, verschwand Wolf und kam kurz vor dem Mittagessen mit einem großen weißen Paket wieder. Oben angelangt, legte er es auf den Tisch. Die Claire zupfte vor dem Spiegel an ihrem Haar. Wandte sich um.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.326.wm4b.0">»Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.327.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.328.wm4b.0"> »Was isn diss?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.329.wm4b.0"> »Nüchs, wie du dich auszudrücken beliebst.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.330.wm4b.0"> »Na, haber . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.331.wm4b.0"> »Um allen so gearteten Debatten aus dem Wege zu gehen, mein liebes Weib, erkläre ich hiermit, daß in dem Paket mit erhobener Stimme zwar etwas darin ist, aber du dasselbe mit Bedeutung nicht vor dem Abend öffnen darfst. Um zehn geht der Zug, um dreiviertel zehn darfst du, Punkt.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.332.wm4b.0"> »Hm.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.333.wm4b.0"> Pause.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.334.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.335.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.336.wm4b.0"> »Sagssu mir, was da drün is? Seh mal . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.337.wm4b.0"> »Schweig. Ich habe gesprochen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.338.wm4b.0"> »Aba, Wölfchen, ich fand, du kennst mir doch den Anfangsbuchstaben sagen und den hintern auch, ich meine den Endbuchstaben, ja?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.339.wm4b.0"> »Ich zertrümmere dich. Nein.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.340.wm4b.0"> »Nur den Anfang, tje? – Bitte, bitte! . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.341.wm4b.0"> »Schluß. Wir essen!« <pb n="68" xml:id="tg16.2.341.1.wm4b.0"/> Es gab ›schöne Sachens‹ – »Suppens gibs«, erörterte Claire, die alles wußte, »un Hühnegens mit Gemüsen und Hops (Hops? – Obst, Wölfchen, Obst) un denn gübs . . . Willstu das gern wissen, Wölfchen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.342.wm4b.0"> »Ja.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.343.wm4b.0"> »Hm, ich sag dirs auch. Aber du mußt mir sagen, was in dem Paket . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.344.wm4b.0"> »Ich wills nicht wissen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.345.wm4b.0"> »Buh!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.346.wm4b.0"> Sie ›muckschte‹ wie ein kleines Kind und ließ eine habsburgische Unterlippe hängen, bis das Essen kam.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.347.wm4b.0"> »Wölfchen, eß man Suppens mitm Messer?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.348.wm4b.0"> »Wa –?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.349.wm4b.0"> »Na, ich hab mal einen gesehen, der hat mitm Messer geessen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.350.wm4b.0"> »Suppe?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.351.wm4b.0"> »Neieinn . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.352.wm4b.0"> Aber da kam eine alte Dame an ihrem Tisch vorübergeschlurcht, schielte krumm und murmelte etwas von »unerhört« und »Person« und so.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.353.wm4b.0"> »Wölfchen, die meint mir. Konnste ihr nicht gefordert gehabt habs? – Söh mal, ich bin doch 'ne Feine, nich wahr? oder glaubsu, ich bin eine Prostitierte? Nei–n. Ich ja nich. Ich nich. Hä?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.354.wm4b.0"> »Laß das Alter gewähren, mein Kind. Vielleicht hat sie nicht so hübsche Jugenderinnerungen . . . Wie schrieb der große Friedrich an den Rand seiner Akten? – ›Mein lieber Geheimrat‹, schrieb er, ›wir sind alt und können nicht mehr, wir wollen uns über die freuen, die noch können.‹«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.355.wm4b.0"> Und dann aßen sie, und als es zu Ende war:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.356.wm4b.0"> »Wölfchen, die Sonne scheint gerade so schön, wir wollen fotografieren!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.357.wm4b.0"> Sie holte den Apparat, den sie umständlich herrichtete. Eine Zeitaufnahme war beabsichtigt, unter dem Blätterdach der alten Bäume, die gesprenkeltes Licht zum Boden durchließen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.358.wm4b.0"> »Stell dir man hin, Wölfchen. Nun paß auf: wir machens einen langen Aufnahmen. Du mußt nu ümmessu ruhig stehen, weißtu, ganz stille, ich geh solange fort, auf daß es dir nicht lächere . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.359.wm4b.0"> Er stand regungslos, nur gegen die Sonne anblinzelnd, fühlte sein Herz klopfen, der Atem ging taktmäßig ein und aus. Wie lange es dauerte? Die Claire wandelte unter den Linden, weiter hinten. Es sah aus, als hätte sie vergessen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.360.wm4b.0"> Ohne die Lippen weit zu öffnen:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.361.wm4b.0"> »Claire!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.362.wm4b.0"> Immer noch erging sie sich unter den schattigen Bäumen, aber sie antwortete:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.363.wm4b.0"> »Ja?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.364.wm4b.0"> 
+                                 <pb n="69" xml:id="tg16.2.364.1.wm4b.0"/> »Noch lange?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.365.wm4b.0"> »Nein.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.366.wm4b.0"> Wieder Schweigen. Wieder summten die Insekten. Teller klapperten im Haus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.367.wm4b.0"> » . . . lange?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.368.wm4b.0"> »Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.369.wm4b.0"> »Hm?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.370.wm4b.0"> Und von ganz fern: »Du kannst kommen! – Ich habe gar nicht eingestellt!« Und helles Lachen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.371.wm4b.0"> »So ein –«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.372.wm4b.0"> »Aber schön still hast du gehalts!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.373.wm4b.0"> Hoho! Wie aus einem Schallbecken platzte Lachen aus ihrem Mund, heftig, lärmend.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.374.wm4b.0"> Aber er fing sie.</p>
+                              <lb xml:id="tg16.2.375.wm4b.0"/>
+                              <p xml:id="tg16.2.376.wm4b.0">Nach dem Essen mußte die Claire schlafen gelegt werden. Sie waren im Sonnenglast hingestreckt, auf einer Wiese, über der die Luft in der Mittagswärme zittrig schwebte. Schweigen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.377.wm4b.0">»Wölfchen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.378.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.379.wm4b.0"> »Sagssus mirs?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.380.wm4b.0"> »Was denn?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.381.wm4b.0"> »Was in den Paket . . . ?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.382.wm4b.0"> »Schlaf!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.383.wm4b.0"> Sie schnarchte, daß die Grillen vor Schreck verstummten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.384.wm4b.0"> »Pst!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.385.wm4b.0"> »Du sagst ja, ich soll. Nie nich is es richtig. Buh!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.386.wm4b.0"> Wieder Schweigen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.387.wm4b.0"> Wie im Selbstgespräch: »Ich fand, wenn dus mir sagtest, gefiels mir hier besser. Wie? Ich bin neugierig, alle Frauen sind . . . ? Ich will dir mal was sagen, ich wills gar nicht wissen, überhaupt ist es mir egal, es läßt mich kalt.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.388.wm4b.0"> »Das kannst du brauchen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.389.wm4b.0"> »Wie?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.390.wm4b.0"> »Ich meinte nur.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.391.wm4b.0"> »Wölfchen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.392.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.393.wm4b.0"> »Is'n zu essens drin oder . . . ?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.394.wm4b.0"> Aber er antwortete nun nicht mehr. Sie schliefen. Und als sie aufwachten – sie hatte ihn wachgekitzelt –, stand die Claire auf, strich sich den Rock glatt, und ihre ersten Worte waren: »Neugierig bün ich ga–nich. Aber wissen möcht ich <hi rend="italic" xml:id="tg16.2.394.1.wm4b.0">bloß</hi>, was da in is«, und dachte heftig nach, ohne es herauszubekommen. (Sie hat es nie erfahren, das Paket wurde im Hotel vergessen.)</p>
+                              <lb xml:id="tg16.2.395.wm4b.0"/>
+                              <p xml:id="tg16.2.396.wm4b.0">
+                                 <pb n="70" xml:id="tg16.2.396.1.wm4b.0"/> Nachmittags lagen sie im Boot. Der Himmel war klar, noch einmal gab der Sommer seine Wärme.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.397.wm4b.0">Dies ist der letzte der drei Tage! Aber ich bin so froh wie am ersten. Jung sein, voller Kraft sein, eine Reihe leuchtender Tage – das kommt nie wieder! Heiter Glück verbreiten! – Wir wollen uns Erinnerungen machen, die Funken sprühen! Wir haben alles voraus – heute! Mögen die in den Gräbern die Fäuste schütteln, mögen die Ungeborenen lächeln – wir <hi rend="italic" xml:id="tg16.2.397.1.wm4b.0">sind</hi>! Alle sollen freudig sein! Kämpfen – aber mit Freuden! – Dreinhauen – aber mit Lachen! Mädchen, was zieht ihr mit Ketten schwer beladen einher? – Schüttelt sie ab. Sie sind leicht! – Sie sind hohl! – Tanzt, tanzt! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.398.wm4b.0"> Vom Ufer her rief sie jemand an, ein Mädchen mit einer Schneckenfrisur und ernsten, schwarzen Augen. Sie trug sich irgendwie in Blau und Grau. Sie ruderten heran. Wo es hier nach dem Forsthaus ginge? Ob es noch weit sei? – Sie beabsichtigten, dorthin zu fahren, wenn sie wolle . . . ? Sie dankte, nahm an.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.399.wm4b.0"> Es ergab sich, daß sie gleichfalls die Heilwissenschaft studiere und sich auch sonst geistig fleißig rege. Sie lud arme Kinder zu sich zu Tisch, um an abgemessenen Gewichtsportionen die Wirkungen gewisser Hydrate festzustellen, auch in andern Beziehungen nahm sie sich dieser Opfer der kapitalistischen Wirtschaftsordnung an und förderte sie durch gute Ratschläge. Das brachte sie ruhig und selbstverständlich vor, bescheiden, aber fest. Das Gespräch glitt weiter. Nein – heiraten wollte sie vorläufig nicht; sie habe noch keinen gefunden, der Mann gewesen wäre, ohne ein Sexualtier zu sein. Sie hatte einen schlechten Teint, und es sah aus, als bade sie selten. – Ob sie denn nie verliebt gewesen sei? – Oh, sie besäße, wie sie, ohne unbescheiden zu sein, mitteilen könne, Temperaments genug. So habe sie neulich auf einem Vereinsfest sogar etwas getrunken, was dem Geschmacke nach schwedischer Punsch gewesen sein mochte. Aber das seien doch Nebendinge, Für sie – hier schaukelte das Boot ein wenig – für sie gäbe es nur die Pflicht. Die Pflicht, ihrem Berufe als Wissenschaftlerin und soziales Glied voll und ganz Genüge zu tun.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.400.wm4b.0"> Dies, was sie anginge. Und die Herrschaften? Mit wem habe sie das Vergnügen? Sie sei stud. med. Aachner, Lissy Aachner. Und die Freundlichen, die sie hier mitnähmen? – Claire ergriff das Wort (Wolfgang graute): – Nun, sie hätten hier ein kleines Besitztum in der Nähe, nicht sehr bedeutend, 300 Morgen etwa, ja, und das sei ihr Bruder, sie seien noch nie in einer großen Stadt gewesen, die Eltern erlaubten es nicht, nein – wie es denn so in Berlin aussähe? – Sie hätten so bunte Vorstellungen davon, aber, nicht wahr? – aus den Büchern könne man das nicht so . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.401.wm4b.0"> Die Studentin Aachner bestätigte dies. Nein, aus den Büchern könne man dies nicht so. – Man müsse wirklich einmal . . . Sie könne das <pb n="71" xml:id="tg16.2.401.1.wm4b.0"/> den Herrschaften nur empfehlen! – Diese verschiedenartigen Kreise, diese Anregungen, man müsse ordentlich auf dem Posten sein, um all den Anforderungen Genüge zu tun! Nun – sie, Lissy Aachner, sei auf dem Posten, das könne sie wohl sagen. Und es erwies sich, daß dieses begabte Mädchen über alles, so die Liebe und das Leben, ihre klaren festen Begriffe hatte, an denen nicht zu rütteln war. Sie sei Monistin. Was das sei? Gesellschaftliche Artigkeit trug über ein leichtes Lächeln den Sieg davon. Sie sei erfüllt von dem Glauben, daß alles sich auf natürlicher Grundlage nach Maßgabe der betreffenden Umstände aufbaue. Auf die Umstände lege sie besonderes Gewicht, auf die käme es an . . . Aus ihnen ließe sich <hi rend="italic" xml:id="tg16.2.401.2.wm4b.0">alles</hi> herleiten. Sie, Lissy Aachner, wäre nimmermehr das geworden, was sie sei, wenn nicht die Umstände und das, was man wohl Milieu nenne, sie zu einem Produkt der neuen Zeit gemacht hätten. Und diese Umstände zu erkennen, das sei es, fuhr stud. med. Aachner fort, worauf es ankäme . . . <hi rend="italic" xml:id="tg16.2.401.3.wm4b.0">Erkenntnis</hi>, das sei das Wort! – Wohin sollte es führen, wenn wir auf der Stufe alter Barbarenvölker ständen und den Regen z.B. noch als etwas Göttliches empfänden? Der Regen sei einfach ein Niederschlag atmosphärischen Wassers in Form von Tropfen oder Wasserstrahlen. Dagegen war nichts zu sagen. Der Regen war in der Tat ein Niederschlag atmosphärischen Wassers in Form von Tropfen oder Wasserstrahlen. Und habe es nicht mit den geistigen Dingen eine ebensolche Bewandtnis? – Sei nicht auch hier Erkenntnis das Element alles Lebens? – Wie wolle man sich denn vor Liebesschmerz hüten, ohne die Elemente dieses Affekts, die Liebe und den Schmerz, analysieren zu können? – Sie gäbe ja Ausnahmen zu, bemerkte die Sprecherin, aber wenn wir auch heute noch nicht so weit wären, alles zu erkennen, so läge dies eben an einer Mangelhaftigkeit unserer Apparate bzw. Organe. Es würde schon noch werden. Seien nicht auch die Religion, die Kunst Dinge, die restlos in ihre Bestandteile aufzulösen nur einem Orthodoxen als kühn erscheinen könne? – Ja, das gesamte Leben als solches . . . Aber hier lief der Kahn auf den Sand, daß es knirschte. Man war angelangt. Die stud. med. Aachner bedankte sich und schritt durch das Grün auf das Forsthaus zu, männlichen Schrittes, geradeaus, und irgendwie in Blau und Grau gekleidet . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.402.wm4b.0"> Die beiden trieben ab, das Boot schwankte, bewegt durch das Schaukeln der Lachenden. Und wieder trug sie die Strömung dahin, der fächelnde Wind kräuselte das Wasser, brachte frischere Lüfte . . . Einmal legte die Claire die Hand auf den Bootsrand: diese ein wenig knochige und männliche Hand, auf deren Rücken blaßblaue Adern sich strafften; sah man aber die holzgeschnitzten, langen Finger, so ahnte man, es war eine erfahrene Hand. Diese Fingerspitzen wußten um die Wirkung ihrer Zärtlichkeiten, kräftig und sicher spielten die Gelenke . . . Die Hand hing im Wasser und zog einen quirlenden Streif. Dunkelgrün und klar lagen die Ufer weit zurück.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.403.wm4b.0"> 
+                                 <pb n="72" xml:id="tg16.2.403.1.wm4b.0"/> Leuchtender, leuchtender Tag! – Da-sein, voraussetzungsloses Dasein und immerfort wissen, daß eine ist, die gleich fühlt, gleich denkt . . . (Denkt, fühlt sie wirklich? Aber ist das nicht einerlei, wenn wir nur glauben?) Nun, wir <hi rend="italic" xml:id="tg16.2.403.2.wm4b.0">glauben</hi> eben einmal, daß wir uns nur deshalb nicht begegnen, weil wir nebeneinander demselben Ziele zulaufen, gleich strebend, parallel – . . . Dies zu wissen – das ist Glück Ein Seitenblick genügt: all deine Empfindungen sind hier noch einmal, aber umkleidet mit dem Reiz des Fremden. Wozu noch sprechen? – Wir wissen ohnehin. Wozu versichern, betonen? – Wir wissen, wir wissen. Und das Erlebnis und ich und sie – das gibt einen Klang, einen guten Dreiklang.</p>
+                              <lb xml:id="tg16.2.404.wm4b.0"/>
+                              <p xml:id="tg16.2.405.wm4b.0">Aber nun waren nur noch zwei Stunden bis zur Abfahrt,</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.406.wm4b.0">»Wolfgang?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.407.wm4b.0"> »Claire?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.408.wm4b.0"> »Gehen wir noch ein bißchen spazieren? Komm, in die böhmischen Wälder!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.409.wm4b.0"> Und sie gingen durch den dämmerigen Park, in dem die Baumgruppen erdunkelten, sich schwärzlich auseinanderschoben . . . Der Himmel war am Nachmittag schimmernd klar gewesen, – noch spannte er sich wie ein ungeheurer Bogen von Osten nach Westen, aber nun hatte er eine dunkle Färbung angenommen, er war fast schwarz, und weiße Wolkenflecken zogen rasch unter ihm dahin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.410.wm4b.0"> Gewiß blies hier der Wind immer so in die Baumwipfel, daß sie aufrauschten, strich durch die Stämme, raschelte schleifend im Laub . . . Sie empfanden: Abschied. Sie mußten fort. Leises Trauern . . . noch einmal zogen sie die reine Luft ein. Abschied. Eine neue Etappe. Aber diese haben wir gelebt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.411.wm4b.0"> Der Weg führte auf einen Hügel, durch Wiesen und an schwärzlichen Sträuchern vorbei. Sie sprachen nichts. In der Höhe glänzten helle Fenster einer Villa. Töne? . . . Da oben gab es Musik. Sie schritten aufwärts. Blieben im Dunkel stehen. Das gelbe Licht traf sie nicht: es bestrahlte einige Zweige der Linden, die am Haus gepflanzt waren. War es ein Ball? –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.412.wm4b.0"> Ein Walzer kam. – Die Geigen – es mußte eine starkbesetzte Kapelle sein – zogen süß dahin, sie sangen das Thema, ein einfaches, liebliches, in langen Bogenstrichen. Verstummten. Aber nun nahmen es alle Instrumente auf, forte, und es war, wie wenn zarte Heimlichkeiten ans Licht gezogen würden. Mit Wehmut dachte man an die Pianopassagen. Aber auch so machte es einen schweben, und der Rhythmus, dieser wiegende, schleifende Rhythmus zuckte und warb. Sie standen unruhig, hatten sich bei den Händen gefaßt, reckten sich . . . Und da brach die Lustigkeit prasselnd durch: in tausend kleinen Achteln, die klirrten, wie wenn glitzernde Glasstückchen auf Metall fielen, <pb n="73" xml:id="tg16.2.412.1.wm4b.0"/> brach sie durch, die Geigen jubelten und kicherten, die Bässe rummelten fett und amüsiert in der Tiefe, und auch der Zinkenist machte kein Hehl daraus, daß ihn das Ganze aufs höchste erfreute. Der Teil wiederholte sich, wieder kletterten die Geigen in die schwindelnde Höhe, guckten von ihrem hohen Sopran in die Welt, und schließlich lösten sich die Töne auf zierliche, spielerische Weise in nichts auf. Dröhnten nicht drei Paukenschläge? – Ein Dominantakkord erklang: ein Lauf, von der Flöte gepfiffen, machte neugierig, gespannt . . . Und wieder ein Lauf, die Geigen folgten, die Melodie blieb auf einem neuen Dominantakkord stehen . . . Pause . . . Und das alte, süße Thema kehrte in den Geigen wieder, hier war Erinnerung, heimliche Freuden und alles verliebte Flüstern der Welt! – Und da packte es die zwei, und sie drehten sich langsam, schwebend, und sie tanzten auf dem struppigen Rasen, schweigend, ruhig anfangs, dann schneller und schneller . . . Noch einmal bliesen Fanfaren königlich und stolz, kaum wiederzuerkennen, das Thema, dann wirbelten die beiden tanzend den Abhang herunter.</p>
+                              <lb xml:id="tg16.2.413.wm4b.0"/>
+                              <p xml:id="tg16.2.414.wm4b.0">Und kehrten zurück und packten ein, fuhren in dem rumpligen Hotelwagen zur Bahn, bestiegen in Löwenberg den D-Zug und fuhren durch die Nacht, brausend, aufgewühlt, nach Berlin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg16.2.415.wm4b.0">In die große Stadt, in der es wieder Mühen für sie gab, graue Tage und sehnsüchtige Telefongespräche, verschwiegene Nachmittage, Arbeit und das ganze Glück ihrer großen Liebe.</p>
+                              <lb xml:id="tg16.2.416.wm4b.0"/>
+                              <byline xml:id="tg16.2.417.wm4b.0">
+                                 <seg xml:id="tg16.2.417.1.wm4b.0">
+                                    <pb n="74" xml:id="tg16.2.417.1.1.wm4b.0"/> · Kurt Tucholsky<lb xml:id="tg16.2.417.1.2.wm4b.0"/>
+Rheinsberg. Ein Bilderbuch für Verliebte, Charlottenbg. 1912.</seg>
+                              </byline>
+                              <lb xml:id="tg16.2.418.wm4b.0"/>
+
+
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus></teiCorpus>

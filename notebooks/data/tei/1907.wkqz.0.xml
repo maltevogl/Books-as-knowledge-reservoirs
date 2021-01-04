@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:wkqz.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Werke</title><title>Tucholsky, Kurt</title><title>1907</title><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61C5-B</idno><idno type="textgrid">textgrid:wj8g.0</idno></publicationStmt><sourceDesc/></fileDesc></teiHeader><teiCorpus corresp="textgrid:wj7h.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Märchen</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1907</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61A7-F</idno><idno type="textgrid">textgrid:wj7h.0</idno><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>39-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg5.wj7g.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1907/Märchen">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Märchen</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-61A8-D</idno><idno type="TextGridUri">textgrid:wj7g.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>39-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <head type="h2" xml:id="tg4.2.1.wj7g.0">1907</head>
+                        <pb n="37" xml:id="tg4.2.2.wj7g.0"/> 
+                        <pb type="start" n="39" xml:id="tg4.2.3.wj7g.0"/>
+                        <lb xml:id="tg4.2.4.wj7g.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg5.2.wj7g.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg5.2.1.wj7g.0">Märchen</head>
+
+                              <p xml:id="tg5.2.2.wj7g.0">Es war einmal ein Kaiser, der über ein unermeßlich großes, reiches und schönes Land herrschte. Und er besaß wie jeder andere Kaiser auch eine Schatzkammer, in der inmitten all der glänzenden und glitzernden Juwelen auch eine Flöte lag. Das war aber ein merkwürdiges Instrument. Wenn man nämlich durch eins der vier Löcher in die Flöte hineinsah – oh! was gab es da alles zu sehen! Da war eine Landschaft darin, klein, aber voll Leben: Eine Thomasche Landschaft mit Böcklinschen Wolken und Leistikowschen Seen. Rezniceksche Dämchen rümpften die Nasen über Zillesche Gestalten, und eine Bauerndirne Meuniers trug einen Arm voll Blumen Orliks – kurz, die ganze moderne Richtung war in der Flöte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg5.2.3.wj7g.0">Und was machte der Kaiser damit? Er pfiff drauf.</p>
+                              <lb xml:id="tg5.2.4.wj7g.0"/>
+                              <byline xml:id="tg5.2.5.wj7g.0">
+                                 <seg xml:id="tg5.2.5.1.wj7g.0">
+· anonym<lb xml:id="tg5.2.5.1.1.wj7g.0"/>
+Ulk, 22.11.1907, Nr. 47, wieder in: Mit 5 PS.</seg>
+                              </byline>
+                              <lb xml:id="tg5.2.6.wj7g.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wk1b.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Vorsätze</title><title>Märchen</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1907</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6440-A</idno><idno type="textgrid">textgrid:wk1b.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>39-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>39-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg6.wk1d.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1907/Vorsätze">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Vorsätze</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-643F-0</idno><idno type="TextGridUri">textgrid:wk1d.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>39-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg6.2.wk1d.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg6.2.1.wk1d.0">Vorsätze</head>
+
+                              <p xml:id="tg6.2.2.wk1d.0">Ich will den Gänsekiel in die schwarze Flut tauchen. Ich will einen Roman schreiben. Schöne, wahre Menschen sollen auf den Höhen des Lebens wandeln, auf ihrem offenen Antlitz soll sich die Freiheit widerspiegeln . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg6.2.3.wk1d.0">Nein. Ich will ein lyrisches Gedicht schreiben. Meine Seele werde ich auf sammetgrünem Flanell betten, und meine Sorgen werden kreischend von dannen ziehen . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg6.2.4.wk1d.0"> Nein. Ich will eine Ballade schreiben. Der Held soll auf blumiger Au mit den Riesen kämpfen, und wenn die Strahlen des Mondes auf seine schöne Prinzessin fallen, dann . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg6.2.5.wk1d.0"> Ich will den Gänsekiel in die schwarze Flut tauchen. Ich werde meinem Onkel schreiben, daß ich Geld brauche.</p>
+                              <lb xml:id="tg6.2.6.wk1d.0"/>
+                              <byline xml:id="tg6.2.7.wk1d.0">
+                                 <seg xml:id="tg6.2.7.1.wk1d.0">
+                                    <pb n="39" xml:id="tg6.2.7.1.1.wk1d.0"/> · anonym<lb xml:id="tg6.2.7.1.2.wk1d.0"/>
+Ulk, 22.11.1907.</seg>
+                              </byline>
+                              <lb xml:id="tg6.2.8.wk1d.0"/>
+
+
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus></teiCorpus>

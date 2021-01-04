@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:wmgm.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Werke</title><title>Tucholsky, Kurt</title><title>1911</title><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61C5-B</idno><idno type="textgrid">textgrid:wj8g.0</idno></publicationStmt><sourceDesc/></fileDesc></teiHeader><teiCorpus corresp="textgrid:wh35.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Blumentag</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1911</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5DE4-4</idno><idno type="textgrid">textgrid:wh35.0</idno><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>170-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg8.wh37.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1911/Blumentag">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Blumentag</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5DE2-8</idno><idno type="TextGridUri">textgrid:wh37.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>170-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <head type="h2" xml:id="tg7.2.1.wh37.0">1911</head>
+
+                        <milestone unit="sigel" n="Tucholsky-GW Bd. 10" xml:id="tg7.2.2.wh37.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg8.2.wh37.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg8.2.1.wh37.0">
+                                 <pb type="start" n="170" xml:id="tg8.2.1.1.wh37.0"/>
+Blumentag</head>
+
+                              <lg>
+                                 <l xml:id="tg8.2.2.wh37.0">Der dicke Bürger greift in seine Weste:</l>
+                                 <l xml:id="tg8.2.3.wh37.0">»Da nimm! mein Kind!« –</l>
+                                 <l xml:id="tg8.2.4.wh37.0">Er gibt den Sechser mit gerührter Geste –</l>
+                                 <l xml:id="tg8.2.5.wh37.0">die Träne rinnt! –</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg8.2.6.wh37.0"/>
+                                 <l xml:id="tg8.2.7.wh37.0">Das Auge tropft. Der dicke Bauch schlägt Wellen.</l>
+                                 <l xml:id="tg8.2.8.wh37.0">Er <hi rend="italic" xml:id="tg8.2.8.1.wh37.0">schenkte</hi> was!! – –</l>
+                                 <l xml:id="tg8.2.9.wh37.0">In solchen Patriotenrummelfällen</l>
+                                 <l xml:id="tg8.2.10.wh37.0">da tut er das!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg8.2.11.wh37.0"/>
+                                 <l xml:id="tg8.2.12.wh37.0">Er sorgt für Veteranenpensionierung</l>
+                                 <l xml:id="tg8.2.13.wh37.0">von Stolz geschwellt –</l>
+                                 <l xml:id="tg8.2.14.wh37.0">Bei uns hat nämlich dafür die Regierung,</l>
+                                 <l xml:id="tg8.2.15.wh37.0">weiß Gott! kein Geld.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg8.2.16.wh37.0"/>
+                                 <l xml:id="tg8.2.17.wh37.0">Denn sie muß eifrig auf die ††† Roten fahnden –</l>
+                                 <l xml:id="tg8.2.18.wh37.0">sie darf nicht ruhn.</l>
+                                 <l xml:id="tg8.2.19.wh37.0">Sie muß politische Verbrechen ahnden –</l>
+                                 <l xml:id="tg8.2.20.wh37.0">sie hat zu tun –!!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg8.2.21.wh37.0"/>
+                                 <l xml:id="tg8.2.22.wh37.0">
+                                    <hi rend="italic" xml:id="tg8.2.22.1.wh37.0">Das</hi> leert vor allem andern ihre Kassen. –</l>
+                                 <l xml:id="tg8.2.23.wh37.0">Fürs Kriegerpack</l>
+                                 <l xml:id="tg8.2.24.wh37.0">da betteln sie derweil auf allen Gassen –</l>
+                                 <l xml:id="tg8.2.25.wh37.0">Kornblumentag . . .</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg8.2.26.wh37.0"/>
+                                 <l xml:id="tg8.2.27.wh37.0">Der Bürger denkt bei Tisch, nach süßen Torten</l>
+                                 <l xml:id="tg8.2.28.wh37.0">und blauem Aal,</l>
+                                 <l xml:id="tg8.2.29.wh37.0">(Hupp! stößt's ihm auf – ): »Wie sind wir allerorten</l>
+                                 <l xml:id="tg8.2.30.wh37.0">christlich-sozial!« –</l>
+                              </lg>
+                              <lb xml:id="tg8.2.31.wh37.0"/>
+                              <byline xml:id="tg8.2.32.wh37.0">
+                                 <seg xml:id="tg8.2.32.1.wh37.0">
+                                    <pb n="170" xml:id="tg8.2.32.1.1.wh37.0"/> · Kurt<lb xml:id="tg8.2.32.1.2.wh37.0"/>
+Vorwärts, 17.06.1911.</seg>
+                              </byline>
+                              <lb xml:id="tg8.2.33.wh37.0"/>
+                              
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:whb7.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Stirbt die Kunst?</title><title>Blumentag</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1911</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5EB0-3</idno><idno type="textgrid">textgrid:whb7.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>40-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>170-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg9.whb6.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1911/Stirbt die Kunst?">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Stirbt die Kunst?</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5EAE-B</idno><idno type="TextGridUri">textgrid:whb6.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>40-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg9.2.whb6.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg9.2.1.whb6.0">
+                                 <pb type="start" n="40" xml:id="tg9.2.1.1.whb6.0"/>
+Stirbt die Kunst?</head>
+
+                              <p xml:id="tg9.2.2.whb6.0">»Stirbt die Kunst?« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.3.whb6.0">Diese seltsame Frage ist jetzt zum zweiten Male aufgetaucht. Schon vor Jahresfrist hatte Moszkowski, der Chefredakteur der <hi rend="italic" xml:id="tg9.2.3.1.whb6.0">›Lustigen Blätter‹</hi>, die Frage gestellt, in etwas unklarer Weise behandelt und schließlich bejaht. Jetzt kommt ein Berufener, um sie abermals zu stellen und abermals zu bejahen: Victor Auburtin. Auburtin, der Schöpfer eines der feinsten deutschen Prosastücke: <hi rend="italic" xml:id="tg9.2.3.2.whb6.0">›Der Ambassadeur‹</hi>, veröffentlicht in einem kleinen Hefte bei A. Langen-München Ansichten, die nicht nur die kleine Gruppe der Literaten angehen. Hier wird ein Problem der Massen behandelt! Und weil er mit seinem blitzenden Schwertlein so unvorsichtig herumgefuchtelt hat – getan hat er keinem etwas – darum wollen wir die Marionette des Kritikers Auburtin (nicht des Künstlers!) auf eine kleine Bühne stellen und ihn sprechen lassen. Hoppla!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.4.whb6.0"> Aber sachte! sachte! Immer ausreden lassen und nicht unterbrechen! Erst soll er uns erheitern und dann werden wir sehen. –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.5.whb6.0"> Und er spricht: »Kunst ist Verzückung, Raserei, Träumerei, Schwärmerei, Delirium . . . Kunst wuchs empor aus den dämmernden Kirchen, in denen (verlogene) Pfaffen beteten . . . Kunst entstand aus der Vagabondage und dem Elend des Schauspielers, aus den kleinen, eckigen Kleinstädten, die noch keine Kanalisation hatten, aber Idylle, – die Voraussetzungen der Kunst sind der Krieg, große Epidemien, Raubrittertum, regellose Unordnung! – (spricht er.) Die Ordnung kommt, die soziale Organisation, die wenigstens das aller-, allerschlimmste zu beseitigen versucht . . . und nun stirbt die Kunst! –«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.6.whb6.0"> Vorhang.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.7.whb6.0"> Allseitiges Staunen. Also – wie? . . . Die Masse (wer ist das übrigens?) ist schuld am Untergang der Kunst. Hm. Welche Masse? An welcher Kunst? Das wollen wir sehen?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.8.whb6.0"> Zunächst: Kunst ist gar nicht »Delirium, Schwärmen, Träumerei«! – Das kann sie auch sein. Aber wo bliebe, wenn sie es nur wäre, die edle Klarheit Goethes. »Ja!« spricht die Marionette, »der könnte heute auch nicht mehr durchdringen, die Masse hat ja nicht die Geduld mehr, zu lesen.« – ›Durchdringen‹? Ist denn Goethe ›durchgedrungen‹? – Keine Spur; es existieren eine Unzahl ungünstiger Kritiken, die ihn nicht begriffen, und, wie er sich einst zu Eckermann beklagte, »im eigentlichen Volke bleibe alles still«. – Für solche Erscheinungen hat nun Auburtin zwei Schemen: erstens: die Masse kümmert sich nicht um die Kunst. Natürlich, sagt er dann, wie sollte sie auch, diese – Masse! Zweitens: sie kümmert sich um die Kunst. Dann schreit er: »Die Kunst stirbt an der Verpöbelung. Die Masse herrscht, und vor ihr hat alles zu kuschen. Sie verlangt billige Kunst und eine handfeste, <pb n="40" xml:id="tg9.2.8.1.whb6.0"/> deutliche Kunst, von der man doch etwas hat.« – Ja! Aber das hat sie immer getan. Und doch ist die ganze subtile Kunst weiter gediehen, unbekümmert um die . . . die . . . Masse. Ja, wer war denn das eigentlich?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.9.whb6.0"> Hören wir: »Daß in einem wohlorganisierten Bürgerstaate die Kunst sterben muß, das lehrt uns die Kunstgeschichte Hollands.« – Aha! Das glaube ich, daß die dicken Mynheers für die Kunst nichts übrig gehabt haben. – In einem Bürgerstaate, sagt er – ist das unsere Zukunft? Sicher nicht. Sondern –? Ach, die Marionette stimmt ein Klagelied an: »Unsere Spezies geht einer Verameisung entgegen. Wie bei den Ameisen und Bienen der Staat alles, die Persönlichkeit nichts ist, wie bei ihnen die Freß- und Greiforgane auf Kosten des verkümmerten Gehirns sich entwickelten, so wird es auch bei uns geschehen, die wir unser Heil. auf das Dümmste und Gemeinste gestellt haben, auf die Arbeit. All das Feine und Leise, das der Muße und dem Eigensinn des Individuums entblühte, das wird verkümmern; schon in der Schule den Rotznasen die Nützlichkeit als das Höchste gepriesen; das ganze Leben darauf eingerichtet, ja keine Minute zu verträumen, ja die Zeit fleißig zu verhämmern und verpochen, ja immer mitten im wimmelnden Haufen zu bleiben . . . In 250 Jahren, wenn die soziale Organisation glänzend durchgeführt worden ist, dann wird man den Dämon des Künstlers schon auf den Schulbänken gedusselt haben . . . Ich glaube, daß die menschliche Rasse einer gewaltigen Zukunft entgegengeht. Ich glaube an das Kommen friedlicher Demokratien, immenser, geeinter Arbeiterschaften, die das Höchste wollen, und das Höchste erreichen werden. – Aber ich weiß, daß aus dem anonymen Gewimmel nie die reißend schmerzliche Strophe eines Liedes tönen wird, und sollte sie dennoch wieder einmal tönen, so wird sie nicht verstanden werden.« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.10.whb6.0"> Er weiß das. Aber nun genug der Ironie, denn wir wissen etwas anderes: Daß jede Zeit den Ausdruck ihrer Gefühle selbst findet und die »Anemonen auch im April des Jahres 2361 nicht versäumen werden, zu blühen«. Auf derartige Einwendungen, sagt Auburtin, pfeife er. Nun, so wollen wir ihm eins trommeln. – So lange bis selbst er begriffen hat, daß die Massen sich nach der Kunst sehnen und für sie reif werden, und wenn der Pfeifer erklärt, »es gäbe nichts greulicheres als Schillertheaterei und jene Volksbühnen, wo die Kunst braven Arbeitern zu Aschingerpreisen serviert werde« – so muß ihm getrommelt werden, daß die undisziplinierten Grinser im <hi rend="italic" xml:id="tg9.2.10.1.whb6.0">›Faust‹</hi>, die er gesehen hat, schon längst zu den Ausnahmen zählen. Schon. Dank den Bemühungen der Volksbühnen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.11.whb6.0"> Das Spiel ist aus. Wir hängen die Puppe samt Schwert und Tragik wieder an die Wand und verlassen das Bühnchen mit einer Frage im Ohr, die so recht zeigt, wie Auburtin der Kleine – denkt. »Damals«, sagt er, »zur Zeit Neros, da hat man schon das Ende der Kunst für gekommen <pb n="41" xml:id="tg9.2.11.1.whb6.0"/> gehalten, weil alles ausgeschöpft schien. Sie ahnten noch nicht die ungeheueren Barbarenmassen, die jenseits der Grenzen lauerten, und in denen die Keime zu Rembrandts und Goethes Naturen schon vorhanden waren. Wo aber sind heute die Barbaren, aus denen wir uns erneuern können? Wo sind die Reserven?« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg9.2.12.whb6.0"> Ich erlaube mir, Herrn Victor Auburtin auf die Existenz eines Proletariats aufmerksam zu machen.</p>
+                              <lb xml:id="tg9.2.13.whb6.0"/>
+                              <byline xml:id="tg9.2.14.whb6.0">
+                                 <seg xml:id="tg9.2.14.1.whb6.0">
+                                    <pb n="42" xml:id="tg9.2.14.1.1.whb6.0"/> · K.T.<lb xml:id="tg9.2.14.1.2.whb6.0"/>
+Vorwärts, 27.06.1911.</seg>
+                              </byline>
+                              <lb xml:id="tg9.2.15.whb6.0"/>
+
+
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus></teiCorpus>

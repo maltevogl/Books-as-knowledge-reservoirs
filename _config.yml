@@ -1,0 +1,26 @@
+# Book settings
+title: Books as knowledge reservoirs
+subtitle: From critical distant reading to networks of ideas
+author: Malte Vogl, Vielfalt der Wissensformen, Humboldt-University Berlin & Max-Planck-Institut für Wissenschaftsgeschichte
+logo: wissensformen.jpeg
+
+execute:
+  execute_notebooks: "off"
+  exclude_patterns:
+    - './env/*'
+
+repository:
+  url : https://github.com/maltevogl/Books-as-knowledge-reservoirs
+  branch: master
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: "https://notebooks.gesis.org/binder"
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  comments:
+    hypothesis: true
+    utterances:
+      repo: https://github.com/maltevogl/Books-as-knowledge-reservoirs

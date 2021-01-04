@@ -1,0 +1,1313 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:wmm1.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61C5-B</idno><idno type="textgrid">textgrid:wj8g.0</idno></publicationStmt><sourceDesc/></fileDesc></teiHeader><teiCorpus corresp="textgrid:wmn1.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6989-F</idno><idno type="textgrid">textgrid:wmn1.0</idno><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg132.wmn2.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Memento">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Memento</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6988-2</idno><idno type="TextGridUri">textgrid:wmn2.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>247-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <head type="h2" xml:id="tg131.2.1.wmn2.0">1916</head>
+                        <pb n="245" xml:id="tg131.2.2.wmn2.0"/> 
+                        <pb type="start" n="247" xml:id="tg131.2.3.wmn2.0"/>
+                        <lb xml:id="tg131.2.4.wmn2.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg132.2.wmn2.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg132.2.1.wmn2.0">Memento</head>
+
+                              <lg>
+                                 <l xml:id="tg132.2.2.wmn2.0">Uns Junge hat es umgerissen –</l>
+                                 <l xml:id="tg132.2.3.wmn2.0">wir stehen draußen so im Feld,</l>
+                                 <l xml:id="tg132.2.4.wmn2.0">wir glaubten schon, zu halten und zu wissen –</l>
+                                 <l xml:id="tg132.2.5.wmn2.0">und da versank die ganze Welt.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg132.2.6.wmn2.0"/>
+                                 <l xml:id="tg132.2.7.wmn2.0">»Die Welt ist falsch!« Sie ist doch kein Exempel,</l>
+                                 <l xml:id="tg132.2.8.wmn2.0">wozu der Lehrer seine Lösung hat –</l>
+                                 <l xml:id="tg132.2.9.wmn2.0">sie ist real und warf uns alle Tempel</l>
+                                 <l xml:id="tg132.2.10.wmn2.0">und, was wir lieb gehabt, um – wie ein Kartenblatt.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg132.2.11.wmn2.0"/>
+                                 <l xml:id="tg132.2.12.wmn2.0">Ihr mahnt den Jüngling, tapfer durchzuhalten.</l>
+                                 <l xml:id="tg132.2.13.wmn2.0">Gewiß, das scheint ja seine Pflicht –</l>
+                                 <l xml:id="tg132.2.14.wmn2.0">doch was da in ihm war vom guten, alten,</l>
+                                 <l xml:id="tg132.2.15.wmn2.0">das gibts in Zukunft alles nicht?</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg132.2.16.wmn2.0"/>
+                                 <l xml:id="tg132.2.17.wmn2.0">Der neue Wert, die neue Stufenleiter,</l>
+                                 <l xml:id="tg132.2.18.wmn2.0">der oben und der unten – seltsam Spiel:</l>
+                                 <l xml:id="tg132.2.19.wmn2.0">Hier gilt die Faust, der Säbel und der Reiter –</l>
+                                 <l xml:id="tg132.2.20.wmn2.0">das was wir ehren, gilt nicht viel.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg132.2.21.wmn2.0"/>
+                                 <l xml:id="tg132.2.22.wmn2.0">Muß das so sein? So darfs nicht bis zur Neige,</l>
+                                 <l xml:id="tg132.2.23.wmn2.0">nicht bis zum Ende gehn. Wir bleiben rein.</l>
+                                 <l xml:id="tg132.2.24.wmn2.0">Wir halten durch – es scheint mir gar nicht feige:</l>
+                                 <l xml:id="tg132.2.25.wmn2.0">Soldat und doch ein Bürger sein!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg132.2.26.wmn2.0"/>
+                                 <l xml:id="tg132.2.27.wmn2.0">Sprecht euerm Jungen von der Kriegertugend,</l>
+                                 <l xml:id="tg132.2.28.wmn2.0">doch davon auch, wenn hart der Panzer klirrt:</l>
+                                 <l xml:id="tg132.2.29.wmn2.0">Daß er den Träumen seiner Jugend</l>
+                                 <l xml:id="tg132.2.30.wmn2.0">soll Achtung tragen, wenn er Mann sein wird!</l>
+                              </lg>
+                              <lb xml:id="tg132.2.31.wmn2.0"/>
+                              <byline xml:id="tg132.2.32.wmn2.0">
+                                 <seg xml:id="tg132.2.32.1.wmn2.0">
+· Theobald Tiger<lb xml:id="tg132.2.32.1.1.wmn2.0"/>
+Die Schaubühne, 03.10.1916, Nr. 40, S. 324, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg132.2.33.wmn2.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wk58.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-64B0-0</idno><idno type="textgrid">textgrid:wk58.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg133.wk59.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Das Grammophon">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Das Grammophon</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-64B2-C</idno><idno type="TextGridUri">textgrid:wk59.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>247-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg133.2.wk59.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg133.2.1.wk59.0">Das Grammophon</head>
+
+                              <lg>
+                                 <l xml:id="tg133.2.2.wk59.0">Wenn die Musik der Liebe Nahrung ist,</l>
+                                 <l xml:id="tg133.2.3.wk59.0">Gebt volles Maß! –</l>
+                              </lg>
+                              <lb xml:id="tg133.2.4.wk59.0"/>
+                              <p xml:id="tg133.2.5.wk59.0">Wir haben jetzt im Unterstand auch ein Grammophon. Am Tage geht es hier, im Geschäftszimmer der Kompanie, ernst und sachlich zu. Aber abends, wenn die Meldungen erstattet sind, wenn das Telefon nicht mehr summt, wenn der ganze Hallo vorbei und verrauscht ist, dann setzt einer die Membrane auf, das Ding räuspert sich, krächzt . . . und los gehts.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.6.wk59.0">
+                                 <pb n="247" xml:id="tg133.2.6.1.wk59.0"/> Das Programm ist schon ganz respektabel. Was die leichtgeschürzte Muse angeht, so brillieren da zunächst die Männerquartette, solche, die sonntags nachmittags viere lang mit üppigen Zylinderhüten und weißen Glacisten vor die erstaunte Zuhörerschaft treten, der Tenor knufft den Bariton in die Seite und sagt: »I muaß dir was sag'n!« – und dann sagt ers, aber auf tenorisch: »I hab amal an Rausch g'habt . . . « Der Flügelmann von rechts ist ein schwitzender Dicker, er bläst sich ganz auf, und in der Tiefe kocht ihm ein mächtiger Baß.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.7.wk59.0"> Man sieht das nicht? Wir rauchen, und wir sehen das. Instrumentalsoli sind da, weinende Celli, klappernde Xylophone und ein Mann, der die Vöglein im Walde gar lieblich nachahmt. Wir haben Potpourris: wenn ein Lied zu Ende ist, schlägt der Mann am Klavier einfach den Septimenakkord der nächsthöheren Tonart an, und die Überleitung ist fertig. Und wir haben die Märsche –! Die Märsche mit dem ganzen Kling, klang, gloria und dem zuckenden Rhythmus des Viervierteltaktes. Das Schönste aber an ihnen sind die Trios: wie da in einer scheinbar weichen Melodie die verhaltene Kraft liegt, die nur einmal einen Augenblick nachläßt, sich entspannt – aber sie ist doch da – es ist, wie wenn jemand nach Monaten wieder in einem Federbett sich wohlig streckt . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.8.wk59.0"> Aber wir haben auch ernste Musik. Mächtige Gesänge von Wagner: wir stoben auseinander, als das erste Mal eine ungeheure Stimme aus dem kleinen Kasten herausbrüllte: »Ach, Elsa, nur ein Jahr –!« Und auch der Abendstern erglänzt uns weit hinaus. Einer ist da, der ist unmusikalisch wie ein Roß; ich habe nie geglaubt, daß Musik ihn überhaupt berühren könnte – aber er legte die Hände wohlig über den Bauch bei Zugehörbringung obgenannten Abendsterns. Ja, ja . . . der Wagner . . . Und wenn der Sänger seine Tränen aus der Kehle hat rinnen lassen, dann singt die fette Primadonna mit dem hochbezahlten Sopran. »Draußen am Wall bei Sevilla« – es ist geradezu ketzerisch, wie frech dieses Weib die Töne heraustrillert. Sieh, und vor den dunkelroten Samtvorhang tritt ein blasser Mensch – ›Bajatscho‹, wie der Feldwebel, wohl in Anlehnung an seine italienische Hochzeitsreise, zu sagen pflegt – und tut uns kund, daß er mit dem Gesichte zwar lache, innen aber sei er ein Meer von Blut und Tränen. Und so wirbelt das durcheinander – Polkas, mit einer belfernden Klarinette – Hochzeitsmärsche ziehn vorüber, kleine Chöre singen Braut-, beziehungsweise Trauermärsche, und auf blaßblauem Hintergrund wiegt sich eine bonbonrosa Blüte: der Faustwalzer. Sicher ist auch sonst noch allerhand Erzfeindliches unter den Platten – aber hier draußen ist man damit nicht so ängstlich.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.9.wk59.0"> Wenn es aber ganz spät geworden ist, dann hole ich meine Privatplatte heraus. Sie ist doppelseitig bespielt: auf der einen Seite trägt sie einen nun schon leicht angejahrten Modewalzer. Er hat den Gegentakt, <pb n="248" xml:id="tg133.2.9.1.wk59.0"/> ist sehr schwer zu tanzen und wird von einem kleinen Orchesterchen gespielt, mit feiner diskreter Besetzung. Das ist meist so gegen zwölf Uhr, der Rauch beißt in die Augen. – Es ist alles so leicht und angenehm und mühelos, wie wenn man in einem schönen weißen Dampfer flußab fährt. Und die Kapelle spielt, nur für mich allein, in memoriam.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.10.wk59.0"> Und auf der anderen Seite – es ist eigentlich gar nichts weiter zu erzählen. In dem Vorstadttheater spielten sie damals ein ergreifendes Stück mit Gesang und Tanz. Weil der Raum so groß war wie ein Reitstall, hatte der Herr Regisseur die Schauspieler sicherlich auf der Probe angewiesen, auch den Fünfzig-Pfennig-Plätzen das ihrige zukommen zu lassen. Und ob sie ließen! – Der Fürst brüllte, daß wir in unserer Zwei-Mark-fünfunddreißig-Pfennig-Loge fast von den Stühlen fielen. Und es brüllte die Prinzessin, und der alte Graf schrie, bis er fast platzte, und es brüllte der Intrigant und das junge Liebespaar und alle, alle. Und im Laufe der traurigen Begebenheiten sang Miss Elvira auch dieses Lied, das der Kasten nun spielt. Horch –!</p>
+                              <lg>
+                                 <l xml:id="tg133.2.11.wk59.0">Ich stehe hier ganz alleine,</l>
+                                 <l xml:id="tg133.2.12.wk59.0">ich bin eine Bettlerin – – –</l>
+                              </lg>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.13.wk59.0">Sie hatte ein Armband um das schlanke Bein und war sicher ein gefälliges Mädchen. Und neben mir saß die Claire, voll Übermut, wie wir damals waren, und brachte durch ihre Existenz beinahe die ganze Kapelle aus dem Takt. Durch die Türen des gräflichen Zimmers hindurch sahen wir die Kulissenschieber ihr Bier trinken – und wir waren so glücklich damals und so vergnügt, wie heute nur noch in der Erinnerung, und das will etwas heißen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.14.wk59.0"> Der Kasten hat geendigt. Wir rauchen noch immer. Jeder sieht in die Kerzen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.15.wk59.0"> Sie schreiben jetzt so viel von nationaler Wiedergeburt. Es war sicherlich nicht alles so, wie es sein sollte. Aber was sie jetzt zu Hause aus uns herausdestillieren wollen – – – Also so sollen wir werden? So völkisch, so schauerlich begeistert, so voll zager Fröhlichkeit, wie man es allenfalls Schülern in der Freiviertelstunde gestattet? Ich glaube, hier draußen tut jeder, was er kann. Und freut sich, wenn er eine kleine Abwechslung hat, die ihn an seinen Platz zu Hause erinnert und an sein Wesen und sein Wirken, seine Heimat und seine Welt. Und er denkt sich wohl so, wie er dies und jenes besser machen könnte, wenn er wieder nach Hause kommt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg133.2.16.wk59.0"> Aber die nationale Wiedergeburt – – – Da können wir doch nichts Festes versprechen.</p>
+                              <lb xml:id="tg133.2.17.wk59.0"/>
+                              <byline xml:id="tg133.2.18.wk59.0">
+                                 <seg xml:id="tg133.2.18.1.wk59.0">
+                                    <pb n="249" xml:id="tg133.2.18.1.1.wk59.0"/> · Peter Panter<lb xml:id="tg133.2.18.1.2.wk59.0"/>
+Simplicissimus, 03.10.1916, Nr. 17, S. 338.</seg>
+                              </byline>
+                              <lb xml:id="tg133.2.19.wk59.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wmzf.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6A9B-0</idno><idno type="textgrid">textgrid:wmzf.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg134.wmzg.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Der alte Pojaz spricht">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Der alte Pojaz spricht</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6A9C-E</idno><idno type="TextGridUri">textgrid:wmzg.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>250-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg134.2.wmzg.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg134.2.1.wmzg.0">Der alte Pojaz spricht</head>
+
+                              <lg>
+                                 <l xml:id="tg134.2.2.wmzg.0">Mein Kind, ich bin schon lange fern der Schminke,</l>
+                                 <l xml:id="tg134.2.3.wmzg.0">gern denk ich dran, das war die bunte Zeit!</l>
+                                 <l xml:id="tg134.2.4.wmzg.0">Ich gab dem Personal die letzten Winke,</l>
+                                 <l xml:id="tg134.2.5.wmzg.0">dann trat ich auf; zwei Meter zwanzig breit,</l>
+                                 <l xml:id="tg134.2.6.wmzg.0">auf meinem Hut sang ein Kanaripärchen,</l>
+                                 <l xml:id="tg134.2.7.wmzg.0">auf Rollen zog ich nach ein kleines Licht . . .</l>
+                                 <l xml:id="tg134.2.8.wmzg.0">Und doch: betracht ich mir die letzten Jährchen –</l>
+                                 <l xml:id="tg134.2.9.wmzg.0">Nein! solche Purzelbäume schlug ich nicht!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg134.2.10.wmzg.0"/>
+                                 <l xml:id="tg134.2.11.wmzg.0">Ich war gewiß mal eine dolle Nummer,</l>
+                                 <l xml:id="tg134.2.12.wmzg.0">trieb meinen besten Freunden Nägel in den Bauch</l>
+                                 <l xml:id="tg134.2.13.wmzg.0">und sang mir häufig meinen Liebeskummer</l>
+                                 <l xml:id="tg134.2.14.wmzg.0">in einen präparierten Gartenschlauch.</l>
+                                 <l xml:id="tg134.2.15.wmzg.0">Nun bin ich alt und bürgerlich geworden,</l>
+                                 <l xml:id="tg134.2.16.wmzg.0">ich seh mich um, was hier zu Hause ficht,</l>
+                                 <l xml:id="tg134.2.17.wmzg.0">seh mir die Leute an mit Titeln und mit Orden –</l>
+                                 <l xml:id="tg134.2.18.wmzg.0">Nein! solche Purzelbäume schlug ich nicht!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg134.2.19.wmzg.0"/>
+                                 <l xml:id="tg134.2.20.wmzg.0">Wenn ich die Ausschußpolitik betrachte,</l>
+                                 <l xml:id="tg134.2.21.wmzg.0">dies Reklamiertenmundwerk – bin ich starr.</l>
+                                 <l xml:id="tg134.2.22.wmzg.0">Denn, was ich auch in meiner Jugend machte:</l>
+                                 <l xml:id="tg134.2.23.wmzg.0">ich war ein Clown, doch war ich niemals Narr.</l>
+                                 <l xml:id="tg134.2.24.wmzg.0">Ich ließ die Pritsche und Pistole krachen,</l>
+                                 <l xml:id="tg134.2.25.wmzg.0">ich tanzte manchen Wackelpolkaschritt . . .</l>
+                                 <l xml:id="tg134.2.26.wmzg.0">Doch was die neuen Clowns für Sprünge machen:</l>
+                                 <l xml:id="tg134.2.27.wmzg.0">Grüß Gott, mein Kind, da kann ich nicht mehr mit!</l>
+                              </lg>
+                              <lb xml:id="tg134.2.28.wmzg.0"/>
+                              <byline xml:id="tg134.2.29.wmzg.0">
+                                 <seg xml:id="tg134.2.29.1.wmzg.0">
+· Theobald Tiger<lb xml:id="tg134.2.29.1.1.wmzg.0"/>
+Die Schaubühne, 24.10.1916, Nr. 43, S. 391, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg134.2.30.wmzg.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wh5s.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5E2F-7</idno><idno type="textgrid">textgrid:wh5s.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg135.wh5t.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/An eine Marie vom Lande">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>An eine Marie vom Lande</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5E2D-B</idno><idno type="TextGridUri">textgrid:wh5t.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>250-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg135.2.wh5t.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg135.2.1.wh5t.0">An eine Marie vom Lande</head>
+
+                              <lg>
+                                 <l xml:id="tg135.2.2.wh5t.0">Marie – Du ringst die derben Hände:</l>
+                                 <l xml:id="tg135.2.3.wh5t.0">»Du Sündenbabul! Pfui Berlin!«</l>
+                                 <l xml:id="tg135.2.4.wh5t.0">So streust Du über das Gelände</l>
+                                 <l xml:id="tg135.2.5.wh5t.0">den Dung und die Entrüstung hin.</l>
+                                 <l xml:id="tg135.2.6.wh5t.0">So geußest Du ob dem gewellten</l>
+                                 <l xml:id="tg135.2.7.wh5t.0">Asphaltreich den Kritikbericht . . .</l>
+                                 <l xml:id="tg135.2.8.wh5t.0">Marie – es dürfen viele schelten!</l>
+                                 <l xml:id="tg135.2.9.wh5t.0">Du nicht!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg135.2.10.wh5t.0"/>
+                                 <l xml:id="tg135.2.11.wh5t.0">Bedenk, wir könnten Dir erschließen,</l>
+                                 <l xml:id="tg135.2.12.wh5t.0">wie bei Dir draußen auf dem Land</l>
+                                 <pb n="250" xml:id="tg135.2.13.wh5t.0"/> 
+                                 <l xml:id="tg135.2.14.wh5t.0">– dem rechts der Elbe – Preise sprießen,</l>
+                                 <l xml:id="tg135.2.15.wh5t.0">die vormals dort kein Mensch gekannt.</l>
+                                 <l xml:id="tg135.2.16.wh5t.0">Wir könnten Dir so manches zeigen</l>
+                                 <l xml:id="tg135.2.17.wh5t.0">von Polenarbeit, Menschenpflicht . . .</l>
+                                 <l xml:id="tg135.2.18.wh5t.0">Es ist jetzt Krieg – und wir, wir schweigen.</l>
+                                 <l xml:id="tg135.2.19.wh5t.0">Du nicht.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg135.2.20.wh5t.0"/>
+                                 <l xml:id="tg135.2.21.wh5t.0">Wir sind durchaus nicht so begeistert,</l>
+                                 <l xml:id="tg135.2.22.wh5t.0">von allem, was die Panke beut:</l>
+                                 <l xml:id="tg135.2.23.wh5t.0">der Schieber, der die Wechsel meistert,</l>
+                                 <l xml:id="tg135.2.24.wh5t.0">die Dame, die den Schieber freut;</l>
+                                 <l xml:id="tg135.2.25.wh5t.0">das Kino-Café gegenüber,</l>
+                                 <l xml:id="tg135.2.26.wh5t.0">der Händler, den der Hafer sticht . . .</l>
+                                 <l xml:id="tg135.2.27.wh5t.0">Es gibt ja manche, die stehn drüber.</l>
+                                 <l xml:id="tg135.2.28.wh5t.0">Du nicht.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg135.2.29.wh5t.0"/>
+                                 <l xml:id="tg135.2.30.wh5t.0">Hör auf, uns sauer anzumucken –</l>
+                                 <l xml:id="tg135.2.31.wh5t.0">bei uns hast Du damit kein Glück.</l>
+                                 <l xml:id="tg135.2.32.wh5t.0">Man kann zwar leicht nach unten spucken,</l>
+                                 <l xml:id="tg135.2.33.wh5t.0">nach oben nicht – das fällt zurück.</l>
+                                 <l xml:id="tg135.2.34.wh5t.0">Hier ziehts! Du kannst Dich leicht erkälten –</l>
+                                 <l xml:id="tg135.2.35.wh5t.0">und Du stehst selber vor Gericht.</l>
+                                 <l xml:id="tg135.2.36.wh5t.0">Marie – es dürfen viele schelten!</l>
+                                 <l xml:id="tg135.2.37.wh5t.0">Du nicht!</l>
+                              </lg>
+                              <lb xml:id="tg135.2.38.wh5t.0"/>
+                              <byline xml:id="tg135.2.39.wh5t.0">
+                                 <seg xml:id="tg135.2.39.1.wh5t.0">
+· Theobald Tiger<lb xml:id="tg135.2.39.1.1.wh5t.0"/>
+Die Schaubühne, 31.10.1916, Nr. 44, S. 416.</seg>
+                              </byline>
+                              <lb xml:id="tg135.2.40.wh5t.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wh6x.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5E4F-0</idno><idno type="textgrid">textgrid:wh6x.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg136.wh6w.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Berliner Gerüchte">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Berliner Gerüchte</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5E50-A</idno><idno type="TextGridUri">textgrid:wh6w.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>251-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg136.2.wh6w.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg136.2.1.wh6w.0">Berliner Gerüchte</head>
+
+                              <lg>
+                                 <l xml:id="tg136.2.2.wh6w.0">Herr Meyer, Herr Meyer – und hörst du es nicht,</l>
+                                 <l xml:id="tg136.2.3.wh6w.0">das wilde, das grause, das dumpfe Gerücht:</l>
+                                 <l xml:id="tg136.2.4.wh6w.0">Ein Licht!</l>
+                                 <l xml:id="tg136.2.5.wh6w.0">Ein Licht in der russischen Botschaft!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.6.wh6w.0"/>
+                                 <l xml:id="tg136.2.7.wh6w.0">Und da, wo ein Licht, da ist auch ein Mann,</l>
+                                 <l xml:id="tg136.2.8.wh6w.0">und der sitzt an einem Vertrage dran,</l>
+                                 <l xml:id="tg136.2.9.wh6w.0">beim Licht in der russischen Botschaft.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.10.wh6w.0"/>
+                                 <l xml:id="tg136.2.11.wh6w.0">Und das Licht geht manchem Politiker auf;</l>
+                                 <l xml:id="tg136.2.12.wh6w.0">es strömet das Volk, es rennet zuhauf</l>
+                                 <l xml:id="tg136.2.13.wh6w.0">zum Licht in der russischen Botschaft.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.14.wh6w.0"/>
+                                 <l xml:id="tg136.2.15.wh6w.0">Und einer zum andern geheimnisvoll spricht:</l>
+                                 <l xml:id="tg136.2.16.wh6w.0">»Da ist was im Gange – ja, sehn Sies denn nicht,</l>
+                                 <l xml:id="tg136.2.17.wh6w.0">das Licht in der russischen Botschaft?«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.18.wh6w.0"/>
+                                 <pb n="251" xml:id="tg136.2.19.wh6w.0"/> 
+                                 <l xml:id="tg136.2.20.wh6w.0">Es erbrausen die Linden! »Berennet die Tür!«</l>
+                                 <l xml:id="tg136.2.21.wh6w.0">Ein Schutzmann hält seinen Bauch dafür</l>
+                                 <l xml:id="tg136.2.22.wh6w.0">vor das Licht,</l>
+                                 <l xml:id="tg136.2.23.wh6w.0">das Licht in der russischen Botschaft.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.24.wh6w.0"/>
+                                 <l xml:id="tg136.2.25.wh6w.0">Sogar ein Geheimer Studienrat</l>
+                                 <l xml:id="tg136.2.26.wh6w.0">sagt die Information, die er bei sich hat,</l>
+                                 <l xml:id="tg136.2.27.wh6w.0">vom Licht in der russischen Botschaft.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.28.wh6w.0"/>
+                                 <l xml:id="tg136.2.29.wh6w.0">Und drin spricht der Klempner im öden Saal:</l>
+                                 <l xml:id="tg136.2.30.wh6w.0">»Du hör mal, Maxe, du kannst mir mal</l>
+                                 <l xml:id="tg136.2.31.wh6w.0">die Ölkanne ribajehm!«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg136.2.32.wh6w.0"/>
+                                 <l xml:id="tg136.2.33.wh6w.0">Dann gehen die beiden geruhig nach Haus,</l>
+                                 <l xml:id="tg136.2.34.wh6w.0">nach dem Stralauer Tor – und das Licht löscht aus,</l>
+                                 <l xml:id="tg136.2.35.wh6w.0">das Licht in der russischen Botschaft.</l>
+                              </lg>
+                              <lb xml:id="tg136.2.36.wh6w.0"/>
+                              <byline xml:id="tg136.2.37.wh6w.0">
+                                 <seg xml:id="tg136.2.37.1.wh6w.0">
+· Theobald Tiger<lb xml:id="tg136.2.37.1.1.wh6w.0"/>
+Die Schaubühne, 09.11.1916, Nr. 45, S. 442, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg136.2.38.wh6w.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wgbw.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5B7A-2</idno><idno type="textgrid">textgrid:wgbw.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg137.wgbx.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Die Katze spielt mit der Maus">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Katze spielt mit der Maus</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5B79-4</idno><idno type="TextGridUri">textgrid:wgbx.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>252-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg137.2.wgbx.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg137.2.1.wgbx.0">Die Katze spielt mit der Maus</head>
+
+                              <p xml:id="tg137.2.2.wgbx.0">Sie stehen alle im Kreis, die Soldaten, und blicken alle auf einen Punkt. Ich trete hinzu.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.3.wgbx.0">Die schwarz-weiße Katze hat eine Maus gefangen. Die schwarz-weiße Katze, unser Kompanie-Peter (eine Dame, allerdings), Peter der Erste; ein junges Tier, noch nicht völlig ausgewachsen, aber auch nicht mehr niedlich genug, um in die Hand genommen zu werden. Die Maus ist noch springlebendig – Peter muß sie eben erst gefangen haben. Peter ist tagelang auf dem Kriegsschauplatz herumgelaufen, Peter hat sich eigenmächtig von der Truppe entfernt, also hat sie Hunger, also wird sie die Maus gleich fressen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.4.wgbx.0"> Die Katze läßt die Maus laufen. Die Maus flitzt, wie an einer Schnur gezogen, davon – die Katze mit einem genau abgeschätzten Sprung nach. Mit der letzten Spitze der ausgestreckten Pfote hält sie die Maus. Die Maus zappelt. Die Pfote schiebt sich langsam hin und her; die Pfote prüft die Maus. Die Katze liegt dahinter und dirigiert das Ganze. Aber das ist nicht mehr ihre Pfote – das ist ein neues Tier, das nur für den Zweck erschaffen ist, ein wenig, so grausam wenig schneller als die Maus zu sein. Die Pfote hebt sich, die Maus stürzt davon – sie darf stürzen, ja, das ist gradezu vorgesehen. Die Pfote waltet ihr zu Häupten und schlägt sie im letzten Augenblick nieder. Die Maus quiekt. Jetzt wird das Tempo lebhafter.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.5.wgbx.0"> Hurr – die Maus läuft, ein weites Stück. Satz. Hat. Und wieder – und wieder. Manchmal sieht die Katze mit ihren grünen, regungslosen Augen erschreckt ins Weite, als habe sie ein böses Gewissen und befürchte, <pb n="252" xml:id="tg137.2.5.1.wgbx.0"/> daß jemand kommt. Jemand – wer sollte kommen? Jetzt läuft die Maus langsamer. Wie eine ›laufende Maus‹, die man kaufen kann: sie wackelt etwas, als ob das Uhrwerk da drinnen schon ein bißchen klapprig wäre. Und wieder hat sie die Katze. Diesmal läßt sie sie nicht los. Sie streichelt sie mit der steifen Pfote; sie streckt sich wohlig aus und schnurrt. Du meine kleine Gefährtin! Es ist fast, als bedaure sie, daß die dumme Maus nicht auch mitspielt. Sie soll irgendetwas tun, die Maus. Die Katze dehnt sich . . . Ich habe sie! ich habe sie! Ach – das ist schön – die Macht, die süße, starke Macht! Ich habe die Oberhand – und sie wird ganz lang vor Behagen, so lang, daß vorn die Kralle abrutscht und Maus entwischt. Es ist nicht mehr viel mit ihr – sie humpelt, fällt auf die Seite, quietscht leise. Wieder hat sie die Katze, aber als sie jetzt losgelassen wird, regt sie sich nicht. Sie ist tot.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.6.wgbx.0"> Das bringt die Katze außer sich. Wie? Die Maus will nicht mehr? Sie ist nicht mehr lebendig, nicht mehr bei der Sache, kein halb widerwilliges Spielzeug, bei dem der Hauptreiz darin bestand, daß es sich sträubte? Hopp – dann machen wir sie lebendig! Hopp – der Tod hat mir in mein Spiel nichts hereinzuspielen, das sage ich, die Katze! Und packt die Maus mit den Zähnen, schüttelt sie und wirft sie sich über den Kopf und springt hoch in die Luft und fängt sie wieder auf. Die Katze ist toll. Sie rast, sie tobt mit dem kleinen grauen Bündel herum, das sich nicht mehr bewegt, sie tanzt und wälzt sich über die Maus. Dann gibt es einen kleinen Knack; der Höhepunkt ist überschritten, die Katze beginnt erregt, doch schon gedämpft, zu knabbern. Knochen knistern – die Maus wird im Querschnitt dunkelrot – – –.</p>
+                              <lb xml:id="tg137.2.7.wgbx.0"/>
+                              <p xml:id="tg137.2.8.wgbx.0">Aber das ist keine Allegorie. Eine Allegorie ist ein Sinnbild, eine rednerische Form des Vergleichs, ein, wie es heißt, veraltetes Hilfsmittel. Das aber ist Leben – ist nichts andres als unser menschliches Tun auch. Es ist kein Unterschied: das war eine Katze, und wir sind Menschen – aber es war doch dasselbe.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.9.wgbx.0">Die arme Maus! Vielleicht hätte sie fleißig turnen sollen und allerhand Sport treiben – dann wäre das wohl nicht so schlimm für sie abgelaufen. Oder vielleicht haben ihre Vorfahren gesündigt, die auch einmal Katzen waren und sich dann in Nachdenklichkeit und Milde so langsam zur Maus herunter degenerierten. Wer weiß –.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.10.wgbx.0"> Die Katze ist eine Sadistin. Aber das ist ein dummes Wort; man denkt dann gleich an eine rothaarige Zirkusgräfin mit hohen Juchtenstiefeln und an verwelkte Mummelgreise im Frack, die ihr die Füße küssen und blödsinnige Komplimente lallen. Nein, so war das gar nicht; das mit der Zirkusgräfin ist nur der letzte Grenzfall.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.11.wgbx.0"> Natürlich ist die Katze ein Tier wie andre auch. Und sie ist stärker als die Maus, und das hat sie ausgenutzt weit über die Nahrungsfrage hinaus. Sie hatte die Kraft. Und die Maus litt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg137.2.12.wgbx.0"> 
+                                 <pb n="253" xml:id="tg137.2.12.1.wgbx.0"/> Und dieser Schnitt klafft durch alles, dieser Riß spaltet alles – da gibt es keine Brücke. Immer werden sich die zwei gegenüberstehen: die Katze und die Maus.</p>
+                              <lb xml:id="tg137.2.13.wgbx.0"/>
+                              <byline xml:id="tg137.2.14.wgbx.0">
+                                 <seg xml:id="tg137.2.14.1.wgbx.0">
+· Peter Panter<lb xml:id="tg137.2.14.1.1.wgbx.0"/>
+Die Schaubühne, 09.11.1916, Nr. 45, S. 443.</seg>
+                              </byline>
+                              <lb xml:id="tg137.2.15.wgbx.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wmgh.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Wenn erst . . .</title><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6906-8</idno><idno type="textgrid">textgrid:wmgh.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>254-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg138.wmgk.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Wenn erst . . . ">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Wenn erst . . . </title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6908-4</idno><idno type="TextGridUri">textgrid:wmgk.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>254-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg138.2.wmgk.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg138.2.1.wmgk.0">Wenn erst . . .</head>
+
+                              <lg>
+                                 <l xml:id="tg138.2.2.wmgk.0">»Mein Sohn, was hör ich nur für Sachen?</l>
+                                 <l xml:id="tg138.2.3.wmgk.0">Was schreibt mir Mutter da ins Feld?</l>
+                                 <l xml:id="tg138.2.4.wmgk.0">Du willst die Schularbeit nicht machen,</l>
+                                 <l xml:id="tg138.2.5.wmgk.0">du brauchst jetzt so viel Taschengeld?</l>
+                                 <l xml:id="tg138.2.6.wmgk.0">Du sitzt jetzt manchmal schon beim Weine</l>
+                                 <l xml:id="tg138.2.7.wmgk.0">(und warst doch sonst so brav und fromm!) –</l>
+                                 <l xml:id="tg138.2.8.wmgk.0">Mein Sohn, ich sag dir nur das eine:</l>
+                                 <l xml:id="tg138.2.9.wmgk.0">Laß Vatern bloß nach Hause komm'!«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg138.2.10.wmgk.0"/>
+                                 <l xml:id="tg138.2.11.wmgk.0">Nachdem ich Fritzchen dies geschrieben,</l>
+                                 <l xml:id="tg138.2.12.wmgk.0">hab ich mir manches überdacht.</l>
+                                 <l xml:id="tg138.2.13.wmgk.0">Bei denen, die zu Hause blieben,</l>
+                                 <l xml:id="tg138.2.14.wmgk.0">sind Furcht und Hoffnung aufgewacht.</l>
+                                 <l xml:id="tg138.2.15.wmgk.0">Der Friede kommt auf Glücksgaloschen,</l>
+                                 <l xml:id="tg138.2.16.wmgk.0">das Feuer sank, das Feuer glomm,</l>
+                                 <l xml:id="tg138.2.17.wmgk.0">und einmal ist es ganz erloschen . . .</l>
+                                 <l xml:id="tg138.2.18.wmgk.0">Laß Vatern bloß nach Hause komm'!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg138.2.19.wmgk.0"/>
+                                 <l xml:id="tg138.2.20.wmgk.0">Zum Beispiel Minchen spürt ein lindes</l>
+                                 <l xml:id="tg138.2.21.wmgk.0">Gefühl in ihrem zart Gemüt.</l>
+                                 <l xml:id="tg138.2.22.wmgk.0">Sie steht jetzt im Jahrzehnt des Kindes</l>
+                                 <l xml:id="tg138.2.23.wmgk.0">und ist auch häufig drum bemüht.</l>
+                                 <l xml:id="tg138.2.24.wmgk.0">Mama hat die und jene Sorgen,</l>
+                                 <l xml:id="tg138.2.25.wmgk.0">manch Fellchen ihr von dannen schwomm –</l>
+                                 <l xml:id="tg138.2.26.wmgk.0">der wuchert, und der will nicht borgen . . .</l>
+                                 <l xml:id="tg138.2.27.wmgk.0">Laß Vatern bloß nach Hause komm'!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg138.2.28.wmgk.0"/>
+                                 <l xml:id="tg138.2.29.wmgk.0">Und auch mit unsrer Politike – –</l>
+                                 <l xml:id="tg138.2.30.wmgk.0">da langt der Zensor nach dem Stift,</l>
+                                 <l xml:id="tg138.2.31.wmgk.0">und aus ists mit der Versmusike.</l>
+                                 <l xml:id="tg138.2.32.wmgk.0">Wir beten still: O Vater Swift!</l>
+                                 <l xml:id="tg138.2.33.wmgk.0">Begrüßten doch nicht gar so späte</l>
+                                 <l xml:id="tg138.2.34.wmgk.0">die an der Düna und der Somme</l>
+                                 <l xml:id="tg138.2.35.wmgk.0">den Reichstag, die Geheimbderäte . . .</l>
+                                 <l xml:id="tg138.2.36.wmgk.0">Laßt Vatern bloß nach Hause komm'!</l>
+                              </lg>
+                              <lb xml:id="tg138.2.37.wmgk.0"/>
+                              <byline xml:id="tg138.2.38.wmgk.0">
+                                 <seg xml:id="tg138.2.38.1.wmgk.0">
+                                    <pb n="254" xml:id="tg138.2.38.1.1.wmgk.0"/> · Theobald Tiger<lb xml:id="tg138.2.38.1.2.wmgk.0"/>
+Die Schaubühne, 16.11.1916, Nr. 46, S. 466, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg138.2.39.wmgk.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wgrq.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Die letzte Seite</title><title>Wenn erst . . .</title><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5CCE-F</idno><idno type="textgrid">textgrid:wgrq.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>255-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>254-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg139.wgrn.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Die letzte Seite">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die letzte Seite</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5CD0-7</idno><idno type="TextGridUri">textgrid:wgrn.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>255-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg139.2.wgrn.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg139.2.1.wgrn.0">Die letzte Seite</head>
+
+                              <p xml:id="tg139.2.2.wgrn.0">Mein Beruf – ich bin Zweiter Leuchtturmwächter auf der kleinen Ostseeinsel Achnoe, und die Nächte sind lang – mein Beruf zwingt mich, viel und ausgiebig zu lesen. Um neue Bücher ist mir nicht bange – die bekomme ich von meinem Freund, Herrn Andreas Portrykus, dem Nachtredakteur des <hi rend="italic" xml:id="tg139.2.2.1.wgrn.0">›Strahlförder Generalanzeigers‹</hi> (mit Unfallversicherung). Er schenkt mir alle Rezensionsexemplare, und so lese ich Nacht für Nacht, alles durcheinander: Romane und Reisebeschreibungen und zarte, sinnige Geschichten aus edler Frauenhand, und was man eben so liest.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.3.wgrn.0">Und wenn der Wind an die dicken Scheiben stößt, wenn mein Burgunderpunsch auf dem Tisch dampft, der bräunliche Tabak knastert und ich alter Mann wieder einmal froh bin, diesen Posten ergattert zu haben –: dann kommt es wohl vor, daß ich aus Zerstreutheit und guter Laune die Bücher von hinten zu lesen beginne, so, wie man aus einem Kuchen sich zuerst die Rosinen herausknabbert. Und da bin ich zu der Entdeckung gekommen, daß die Schlüsse all der vielen Bücher sich deutlich nach verschiedenen Arten gruppieren lassen. Es gibt Normalschlüsse, die immer wiederkehren: der Autor mag vom Mond heruntergefallen sein, am Schlusse besinnt er sich doch auf sein edles Menschentum und redet deutsch.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.4.wgrn.0"> Heute nacht habe ich wieder vier Pfund Bücher gelesen – mir ist noch manches im Gedächtnis. Ich will es einmal versuchen.</p>
+                              <lb xml:id="tg139.2.5.wgrn.0"/>
+                              <p xml:id="tg139.2.6.wgrn.0">
+                                 <hi rend="italic" xml:id="tg139.2.6.1.wgrn.0">Der Unterhaltungsroman, der Erfolg hat</hi>
+                              </p>
+                              <p xml:id="tg139.2.7.wgrn.0">» . . . Gefühlt habe ich es schon lange«, flüsterte Helene. »Aber du hast es mir erst ins Bewußtsein gebracht. Jetzt beginne ich erst wirklich zu leben.« – Edgar zog sie an sich . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.8.wgrn.0">So verrannen ihnen die Stunden, ohne daß sie es merkten. Dann schritten sie miteinander über das abendlich dämmernde Feld, auf dem sich der würzige Geruch der jungen Kartoffeln mit dem süßen Duft der Rosen mischte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.9.wgrn.0"> Edgar Helmenberg führte seine junge Braut in das Haus auf dem Hügel. Der Mond ging auf. Er ergriff ihre Hand. »Siehst du den Mond?« sagte er stark. »Ich aber will dir die Sonne geben!« – Und gebannt flüsterte sie: »Die Sonne!« –</p>
+                              <lb xml:id="tg139.2.10.wgrn.0"/>
+                              <p xml:id="tg139.2.11.wgrn.0">
+                                 <hi rend="italic" xml:id="tg139.2.11.1.wgrn.0">Der Unterhaltungsroman, der keinen Erfolg hat</hi>
+                              </p>
+                              <p xml:id="tg139.2.12.wgrn.0">Es war alles aus. Kuno stand an den Scherben seines bescheidenen Glücks. Warum ihm das Unglück? Warum gerade ihm? Und die anderen? Ingrimmig ballte er die Fäuste – und ließ dann doch die Hände wieder sinken.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.13.wgrn.0">Da zogen sie hin; wie sie gelacht hatte, seine – ja seine! – Gertrud. <pb n="255" xml:id="tg139.2.13.1.wgrn.0"/> Herr Doktor Holtzenheimer aber hatte Geld und war ein flotter Kerl . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.14.wgrn.0"> Die lange Liebe, die Werbungen so vieler Jahre – alles vergebens. Da brach er weinend zusammen und zerknickte die Rose in seiner Tasche . . .</p>
+                              <lb xml:id="tg139.2.15.wgrn.0"/>
+                              <p xml:id="tg139.2.16.wgrn.0">
+                                 <hi rend="italic" xml:id="tg139.2.16.1.wgrn.0">Professorale Reisebeschreibung</hi>
+                              </p>
+                              <p xml:id="tg139.2.17.wgrn.0">So endet diese meine schöne und lehrreiche Reise in das Sonnenland Ägypten. Sie hat mir viel Neues gezeigt und meinen Wissenskreis erweitert. Sie hat mir aber auch bewiesen, wie heutzutage der Deutsche überall wohlgelitten ist, wenn er nur seinen Platz an der Sonne verteidigt. Möge das Büchlein seinen Lesern Unterhaltung und anregende Belehrung gewähren, damit auch sie dereinst hinausziehen in das altehrwürdige Land des Nils und der Könige Ramses und Ramsenit!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.18.wgrn.0">Bemerkt mag noch werden, daß der auf Seite 154 erwähnte mittlere Fliegenpilz auch in Deutschland beobachtet worden ist. So hat nach einer Mitteilung Schaedlers im <hi rend="italic" xml:id="tg139.2.18.1.wgrn.0">›Geographischen Wochenblatt‹</hi> ein Lehrer in Meißen einen solchen gefunden und auch bestimmt.</p>
+                              <lb xml:id="tg139.2.19.wgrn.0"/>
+                              <p xml:id="tg139.2.20.wgrn.0">
+                                 <hi rend="italic" xml:id="tg139.2.20.1.wgrn.0">Die Moderne um 1900</hi>
+                              </p>
+                              <p xml:id="tg139.2.21.wgrn.0">»Seele«, flüsterte er. Dann knallte ein Schuß. Die aufgeschreckten Hausbewohner liefen durcheinander – – Schutzleute bahnten sich einen Weg durch die Menge. Der Mann im Hausflur war tot. Sein Blut sickerte durch den linken Ärmel auf den hellblau und grünlich karierten Steinfliesboden und verrann in Rinnseln in den staubigen Fugen . . .</p>
+                              <lg>
+                                 
+                                 <l xml:id="tg139.2.23.wgrn.0">
+                                    <hi rend="italic" xml:id="tg139.2.23.1.wgrn.0">Altes Buch</hi>
+                                 </l>
+                              </lg>
+                              <p xml:id="tg139.2.24.wgrn.0">»Möge euch«, so schloß der Geistliche seine alle Anwesenden aufs tiefste ergreifende Rede, »der liebe Gott den Bund segnen, den zwei so mächtige Familien miteinander durch ihre Kinder geschlossen haben!« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.25.wgrn.0">Was soll ich noch viel erzählen? – Eduard und Kunigunde wurden ein glückliches, aber kinderreiches Paar; der alte Hader war begraben und vergessen. Draußen aber pfeift der Wächter schon die zwölfte Stunde, laß mich das Licht löschen, geneigter Leser! Gute Nacht! –</p>
+                              <lb xml:id="tg139.2.26.wgrn.0"/>
+                              <lg>
+                                 <l xml:id="tg139.2.27.wgrn.0">
+                                    <hi rend="italic" xml:id="tg139.2.27.1.wgrn.0">Das richtige Jungensbuch</hi>
+                                 </l>
+                                 <l xml:id="tg139.2.28.wgrn.0">
+                                    <hi rend="italic" xml:id="tg139.2.28.1.wgrn.0">(›Die Lagerfeuer in Kalifornien‹)</hi>
+                                 </l>
+                              </lg>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.29.wgrn.0">»Schurke!« knirschte der Mestize. Ein Messer blitzte in seiner Hand – aber mit einem gewaltigen Schlage streckte ihn der alte Trapper nieder. Ein kurzes Röcheln – dann war alles vorbei.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.30.wgrn.0"> Der alte Trapper geleitete die Karawane noch in die nächste große Stadt S., dann begab er sich wieder in seine Einöde zurück. »Einen Dank brauche ich nicht«, sagte er. »Ich habe nur getan, was rechtens war.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.31.wgrn.0"> 
+                                 <pb n="256" xml:id="tg139.2.31.1.wgrn.0"/> Franz und Fräulein Armstrong, die Erbin des Goldfundes, wurden ein Paar und lebten glücklich und zufrieden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.32.wgrn.0"> Der Kellner Fritz bekam eine zuträgliche Stellung in San Francisco, die er heute noch innehat.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.33.wgrn.0"> Von dem hinterhältigen Don Pedro hat kein Mensch mehr etwas gehört. Er blieb verschollen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.34.wgrn.0"> Der alte Indianer Hefrakorn aber erhielt das Gnadenbrot bei Krafts. Franz Kraft ist ein alter Mann geworden, und Kinder und Enkel umspielen seine Knie. Wenn er aber mit seiner immer noch schönen Frau, seinen Kindern und dem alten Indianer um den runden Tisch zusammensitzt, dann gedenken sie wohl noch oft der</p>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPC" xml:id="tg139.2.35.wgrn.0">›Lagerfeuer in Kalifornien‹.</p>
+                              <milestone unit="hi_end"/>
+                              <lb xml:id="tg139.2.36.wgrn.0"/>
+                              <p xml:id="tg139.2.37.wgrn.0">Ja, wird stets der geneigte Leser nun sagen: Das ist ja alles sehr schön und nett – aber wie soll denn ein Buchschluß nun sein? Diese gefallen doch dem Herrn Leuchtturmwächter alle nicht . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.38.wgrn.0">Ich muß sagen, daß ich in meiner jetzt zwanzigjährigen Dienstzeit nur einmal einen wirklich guten, ehrlichen und motivierten Buchschluß gefunden habe. Er fand sich in einem Gedichtbüchlein <hi rend="italic" xml:id="tg139.2.38.1.wgrn.0">›Frühlingsstimmen‹</hi> von Herrn Hugo Taubensee. Der Mann war – wie man aus dem beigehefteten Porträt sehen konnte – Postschaffner, aber auch Dichter, eine der so häufigen Verbindungen von Geschäftsmann und Romantiker. Der Verleger war nur Geschäftsmann.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.39.wgrn.0"> Diese <hi rend="italic" xml:id="tg139.2.39.1.wgrn.0">›Frühlingsstimmen‹</hi> klangen folgendermaßen aus:</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.40.wgrn.0"> »Mitteilung an den Leser!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.41.wgrn.0"> Die gesammelten Gedichte des Verfassers gehen in Wirklichkeit noch weiter. Weil ich aber nicht in der bemittelten Lage bin, weiteres Papier und auch die Druckkosten anzuschaffen, so sehe ich mich gezwungen, die Gedichte hier abzubrechen. Ich will aber, wenn der Absatz dieses Büchleins ein entsprechender ist, die <hi rend="italic" xml:id="tg139.2.41.1.wgrn.0">›Frühlingsstimmen‹</hi> gern fortsetzen. Die Leser handeln also im eigenen Interesse, wenn sie das Buch fleißig kaufen und weiter empfehlen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg139.2.42.wgrn.0"> Das heiß ich einen Schluß! Von jetzt an werde ich mich mehr den Anfängen zuwenden.</p>
+                              <lb xml:id="tg139.2.43.wgrn.0"/>
+                              <byline xml:id="tg139.2.44.wgrn.0">
+                                 <seg xml:id="tg139.2.44.1.wgrn.0">
+· Peter Panter<lb xml:id="tg139.2.44.1.1.wgrn.0"/>
+Die Schaubühne, 23.11.1916, Nr. 47, S. 488, wieder in: Mit 5 PS.</seg>
+                              </byline>
+                              <lb xml:id="tg139.2.45.wgrn.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wmrr.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Wetterhäuschen</title><title>Die letzte Seite</title><title>Wenn erst . . .</title><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-69F6-C</idno><idno type="textgrid">textgrid:wmrr.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>257-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>255-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>254-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg140.wmrs.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Wetterhäuschen">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Wetterhäuschen</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-69F5-E</idno><idno type="TextGridUri">textgrid:wmrs.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>257-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg140.2.wmrs.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg140.2.1.wmrs.0">Wetterhäuschen</head>
+
+                              <lg>
+                                 <l xml:id="tg140.2.2.wmrs.0">Mal gehts uns gut. Dann brüllt der Chor der Rache.</l>
+                                 <l xml:id="tg140.2.3.wmrs.0">Die Weltenunterjocher werden wild.</l>
+                                 <l xml:id="tg140.2.4.wmrs.0">Der Bizeps steigt. Der Kluge ist der Schwache.</l>
+                                 <l xml:id="tg140.2.5.wmrs.0">Nur Macht ist Recht, die Mannessehne schwillt –</l>
+                                 <l xml:id="tg140.2.6.wmrs.0">Mal gehts uns gut.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg140.2.7.wmrs.0"/>
+                                 <pb n="257" xml:id="tg140.2.8.wmrs.0"/> 
+                                 <l xml:id="tg140.2.9.wmrs.0">Mal klappts nicht so. Sieh da: die Idealen</l>
+                                 <l xml:id="tg140.2.10.wmrs.0">zitieren Luther, Goethe und von Kleist.</l>
+                                 <l xml:id="tg140.2.11.wmrs.0">Ein Krämervolk nur pocht auf seine Zahlen,</l>
+                                 <l xml:id="tg140.2.12.wmrs.0">und man besinnt sich plötzlich auf den Geist –</l>
+                                 <l xml:id="tg140.2.13.wmrs.0">Mal klappts nicht so.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg140.2.14.wmrs.0"/>
+                                 <l xml:id="tg140.2.15.wmrs.0">Und jenachdem der Stand schlecht oder bene,</l>
+                                 <l xml:id="tg140.2.16.wmrs.0">drehn sich aus ihrem kleinen Haus von Holz</l>
+                                 <l xml:id="tg140.2.17.wmrs.0">Mars aus Papiermaché, Pallas Athene,</l>
+                                 <l xml:id="tg140.2.18.wmrs.0">ein jedes unumschränkt und stolz –</l>
+                                 <l xml:id="tg140.2.19.wmrs.0">Ganz jenachdem.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg140.2.20.wmrs.0"/>
+                                 <l xml:id="tg140.2.21.wmrs.0">Sieh ohne Ehrfurcht auf die bunte Puppe;</l>
+                                 <l xml:id="tg140.2.22.wmrs.0">sie ist beweglich, drum erkenn daraus:</l>
+                                 <l xml:id="tg140.2.23.wmrs.0">Wer vorne steht, ist ja wohl gänzlich schnuppe –</l>
+                                 <l xml:id="tg140.2.24.wmrs.0">der Himmel machts . . . und nicht das Wetterhaus!</l>
+                              </lg>
+                              <lb xml:id="tg140.2.25.wmrs.0"/>
+                              <byline xml:id="tg140.2.26.wmrs.0">
+                                 <seg xml:id="tg140.2.26.1.wmrs.0">
+· Theobald Tiger<lb xml:id="tg140.2.26.1.1.wmrs.0"/>
+Die Schaubühne, 28.12.1916, Nr. 52, S. 612, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg140.2.27.wmrs.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wksf.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Nebenan</title><title>Wetterhäuschen</title><title>Die letzte Seite</title><title>Wenn erst . . .</title><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-66C2-5</idno><idno type="textgrid">textgrid:wksf.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>258-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>257-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>255-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>254-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg141.wksh.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Nebenan">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Nebenan</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-66C0-9</idno><idno type="TextGridUri">textgrid:wksh.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>258-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg141.2.wksh.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg141.2.1.wksh.0">Nebenan</head>
+
+                              <p xml:id="tg141.2.2.wksh.0">Nebenansitzen die Leutnants hinter der dünnen weißlackierten Tür. 's geht ja hoch her, dideldumdei! Aber unsereiner ist nicht dabei. Wir – die so Gemeinen – stehen im Nebenzimmer um einen Tisch und vervielfältigen irgend etwas auf einer rätselhaften komplizierten Druckmaschine.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg141.2.3.wksh.0">Der kleine Leutnant hat den Deckel des Flügels zurückgeklappt. Jetzt –. Er spielt doch sehr hübsch. Er versteht es, so die Töne im Sopran perlen zu lassen, ein bißchen zu zögern und dann unten im Baß loszulegen. Was der Junge alles mit dem einfachen Walzerrhythmus anstellt! Wie wenn jemand auf eine Trampoline aus Gummi springt, so schnellt und federt das. Wie dumpf die Resonanz klingt!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg141.2.4.wksh.0"> Alle rufen den Namen eines Liedes, das jedes Grammophon auswendig weiß. Er klingelt es ihnen vor. Nach den ersten belanglosen Passagen, in denen der merkwürdige Ton b in A-Dur dem Tondichter das Gefühl höher schwellen ließ, es mit den polyphonsten Modernen aufnehmen zu können, kommen jene berühmten sechzehn Takte, die eigentlich nur ein großes Atemholen sind, die Pause vor dem Schlag. Schlag zu –!</p>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPC" xml:id="tg141.2.5.wksh.0">»Flieg, du kleine Rumplertaube . . . «</p>
+                              <milestone unit="hi_end"/>
+                              <p xml:id="tg141.2.6.wksh.0">Der ganze Laden singt mit! Wenn man den ganzen Tag übergeflogen ist, dann hat man schließlich das gute Recht, abends davon zu singen. Und sie singen! Einer hat eine Stimme wie ein Hahnenimitator, ein andrer mutiert grade, dazu ein oller, ehrlicher Baß – Symposion.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg141.2.7.wksh.0">Meine Mitgemeinen sind schon lange fort. Der Leutnant spielt noch <pb n="258" xml:id="tg141.2.7.1.wksh.0"/> immer. Er spielt mir – der Teufel hole die Assoziationen, und Gott segne sie! – alle Erinnerungen des ›Voraugust‹ wach. Das war eine sündhafte Zeit: die ganze Nacht tanzten wir Tango, verjubelten unser Geld durch den Besuch der (Karl, zieh den Atem ein) Lichtspielhäuser und schwelgten in Kunstgenüssen, die uns im wesentlichen das Ausland vermittelte. So war es doch, nicht wahr? Denn so steht es auch in meiner Zeitung, und da muß es wohl richtig sein. Der Leutnant spielt. Er spielt alles hintereinander, was ihm grade einfällt: da – nun macht er im Walzer eine kleine niederträchtige Pause, unter der man sich allerlei vorstellen kann . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg141.2.8.wksh.0"> Die Lampe ist fort. Auf dem Tisch schimmert matt die geheimnisvolle Maschine. Es ist ganz dunkel. Und in dem Dunkel ist nur ein helles Ding; es blinzelt mich an, leuchtend, glänzend, unverschämt blitzend: das Schlüsselloch.</p>
+                              <lb xml:id="tg141.2.9.wksh.0"/>
+                              <byline xml:id="tg141.2.10.wksh.0">
+                                 <seg xml:id="tg141.2.10.1.wksh.0">
+· Peter Panter<lb xml:id="tg141.2.10.1.1.wksh.0"/>
+Die Schaubühne, 30.11.1916, Nr. 48, S. 517.</seg>
+                              </byline>
+                              <lb xml:id="tg141.2.11.wksh.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wkp3.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Der Kriegslieferant</title><title>Nebenan</title><title>Wetterhäuschen</title><title>Die letzte Seite</title><title>Wenn erst . . .</title><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-665E-B</idno><idno type="textgrid">textgrid:wkp3.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>259-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>258-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>257-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>255-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>254-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg142.wkp2.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Der Kriegslieferant">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Der Kriegslieferant</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6660-3</idno><idno type="TextGridUri">textgrid:wkp2.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>259-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg142.2.wkp2.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg142.2.1.wkp2.0">Der Kriegslieferant</head>
+
+                              <lg>
+                                 <l xml:id="tg142.2.2.wkp2.0">Du wohntest irgendwo am Friedrichshaine.</l>
+                                 <l xml:id="tg142.2.3.wkp2.0">Auf deiner Ehe ruhte Gottes Segen</l>
+                                 <l xml:id="tg142.2.4.wkp2.0">(sechs Kinder). Deine säuerlichen Weine</l>
+                                 <l xml:id="tg142.2.5.wkp2.0">ernährten nebst Versicherungsverträgen,</l>
+                                 <l xml:id="tg142.2.6.wkp2.0">den Renntips, auch wohl einem Spielchen ›Meine</l>
+                                 <l xml:id="tg142.2.7.wkp2.0">und deine Tante‹ dich noch allerwegen.</l>
+                                 <l xml:id="tg142.2.8.wkp2.0">Bald hattst du nichts, bald hattst du blaue Scheine.</l>
+                                 <l xml:id="tg142.2.9.wkp2.0">Oft sah man deine Frau die Treppen fegen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg142.2.10.wkp2.0"/>
+                                 <l xml:id="tg142.2.11.wkp2.0">Doch als der Welt vor Angst die Pulse stocken,</l>
+                                 <l xml:id="tg142.2.12.wkp2.0">wirfst du dich auf die Marke ›Suppenkraft‹ –</l>
+                                 <l xml:id="tg142.2.13.wkp2.0">da stieg dein Stern! In der Gemahlin Locken</l>
+                                 <l xml:id="tg142.2.14.wkp2.0">blitzt die Agraffe auf im Band von Taft.</l>
+                                 <l xml:id="tg142.2.15.wkp2.0">Von Paulchen Thumann, Stöwer und Van Gocken</l>
+                                 <l xml:id="tg142.2.16.wkp2.0">hast du dir schnell das Nötigste errafft.</l>
+                                 <l xml:id="tg142.2.17.wkp2.0">Und läuten einmal uns die Friedensglocken:</l>
+                                 <l xml:id="tg142.2.18.wkp2.0">Was kost't Berlin? Du hast das Ding geschafft!</l>
+                              </lg>
+                              <lb xml:id="tg142.2.19.wkp2.0"/>
+                              <byline xml:id="tg142.2.20.wkp2.0">
+                                 <seg xml:id="tg142.2.20.1.wkp2.0">
+· Theobald Tiger<lb xml:id="tg142.2.20.1.1.wkp2.0"/>
+Die Schaubühne, 14.12.1916, Nr. 50, S. 561, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg142.2.21.wkp2.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wjzm.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Selbstbesinnung</title><title>Der Kriegslieferant</title><title>Nebenan</title><title>Wetterhäuschen</title><title>Die letzte Seite</title><title>Wenn erst . . .</title><title>Die Katze spielt mit der Maus</title><title>Berliner Gerüchte</title><title>An eine Marie vom Lande</title><title>Der alte Pojaz spricht</title><title>Das Grammophon</title><title>Memento</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1916</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-640D-F</idno><idno type="textgrid">textgrid:wjzm.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>259-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>259-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>258-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>257-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>255-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>254-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>252-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>251-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>250-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>247-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg143.wjzk.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1916/Selbstbesinnung">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Selbstbesinnung</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-640C-2</idno><idno type="TextGridUri">textgrid:wjzk.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>259-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg143.2.wjzk.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg143.2.1.wjzk.0">Selbstbesinnung</head>
+
+                              <lg>
+                                 <l xml:id="tg143.2.2.wjzk.0">Fort mit der sonst so aktuellen Harfe!</l>
+                                 <l xml:id="tg143.2.3.wjzk.0">Heut pfeif ich mir nach eigenem Bedarfe</l>
+                                 <l xml:id="tg143.2.4.wjzk.0">auf meiner Flöte einen in Cis-Moll</l>
+                                 <l xml:id="tg143.2.5.wjzk.0">von dem, was ist; von dem, was werden soll.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg143.2.6.wjzk.0"/>
+                                 <pb n="259" xml:id="tg143.2.7.wjzk.0"/> 
+                                 <l xml:id="tg143.2.8.wjzk.0">Von dem, was ist . . . Kaum kann uns etwas schrecken.</l>
+                                 <l xml:id="tg143.2.9.wjzk.0">Mars schlägt mit Wucht auf sein verzinktes Becken –</l>
+                                 <l xml:id="tg143.2.10.wjzk.0">laß bluten, was da bluten mag –</l>
+                                 <l xml:id="tg143.2.11.wjzk.0">und er regiert die Stunde und den Tag.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg143.2.12.wjzk.0"/>
+                                 <l xml:id="tg143.2.13.wjzk.0">Und er regiert die Stunde und das Jahr –</l>
+                                 <l xml:id="tg143.2.14.wjzk.0">bedenk, wer damals noch am Leben war!</l>
+                                 <l xml:id="tg143.2.15.wjzk.0">Und leise spielt – wie waren wir doch jung! –</l>
+                                 <l xml:id="tg143.2.16.wjzk.0">der Leierkasten der Erinnerung.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg143.2.17.wjzk.0"/>
+                                 <l xml:id="tg143.2.18.wjzk.0">Wie kannst du dich in all dem wiederfinden?</l>
+                                 <l xml:id="tg143.2.19.wjzk.0">Du magst dich mühsam durch Systeme winden,</l>
+                                 <l xml:id="tg143.2.20.wjzk.0">durch Pflichten, die es geben muß und gibt –</l>
+                                 <l xml:id="tg143.2.21.wjzk.0">du siehst dahinter und wirst unbeliebt.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg143.2.22.wjzk.0"/>
+                                 <l xml:id="tg143.2.23.wjzk.0">Laß dich von keinem Schlagwort kirren!</l>
+                                 <l xml:id="tg143.2.24.wjzk.0">Von keinem Vollbart dich beirren!</l>
+                                 <l xml:id="tg143.2.25.wjzk.0">Es schenkt dir niemand was dazu –</l>
+                                 <l xml:id="tg143.2.26.wjzk.0">bleib, was du warst; bleib immer: Du!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg143.2.27.wjzk.0"/>
+                                 <l xml:id="tg143.2.28.wjzk.0">Geheimrat Goethe sang nicht minder</l>
+                                 <l xml:id="tg143.2.29.wjzk.0">vom höchsten Glück der Erdenkinder –</l>
+                                 <l xml:id="tg143.2.30.wjzk.0">er war Ministerpräsident</l>
+                                 <l xml:id="tg143.2.31.wjzk.0">und also sicher kompetent.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg143.2.32.wjzk.0"/>
+                                 <l xml:id="tg143.2.33.wjzk.0">Man kehrt nach aller Schicksalstücke</l>
+                                 <l xml:id="tg143.2.34.wjzk.0">doch immer auf sich selbst zurücke.</l>
+                                 <l xml:id="tg143.2.35.wjzk.0">Drum wünsch ich dir nach dem Gebraus</l>
+                                 <l xml:id="tg143.2.36.wjzk.0">dein altes, starkes, eignes Haus!</l>
+                              </lg>
+                              <lb xml:id="tg143.2.37.wjzk.0"/>
+                              <byline xml:id="tg143.2.38.wjzk.0">
+                                 <seg xml:id="tg143.2.38.1.wjzk.0">
+                                    <pb n="260" xml:id="tg143.2.38.1.1.wjzk.0"/> · Theobald Tiger<lb xml:id="tg143.2.38.1.2.wjzk.0"/>
+Die Schaubühne, 21.12.1916, Nr. 51, S. 584, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg143.2.39.wjzk.0"/>
+
+
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus></teiCorpus>

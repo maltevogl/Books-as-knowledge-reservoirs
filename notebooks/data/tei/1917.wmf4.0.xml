@@ -1,0 +1,1096 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:wmf4.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-61C5-B</idno><idno type="textgrid">textgrid:wj8g.0</idno></publicationStmt><sourceDesc/></fileDesc></teiHeader><teiCorpus corresp="textgrid:wk8k.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6512-A</idno><idno type="textgrid">textgrid:wk8k.0</idno><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg145.wk8j.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Die Sekt-Eule">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Sekt-Eule</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6511-C</idno><idno type="TextGridUri">textgrid:wk8j.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>263-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <head type="h2" xml:id="tg144.2.1.wk8j.0">1917</head>
+                        <pb n="261" xml:id="tg144.2.2.wk8j.0"/> 
+                        <pb type="start" n="263" xml:id="tg144.2.3.wk8j.0"/>
+                        <lb xml:id="tg144.2.4.wk8j.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg145.2.wk8j.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg145.2.1.wk8j.0">Die Sekt-Eule</head>
+
+                              <lg>
+                                 <l xml:id="tg145.2.2.wk8j.0">Der Vogel denkt: »Weil dem so ist,</l>
+                                 <l xml:id="tg145.2.3.wk8j.0">Und weil mich doch der Kater frißt,</l>
+                                 <l xml:id="tg145.2.4.wk8j.0">So will ich mich denn auch nicht zieren,</l>
+                                 <l xml:id="tg145.2.5.wk8j.0">Will noch ein wenig quinquilieren.«</l>
+                                 <l xml:id="tg145.2.6.wk8j.0">Und pfeift sich wirklich etwas vor.</l>
+                                 <l xml:id="tg145.2.7.wk8j.0">Der Vogel, scheint mir, hat Humor.</l>
+                              </lg>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPR" xml:id="tg145.2.8.wk8j.0">Busch</p>
+                              <milestone unit="hi_end"/>
+                              <lb xml:id="tg145.2.9.wk8j.0"/>
+                              <p xml:id="tg145.2.10.wk8j.0">Als aber der Heilige Grotescus, der gerissene Gott, der alten Eule Champagner eingefüllt hatte, da begannen ihre Augen unheimlich zu glühen. Und es währte nicht lange – siehe, da begann der altehrwürdige Vogel auf einem Bein zu hüpfen und unaufhörlich zu lachen. Und er lachte mit gackernder Stimme und kniff abwechselnd das rechte und dann das linke Auge zu, und der schlaue Heilige freute sich diebisch in seinem Gemüte: denn die sonst so schweigsame Matrone plauderte alles aus, was sie wußte. So wurde das Geheimnis der alten Eule verraten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg145.2.11.wk8j.0">Abgesehen davon hat Mynona im Verlage Kurt Wolff ein schmales Bändchen Grotesken:<hi rend="italic" xml:id="tg145.2.11.1.wk8j.0"> ›Schwarz-Weiß-Rot‹</hi> erscheinen lassen – und das Heft bewirkt etwas, was dicke Wälzer an Humor nicht fertig bekommen haben: Man lacht. Man rollt sich. Man trudelt über alle Treppengänge des stolzen Weltenbaus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg145.2.12.wk8j.0"> Seine Komik ist sehr schwer zu fassen, sie ist ganz unterirdisch. Zunächst fallen einmal alle Hemmungen weg, der Himmel öffnet sich, der liebe Gott selbst streicht sich seinen weißen Bart, aber er und der Bart sind aus Glas, man sieht durch sie hindurch, in den zweiten Himmel, da sitzt Haeckel und liest in einem dicken Buch <hi rend="italic" xml:id="tg145.2.12.1.wk8j.0">›Welträtsel für artige Kinder‹</hi>, aber auch er ist gläsern, man sieht weiter, weiter. Und ein himmlisches Feixen durchzieht den Raum.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg145.2.13.wk8j.0"> Daß unsre Erde bei einer solchen Betrachtungsweise nicht immer gut wegkommt, läßt sich wohl denken. Sie wird es verwinden. Aber der Schreck, wenn auch dieses Verwinden schon wieder bespöttelt ist!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg145.2.14.wk8j.0"> Mynona möge mich keines Vollbartes zeihen, wenn ich sage, daß nicht alles künstlerisch geglückt ist. Technisch ist vieles ganz abstrus – viel zu lang, besonders gegen den Schluß der kleinen Geschichten macht sich häufig eine trunkene Schläfrigkeit bemerkbar. Dafür sind viele Passagen, besonders im Andante der Sonaten, hinreißend. So das: » . . . nach dem lieben alten Weimar, nebenbei gesagt, saß dort im Wartesaal erster Klasse die stadtbekannte Schwester des weltbekannten Bruders im anmutigen Gespräch mit einer alten Durchlaucht von Rudolstadt; Abnossah hörte grade die Worte: ›Unser Fritz hatte stets eine militärische Haltung, und doch war er <pb n="263" xml:id="tg145.2.14.1.wk8j.0"/> sanft, er war mit andern von echt christlicher Sanftmut – wie würde er sich über diesen Krieg gefreut haben! und über das herrliche, ja heilige Buch von Max Scheler!‹ Abnossah schlug vor Schrecken längelang hin.« Bautsch! Und so kommt man in dieser Goetheschen Liebesgeschichte aus dem Schmunzeln (der schönsten Form des Lachens) gar nicht heraus. Es ist gewissermaßen eine Welt in Anführungszeichen; nur je vorn und hinten ein »« und noch ein »« – und sie glänzt ganz und gar in buttriger Heiterkeit.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg145.2.15.wk8j.0"> Und es ist alles da: Herr Boboll, der das Nötigste bei sich hat und der Mitwelt damit aushilft (Thermometer, Barometer, die vielen kleinen Bedürfnisse des Lebens . . . ), Herr Boboll, den man auch deklinieren kann: Boboll, Bobolls, Bobolln, Bobolln – und eine wehmütige Erinnerung an Paulum Scheerbart (<hi rend="italic" xml:id="tg145.2.15.1.wk8j.0">›Das vertikale Gewerbe‹ –</hi> befürchten Sie nichts, Leserin!) und der dativus disputationis ist Ihnen auch da – kurz: nur hereingetreten, meine Allerwertesten!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg145.2.16.wk8j.0"> Das Bändchen kostet achtzig Pfennige. Vielleicht reizt es manchen, sich <hi rend="italic" xml:id="tg145.2.16.1.wk8j.0">›Rosan, der schönen Schutzmannsfrau‹</hi> (auch bei Kurt Wolff) zu verbinden. Sie wird ihm helfen, die große Zeit zu vertreiben.</p>
+                              <lb xml:id="tg145.2.17.wk8j.0"/>
+                              <byline xml:id="tg145.2.18.wk8j.0">
+                                 <seg xml:id="tg145.2.18.1.wk8j.0">
+· Peter Panter<lb xml:id="tg145.2.18.1.1.wk8j.0"/>
+Die Schaubühne, 04.01.1917, Nr. 1, S. 12.</seg>
+                              </byline>
+                              <lb xml:id="tg145.2.19.wk8j.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wjhf.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-628F-0</idno><idno type="textgrid">textgrid:wjhf.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg146.wjhd.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Meinen Freunden den Idealisten">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Meinen Freunden den Idealisten</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-628E-1</idno><idno type="TextGridUri">textgrid:wjhd.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>264-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg146.2.wjhd.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg146.2.1.wjhd.0">Meinen Freunden den Idealisten</head>
+
+                              <p xml:id="tg146.2.2.wjhd.0">Man sollte sie in Gänsefüßchen setzen, bevor man sie schilt. Denn es gibt solche und solche. Solche: die sagen, die Erde sei noch gar nichts, man müsse erst einmal die Erde in der Vollendung ihrer Idee sehen . . . Da ist es nun merkwürdig zu beobachten, wie sich die übelsten Kerls auf Vater Hegel und seine sieben Söhne berufen, wie der größte Schweinehund das Wort Wilhelm von Humboldt auf der Zunge zergehen läßt, daß es eine Lust ist. Nun steht uns im Lärm dieser Tage nicht an, zu untersuchen, ob Hegel wirklich – oder ob Fichte . . . Aber es ist doch merkwürdig: auf den so optimistischen Idealisten Schopenhauer, der ganz unbekümmert im Glauben die Erde durchmaß, schnappt keiner ein. Er verpflichtet.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg146.2.3.wjhd.0">Musik und die schleimige Philosophie verpflichten zu nichts. Die Begriffe sind freilich groß und weit – es geht alles hinein, aber es ist nichts drin. Gott – Staat – All – wie das hallt! Eben wie ein hohles Faß. Man kann alles hineinpacken, aber man muß nicht. Und unter der weiten Kuppel der erhabenen Worte finden sich alle, alle: Müde und Gesunde und Leute mit dem bösen Gewissen und schöne Seelen und Frauen. Hier haben Sie die Universalweltanschauung; weil sie für keinen unmittelbar paßt, ist sie jedem auf den Leib geschnitten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg146.2.4.wjhd.0"> Aber tun wir doch das Prachtgewand ab –! Dann kommt der Alltag und der Ernst des Lebens. Ertüchtigung – Durchsetzen der <pb n="264" xml:id="tg146.2.4.1.wjhd.0"/> Persönlichkeit – gut, gut. Wir werden die Welt nicht ändern, nicht einmal, wenn wir einen Verein gründen. Aber gehört das mit dazu, den mächtigen kitzelnden Willen mit Draperien zu verkleiden? Ist das auch ein Bestandteil der germanischen Philosophie, die jetzt so sehr in die Mode gekommen ist? Langbehnig taucht der Schatten des Rembrandt-Deutschen auf – lieber nicht. »Die Welt ist viel trivialer oder, wenn du es auf deutsch willst, viel nichtsbedeutender, als sie sich einbildet. Es ist in Wahrheit die größte Seltenheit auf Erden, daß ein Mensch aus wahrhaft pathetischen Gründen etwas Rechtes im Guten oder Schlimmen, nach der Licht- oder nach der Schattenseite hin, wird oder zu Stande bringt. Wir werden meistens durch Kleinigkeiten zu Helden, Narren, Verbrechern oder Parakleten gemacht. Bonaparte kann seine Schneiderrechnung nicht bezahlen, geht hin, heiratet die Mätresse Barras' und marschiert zur italienischen Armee. An Schiller schreibt Körner: ›Schneider Müller fragt auch an, wann du zurückkommst‹, und Schiller geht hin und schreibt den <hi rend="italic" xml:id="tg146.2.4.2.wjhd.0">›Don Carlos‹</hi>. Verlaß dich drauf, Kind, und glaube nicht sofort daran, wenn sie dir mit dem Pathos kommen. Kleinigkeiten sinds –«. Also spricht der alte heilige Raabe, und der war auch ein Deutscher.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg146.2.5.wjhd.0"> Die Idealisten aber spielen auf dem Pianoforte ihrer Begriffe – ach, wären es doch schwarze Bösewichter! Der Sonntag ist abstrakt, die Woche aber konkret und nahrhaft, und gerührt blickt Vater Hegel und Mama Fichte, das Elternpaar, auf die so vorzüglich geratene Nachkommenschaft.</p>
+                              <lb xml:id="tg146.2.6.wjhd.0"/>
+                              <byline xml:id="tg146.2.7.wjhd.0">
+                                 <seg xml:id="tg146.2.7.1.wjhd.0">
+· Ignaz Wrobel<lb xml:id="tg146.2.7.1.1.wjhd.0"/>
+Die Schaubühne, 01.02.1917, Nr. 3, S. 107.</seg>
+                              </byline>
+                              <lb xml:id="tg146.2.8.wjhd.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wm8r.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-685F-A</idno><idno type="textgrid">textgrid:wm8r.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg147.wm8p.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Das grüne Gesicht">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Das grüne Gesicht</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-685D-E</idno><idno type="TextGridUri">textgrid:wm8p.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>265-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg147.2.wm8p.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg147.2.1.wm8p.0">Das grüne Gesicht</head>
+
+                              <p xml:id="tg147.2.2.wm8p.0">Damals, als die kleinen Geschichten Gustav Meyrinks (jetzt gesammelt in <hi rend="italic" xml:id="tg147.2.2.1.wm8p.0">›Des deutschen Spießers Wunderhorn‹</hi> bei Albert Langen) erschienen, hätten wir es uns nicht träumen lassen, daß dieser große Verneiner (also auch große Bejaher) einmal unter keinem deutschen Tannenbaum würde fehlen dürfen. Es war die junge Generation, die ihn lachend verehrte – und von den Ältern <hi rend="italic" xml:id="tg147.2.2.2.wm8p.0">die</hi>, die jung geblieben und weise geworden waren im langen Laufe der Zeit.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.3.wm8p.0">Heute haben <hi rend="italic" xml:id="tg147.2.3.1.wm8p.0">›Der Golem‹</hi> und <hi rend="italic" xml:id="tg147.2.3.2.wm8p.0">›Das grüne Gesicht‹</hi> zusammen einhundertundvierzig Auflagen erreicht – und damals die kleinen Geschichten zusammen noch keine zehn. Was ist da vorgegangen? Abgesehen von einer mutigen und mustergültigen Reklame.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.4.wm8p.0"> Zweierlei: Meyrink hat auf die Form, die er meisterhaft beherrschte, nicht mehr acht gegeben, und spricht das Idiom der Masse – und zum zweiten hat er den engen Mantel mit dem weiten vertauscht. Er trug den engen: wem er nicht wie angegossen paßte, der zog ihn nicht an. Haarscharf stand sich Plus und Minus gegenüber, <pb n="265" xml:id="tg147.2.4.1.wm8p.0"/> da gab es nichts Verwaschenes, Böcke und Schafe waren genau getrennt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.5.wm8p.0"> Da waren auf der einen Seite die Materialisten, die alles erklären und alles mit dem Verstand greifen; die überorganisierte Menschheit, die ihre eigenen Mittel, das tägliche Leben zu bewältigen, als Selbstzweck verehrt; da war das ganze Pack, das seine Kulissen als Erde und Ende aller Dinge begeistert anglotzt – und auf der andern Seite standen stille und weise Menschen, Gütige, die endlich begriffen hatten, daß es hienieden sicher nichts ist, und daß das Jenseits fraglich und vielleicht eine Erfindung ist. Das war in eine scheinbar spielende Form gekleidet, der Extrakt jahrelanger Erfahrungen und wahrscheinlich mit dem allergrößten Fleiß und den herbsten Mühen errungen; der <hi rend="italic" xml:id="tg147.2.5.1.wm8p.0">›Bal macabre‹</hi> ist ein Meisterstück solcher Form. Die Prosa war, lange vor Rilkes Zeit, musikalisch, ohne im Gegensatz zu diesem, auch nur einen Augenblick unklar zu sein – die Sprache sang sich ein Lied.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.6.wm8p.0"> Wie schön, zum Beispiel, der Satz in der <hi rend="italic" xml:id="tg147.2.6.1.wm8p.0">›Königin unter den Brägen‹</hi>, den der Doktor Jorre träumt: »Die einst deines Herzens Königin war, ist Königin jetzt hier unter den Brägen –«. Das las man wieder und immer wieder. Es hat sicher mutigere Groteskclowns gegeben, aber keinen, bei dem – damals – Erkenntnis und künstlerische Kraft sich so genau die Waage hielten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.7.wm8p.0"> Das ist heute anders. <hi rend="italic" xml:id="tg147.2.7.1.wm8p.0">›Der Golem‹</hi> und <hi rend="italic" xml:id="tg147.2.7.2.wm8p.0">›Das grüne Gesicht‹</hi> sind ein Abstieg, Nicht etwa wird dies Urteil ihres Erfolges wegen gefällt – obgleich Erfolg immer eine faule Sache ist. Sie sind ein Abstieg, weil die Erkenntnis des Weisen die Kraft des Schaffenden weit übersteigt. Früher saß Satz an Satz wie gegossen: heute wird in Fettdruck gesperrt. Früher hatten alle Figuren scharfe Ränder: heute schwimmt alles. Früher wurde ›an Hand‹ einer kleinen Fabel das große Wissen eines erkenntnisreichen Menschen dem Leser eingepflanzt: heute ahnt man wohl dergleichen, aber man sieht es nicht. An einzelnen Stellen flackert es auf, zum Beispiel im <hi rend="italic" xml:id="tg147.2.7.3.wm8p.0">›Grünen Gesicht‹</hi> am Anfang des zweiten Kapitels, wo die Welt nach dem Kriege witzig und treffend gezeichnet wird, und am Anfang des vierzehnten Kapitels, das an den alten Meyrink gemahnt. Der Rest ist – leider – Mathematik.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.8.wm8p.0"> Ich zweifle nicht, daß Meyrink zu den einsichtsreichsten Menschen gehört, die unter uns leben. Er weiß ungeheuer viel – nicht Positiva, sondern eben das, was man nicht lernen kann –, er hat tief hinunter gesehen, und man muß ihn stets hochachten, eben um dieser Erkenntnis willen. Ich möchte gern einmal wissen, was wohl Professor Deußen in Kiel zu diesem Priester der Weisheit sagt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.9.wm8p.0"> Es liegt also nicht etwa vor: Suchen der Gunst des Publikums. Es liegt aber wohl vor: Bewußtes oder unbewußtes Nachlassen der <pb n="266" xml:id="tg147.2.9.1.wm8p.0"/> künstlerischen Kraft. Es ist schade, daß ein großer Erkenner uns einen großen Künstler kostet. Rechnet man dazu, daß sich heute alles, was sonst unterdrückt wird, unter dieses allumfassende Dach der Theosophie flüchtet, weil es sich in den unscharfen und verschwommenen Thesen wiedererkennt und bestätigt zu finden glaubt, so wird man die große Gefolgschaft dieser Bücher verstehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.10.wm8p.0"> Es ist aber noch nie ein gutes Zeichen gewesen, wenn wertvolle Kräfte eines Landes sich diesen – stets falsch verstandenen – Mysterien hingeben. Dann stimmt etwas nicht.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.11.wm8p.0"> Der Meister zaubert wirklich – stellungslose Kommis und gelangweilte Damen hören zu, freuen sich an den bunten Glaskugeln und sehen den Gott nicht. Der bleibt im Tempel und lächelt. Und so ist in Wahrheit keinem geholfen. Der Meister selbst hat kein Publikum, und das Parkett bestaunt, im Grunde genommen, Kulissen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg147.2.12.wm8p.0"> Der freigeistige Schmock schwenkt mit vollen Fahnen ins Lager dieser so poetischen Kirche. Hoffentlich ist sich Gustav Meyrink bewußt, daß der Applaus nicht ihm gilt. Wer ihn, den Künstler von 1910 und den tiefen Denker von heute, liebt, das sind nicht hundertvierzigtausend, nicht so viele. Es sind wenige und wertvolle. Aber die lieben ihn wirklich und von Herzen.</p>
+                              <lb xml:id="tg147.2.13.wm8p.0"/>
+                              <byline xml:id="tg147.2.14.wm8p.0">
+                                 <seg xml:id="tg147.2.14.1.wm8p.0">
+· Ignaz Wrobel<lb xml:id="tg147.2.14.1.1.wm8p.0"/>
+Die Schaubühne, 15.02.1917, Nr. 7, S. 156.</seg>
+                              </byline>
+                              <lb xml:id="tg147.2.15.wm8p.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wj39.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6131-A</idno><idno type="textgrid">textgrid:wj39.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg148.wj3b.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Das Geheimnis des gelben Zimmers">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Das Geheimnis des gelben Zimmers</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-612F-1</idno><idno type="TextGridUri">textgrid:wj3b.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>267-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg148.2.wj3b.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg148.2.1.wj3b.0">Das Geheimnis des gelben Zimmers</head>
+
+                              <p xml:id="tg148.2.2.wj3b.0">Ich befinde mich augenblicklich ›im Felde‹, wie man zu sagen pflegt, und versehe meinen Dienst zur Zufriedenheit meiner Vorgesetzten und zu meiner eigenen, wie ich wohl behaupten darf. Und ich bin immer zu Diensten, immer dabei und bereit, zu tun, was man von mir verlangt. Aber heute vormittag habe ich in einem kleinen rostroten Büchelchen gelesen, den ganzen Vormittag lang, und ich habe nichts gehört, nichts gesehen, nichts gespürt. Ich war durchaus nicht in Kurland. Ich war anderswo, ganz und gar anderswo.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.3.wj3b.0">Gaston Leroux . . . ! Das ist ein Banditenname, aber der Träger dieses Namens ist kein Bandit, sondern ein französischer Schriftsteller, ein Geschichtenschreiber, der mit Vorliebe verbrecherische Handlungen und deren Aufdeckung beschrieben hat, etwas, was man heutzutage Kriminalnovellen nennt. Dieser Gaston Leroux hat nun auch eine Geschichte geschrieben, die <hi rend="italic" xml:id="tg148.2.3.1.wj3b.0">›Das Geheimnis des gelben Zimmers‹</hi> heißt, ins Deutsche ebenso steif wie unbeholfen übersetzt worden ist, und diese Geschichte ist es, die ich heute vormittag gelesen habe.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.4.wj3b.0"> Es war furchtbar aufregend. »Am fünfundzwanzigsten Oktober 1892 erschien unter den ›Letzten Nachrichten‹ die folgende Notiz im <hi rend="italic" xml:id="tg148.2.4.1.wj3b.0">›Temps‹:</hi> Ein entsetzliches Verbrechen . . . « Hier ließ ich schon das <pb n="267" xml:id="tg148.2.4.2.wj3b.0"/> Buch sinken und versank in Träumereien. 1892 . . . Meine geliebte Zeit! Zeit, die ich so geliebt habe, obgleich ich sie doch als denkender Mann gar nicht erlebte! Zeit der Puffärmel, der flotten Kohlezeichnungen, der ›Skandale‹, der kosmopolitischen Atmosphäre in Literatur, Kunst und kleiner Krämereipolitik, Zeit der Schleier, die halb übers Gesicht gezogen wurden, was besonders hochzeitsreisenden jungen Frauen gut stand . . . 1892! Da war noch aufgärende Jugend und Begeisterung und Wut auf den Spießer, der noch nicht so gut verkleidet war wie heute und viel leichter zu erkennen . . . da gab es noch so etwas wie eine richtige Bohème, nicht wie heute in der Oper, nein, richtig, auf dem spiegelnden Asphalt der großen Städte – aber das ist dahin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.5.wj3b.0"> » . . . ein furchtbares Verbrechen ist im Glandier, an der Grenze des Sainte-Geneviève-Waldes . . . « Und hier gings los.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.6.wj3b.0"> Es handelte sich um einen Mordversuch an einer jungen Dame, Fräulein Stangerson, der Tochter des berühmten Professors Stangerson, weißt du? und es war ganz unerklärlich, wie der Täter aus dem gelben Zimmer des kleinen Pavillons herausgekommen war . . . Der Untersuchungsrichter wußte es nicht, der alte Herr Stangerson wußte es nicht, der große Detektiv Frédéric Larsan wußte es auch nicht, niemand wußte es. Aber der kleine Reporter und Journalist Joseph Joséphin, genannt ›Rollkugel‹ (französisch: ›Rouletabille‹), genannt so wegen seines kugelrunden Kopfes, der kriegte es heraus. Der kriegte überhaupt alles heraus, und was und wie, das steht in dem Buche.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.7.wj3b.0"> Die holzschnittartige Dämonie sitzt. Ich tue jetzt furchtbar überlegen; aber ich bin augenblicklich gar nicht imstande (Schach spiele ich nicht), mir über alle Einzelheiten Rechenschaft abzulegen; ich könnte gar nicht all die komplizierten Einzelheiten und Situationspläne nachprüfen oder mich unter der Ungeheuern Masse der Andeutungen, Tatsachen, Nebenumstände, Pläne herausfinden. Das würde auch viel zu viel Mühe machen. Es handelt sich nur um das einzigartige Vergnügen, so eine gemütliche Teufelshetze mitzumachen, alles hat seine Zeit, am meisten der Autor. Vor Seite 200 sagt ers nicht. Hier ist kein Verantwortlichkeitsgefühl, hier ist keine Lebensanschauung, hier wird nichts von mir verlangt, als daß ich zuhören soll. Aber gerne! Aber herzlich gerne!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.8.wj3b.0"> Und ich höre zu. Ich bin im Vierzigpfennigfieber. Ich laufe wohl einmal mit ganz irren und leeren Augen vors Haus, wo die Wagen Holz abladen, aber in Wirklichkeit bin ich da, wo Joseph Rouletabille ist: im Glandier. Ach, wir haben es so schwer!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.9.wj3b.0"> Denk einmal: es handelt sich um einen dieser Fälle, die durchaus nicht mit der Begehung der strafbaren Handlung abgeschlossen sind, sondern die Verbrecher pfuschen immer noch herum, noch während der Untersuchung haben sie die Kühnheit, ihren strafbaren Versuch <pb n="268" xml:id="tg148.2.9.1.wj3b.0"/> zu wiederholen, die Untersuchung zu erschweren und der Arbeit der Polizei überhaupt die größten Schwierigkeiten in den Weg zu legen! Sie tauchen auf, verschwinden, sind wieder da, Unschuldige werden schuldig, Schurken entpuppen sich als Engel, ein Erdolchter wird erschossen . . . um Gotteswillen! ich hetze von Seite zu Seite, und es kommt gar nichts heraus, keine neue Person, keine Spur – nichts.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.10.wj3b.0"> Und wer ist der Täter?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.11.wj3b.0"> Ja, das hättest du nicht gedacht: aber Joseph Joséphin, der schon damals »zur Zeit der Affäre der zerstückelten Frau in der rue Oberkampf – auch eine langvergessene Geschichte – dem Chefredakteur der<hi rend="italic" xml:id="tg148.2.11.1.wj3b.0"> ›Epoque‹</hi> den noch fehlenden linken Fuß der Leiche gebracht hatte«, Joseph Rouletabille hatte es herausgebracht: Frédéric Larsan, der Detektiv, war der Täter. Frédéric Larsan war überhaupt nicht Frédéric Larsan, sondern – aber nun erschrick nicht! – er war Ballmeyer!! Ballmeyer . . . . »brauche ich hier an die großen Taten Ballmeyers zu erinnern?« sagt das Buch. Natürlich nicht. Aber es führt sie doch an. Die ganze Seite 179 ist angefüllt mit den Betätigungen des p. Ballmeyer, die für die menschliche Gesellschaft nicht viel Anziehendes gehabt hatten, am wenigsten für die, die er ermordet hatte. Aber er konnte nicht nur töten. Er konnte auch Leben spenden . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.12.wj3b.0"> Das ist eine diffizile Geschichte. Du solltest es nicht glauben, aber vor zehn langen Jahren hat er dem schönen Fräulein Stangerson, die ins Elysée zum Empfang ging, grade der hatte er einen Sohn verursacht! Er hatte sie in Amerika geheiratet, der Schuft, unter einem gänzlich falschen Namen, und sie waren in einem Pfarrhaus zu Louisville sehr glücklich gewesen . . . Und dann gab es einen Krach, die Geschichte flog auf, die Ehe auch, alles war zu Ende. Der Papa sollte und durfte von der Schande nichts wissen. Und erfuhr auch nichts.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.13.wj3b.0"> Und da, nach zehn langen Jahren, kommt er wieder und begehrt dieselben Rechte wie früher! Er erhält sie nicht, denn man steht vor einer richtigen Heirat, weißt du? Und dann folgen eben die Straftaten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.14.wj3b.0"> Nun ja, die menschlichen Sympathien sind in diesem Buch sehr weise verteilt. Man möchte alle, Verbrecher, Publikum, Detektive, Autor und Verleger (nicht zuletzt das schöne Fräulein Stangerson) umarmen und ihnen danken, daß sie überhaupt da sind. Es ist so gemütlich.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.15.wj3b.0"> Alles mögliche fällt mir noch ein: das kokette Zieren des Monsieur Leroux, die Geschichte zu erzählen (Joseph Rouletabille wollte es nicht), die hochdramatische Gerichtsverhandlung, das Liebespaar; sie, die Ehebrecherin, er, der Beau, nachts in einem alten Wachtturm . . . »Als die beiden sich nichts mehr zu sagen hatten, verließen sie gemeinsam den Turm . . . « Und die Geschichte mit dem Kneifer – mir wird noch jetzt ganz kalt, wenn ich daran denke. Und wie der Kerl, der alias Ballmeyer, die einstige Geliebte an die alte Zeit erinnert: <pb n="269" xml:id="tg148.2.15.1.wj3b.0"/> »Das Pfarrhaus hat nichts von seinem Reize verloren, der Garten blüht in seiner alten Pracht!« schreibt er. Es tut einem sehr leid, daß das zu Ende ist – und man blickt in dunkle Gänge und halb geöffnete, nur angelehnte Türen – »da sahen wir deutlich, wie Fräulein Stangerson, während ihr Vater sich einen Augenblick bückte, um einen heruntergefallenen Gegenstand aufzuheben, den Inhalt eines Fläschchens in das Glas Herrn Stangersons goß«. Aha!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.16.wj3b.0"> Und grade daß das Buch nicht so aufhört, wie Werke seiner Art sonst wohl – nein, so hört es gar nicht auf. Sondern ganz blümerant: der kleine Rouletabille hat da noch eine Geschichte auf der Pfanne, die Geschichte von dem ›Parfum der Dame in Schwarz‹ – aber er will nicht so recht damit heraus . . . vielleicht ein neuer Band? Das wäre schön.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg148.2.17.wj3b.0"> Bis dahin aber bin ich rettungslos verkitscht. Durch meine Träume singt es, und ich schnitt es gern in alle Rinden ein, und immer, immer hab ich es im Sinn. Das Geheimnis und die paar Zeilen, durch die der Schuft Mathilden an das einstige Glück erinnerte, die er ihr schickte und die der Anfang waren von so viel Elend und Verbrechen und Tränen und Blut:</p>
+                              <lg>
+                                 <l xml:id="tg148.2.18.wj3b.0">» . . . Das Pfarrhaus winkt mit allem seinem Zauber,</l>
+                                 <l xml:id="tg148.2.19.wj3b.0">Der Garten blüht in seiner alten Pracht!«</l>
+                              </lg>
+                              <closer>
+                                 <seg type="closer" rend="zenoPC" xml:id="tg148.2.20.wj3b.0">(Drehorgel ad libitum.)</seg>
+                              </closer>
+                              <lb xml:id="tg148.2.21.wj3b.0"/>
+                              <byline xml:id="tg148.2.22.wj3b.0">
+                                 <seg xml:id="tg148.2.22.1.wj3b.0">
+· Peter Panter<lb xml:id="tg148.2.22.1.1.wj3b.0"/>
+Die Schaubühne, 29.03.1917, Nr. 13, S. 303.</seg>
+                              </byline>
+                              <lb xml:id="tg148.2.23.wj3b.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wmb4.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6887-C</idno><idno type="textgrid">textgrid:wmb4.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg149.wmb5.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/An einen garnisondienstfähigen Dichter">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>An einen garnisondienstfähigen Dichter</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6889-8</idno><idno type="TextGridUri">textgrid:wmb5.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>270-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg149.2.wmb5.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg149.2.1.wmb5.0">An einen garnisondienstfähigen Dichter</head>
+
+                              <lg>
+                                 <l xml:id="tg149.2.2.wmb5.0">Du schlägst die kriegerisch-verstimmte Leier,</l>
+                                 <l xml:id="tg149.2.3.wmb5.0">du singst von Haß und Blut und Pulverrauch –</l>
+                                 <l xml:id="tg149.2.4.wmb5.0">und heißt vielleicht nur Gottlob Emil Meier,</l>
+                                 <l xml:id="tg149.2.5.wmb5.0">sanft wölbt sich dir der Zwei-Terrassen-Bauch . . .</l>
+                                 <l xml:id="tg149.2.6.wmb5.0">Du singst vom Sturmangriff, von roten Hosen,</l>
+                                 <l xml:id="tg149.2.7.wmb5.0">von England-Haß, von Not und Schlachtengraus,</l>
+                                 <l xml:id="tg149.2.8.wmb5.0">vom Panjefeind und von den Erzfranzosen –</l>
+                                 <l xml:id="tg149.2.9.wmb5.0">Komm raus!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg149.2.10.wmb5.0"/>
+                                 <l xml:id="tg149.2.11.wmb5.0">Komm einmal raus! Besieh dir das persönlich –</l>
+                                 <l xml:id="tg149.2.12.wmb5.0">gewiß: es ist nicht immer ideal,</l>
+                                 <l xml:id="tg149.2.13.wmb5.0">mitunter gehts im Kriege ganz gewöhnlich</l>
+                                 <l xml:id="tg149.2.14.wmb5.0">und schmutzig zu – besiehs dir nur einmal.</l>
+                                 <l xml:id="tg149.2.15.wmb5.0">Nein! das genügt noch nicht: du mußt es auch erleben,</l>
+                                 <l xml:id="tg149.2.16.wmb5.0">zieh an die schlichte Farbe unsres Graus.</l>
+                                 <l xml:id="tg149.2.17.wmb5.0">Mach mit! Wir wolln dir fünf Mark dreißig geben –</l>
+                                 <l xml:id="tg149.2.18.wmb5.0">Komm raus!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg149.2.19.wmb5.0"/>
+                                 <pb n="270" xml:id="tg149.2.20.wmb5.0"/> 
+                                 <l xml:id="tg149.2.21.wmb5.0">Vielleicht wirst du dann endlich, endlich lernen:</l>
+                                 <l xml:id="tg149.2.22.wmb5.0">Wer seine Pflicht tut, kämpft und steht und schweigt.</l>
+                                 <l xml:id="tg149.2.23.wmb5.0">Steigt auch der Ruhm der Kameraden zu den Sternen –</l>
+                                 <l xml:id="tg149.2.24.wmb5.0">sieh nur, wie lautlos und wie still das steigt!</l>
+                                 <l xml:id="tg149.2.25.wmb5.0">Doch ziehn wir später einmal (Gott mag wissen,</l>
+                                 <l xml:id="tg149.2.26.wmb5.0">wann das geschieht), zurück, sind Leid und Wirrsal aus:</l>
+                                 <l xml:id="tg149.2.27.wmb5.0">dann, Meier, wollen wir dich gerne missen!</l>
+                                 <l xml:id="tg149.2.28.wmb5.0">Dann bleib zu Haus!</l>
+                              </lg>
+                              <lb xml:id="tg149.2.29.wmb5.0"/>
+                              <byline xml:id="tg149.2.30.wmb5.0">
+                                 <seg xml:id="tg149.2.30.1.wmb5.0">
+· Theobald Tiger<lb xml:id="tg149.2.30.1.1.wmb5.0"/>
+Die Schaubühne, 21.06.1917, Nr. 25, S. 584, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg149.2.31.wmb5.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wj6v.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Auf Urlaub</title><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6196-6</idno><idno type="textgrid">textgrid:wj6v.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>271-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg150.wj6t.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Auf Urlaub">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Auf Urlaub</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6195-8</idno><idno type="TextGridUri">textgrid:wj6t.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>271-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg150.2.wj6t.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg150.2.1.wj6t.0">Auf Urlaub</head>
+
+                              <lg>
+                                 <l xml:id="tg150.2.2.wj6t.0">Die Residenz!</l>
+                                 <l xml:id="tg150.2.3.wj6t.0">Gu'n Tag, du Metropole!</l>
+                                 <l xml:id="tg150.2.4.wj6t.0">Da ist auch schon der Alexanderplatz . . .</l>
+                                 <l xml:id="tg150.2.5.wj6t.0">Verstatte, daß ich mich das Schneuztuch hole,</l>
+                                 <l xml:id="tg150.2.6.wj6t.0">das Herz schlägt stürmisch unterm Busenlatz.</l>
+                                 <l xml:id="tg150.2.7.wj6t.0">Du gute Spree mit dem geduldigen Rücken,</l>
+                                 <l xml:id="tg150.2.8.wj6t.0">der Ruderklubs und der Mamsells Entzücken –</l>
+                                 <l xml:id="tg150.2.9.wj6t.0">ich seh dich still und mächtig dreckig ziehn . . .</l>
+                                 <l xml:id="tg150.2.10.wj6t.0">Berlin!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg150.2.11.wj6t.0"/>
+                                 <l xml:id="tg150.2.12.wj6t.0">Die Weiche knackt. Der Zug zischt an den Hallen</l>
+                                 <l xml:id="tg150.2.13.wj6t.0">der Stadtbahn lang. Da liegt der dicke Dom.</l>
+                                 <l xml:id="tg150.2.14.wj6t.0">Die pfui! die Friedrichstraße will mir recht gefallen,</l>
+                                 <l xml:id="tg150.2.15.wj6t.0">am Charitéhaus grünt ein Appelboom.</l>
+                                 <l xml:id="tg150.2.16.wj6t.0">Die Völker auf den Straßen sind nicht ohne:</l>
+                                 <l xml:id="tg150.2.17.wj6t.0">dem Gang nach lauter Jrafens und Barone.</l>
+                                 <l xml:id="tg150.2.18.wj6t.0">Es riecht nach Geld. Prozente, Mensch, verdien!</l>
+                                 <l xml:id="tg150.2.19.wj6t.0">Berlin!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg150.2.20.wj6t.0"/>
+                                 <l xml:id="tg150.2.21.wj6t.0">Charlottenburg. Da steht die lange Claire,</l>
+                                 <l xml:id="tg150.2.22.wj6t.0">den Bastard meiner Liebe an der Hand.</l>
+                                 <l xml:id="tg150.2.23.wj6t.0">Ob auch die Rationierung an uns zehre –</l>
+                                 <l xml:id="tg150.2.24.wj6t.0">der Knochenbau hält allen Feinden stand.</l>
+                                 <l xml:id="tg150.2.25.wj6t.0">Das wird die rechte Wiedersehensfeier!</l>
+                                 <l xml:id="tg150.2.26.wj6t.0">Ich hab (im Rucksack) fünfundsiebzig Eier –</l>
+                                 <l xml:id="tg150.2.27.wj6t.0">Da hält der Zug! Die Kümmernisse fliehn . . .</l>
+                                 <l xml:id="tg150.2.28.wj6t.0">Berlin! Berlin!</l>
+                              </lg>
+                              <lb xml:id="tg150.2.29.wj6t.0"/>
+                              <byline xml:id="tg150.2.30.wj6t.0">
+                                 <seg xml:id="tg150.2.30.1.wj6t.0">
+                                    <pb n="271" xml:id="tg150.2.30.1.1.wj6t.0"/> · Theobald Tiger<lb xml:id="tg150.2.30.1.2.wj6t.0"/>
+Die Schaubühne, 28.06.1917, Nr. 26, S. 606, wieder in: Fromme Gesänge.</seg>
+                              </byline>
+                              <lb xml:id="tg150.2.31.wj6t.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:whm8.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Papiernot</title><title>Auf Urlaub</title><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5F9A-F</idno><idno type="textgrid">textgrid:whm8.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>271-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg151.whmb.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Papiernot">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Papiernot</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5F98-4</idno><idno type="TextGridUri">textgrid:whmb.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>272-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg151.2.whmb.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg151.2.1.whmb.0">Papiernot</head>
+
+                              <lg>
+                                 <l xml:id="tg151.2.2.whmb.0">Gewiß – es ist nicht immer schön gewesen</l>
+                                 <l xml:id="tg151.2.3.whmb.0">das aberwitzige Echo unsrer Zeit:</l>
+                                 <l xml:id="tg151.2.4.whmb.0">man konnte rechtsrum, konnte linksrum lesen</l>
+                                 <l xml:id="tg151.2.5.whmb.0">und war zum Schluß meist ebenso gescheit.</l>
+                                 <l xml:id="tg151.2.6.whmb.0">Die Presse schmückte stets mit neuen Funkelthesen</l>
+                                 <l xml:id="tg151.2.7.whmb.0">ihr Morgen-, Mittags- und ihr Abendkleid . . .</l>
+                                 <l xml:id="tg151.2.8.whmb.0">Und doch: ein Quentchen blieb – es war nicht viel,</l>
+                                 <l xml:id="tg151.2.9.whmb.0">ein Stückchen Bürgerfreiheit – kurz: ein Dampfventil.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg151.2.10.whmb.0"/>
+                                 <l xml:id="tg151.2.11.whmb.0">Doch jetzt, im Krieg, schwillt des Geheimrats Weste,</l>
+                                 <l xml:id="tg151.2.12.whmb.0">er liebt die Einfachheit für die Nation,</l>
+                                 <l xml:id="tg151.2.13.whmb.0">und hilflos spricht er: »Es ist wohl das beste:</l>
+                                 <l xml:id="tg151.2.14.whmb.0">Ein Volk, Ein Heer, Ein Fölljetohn.</l>
+                                 <l xml:id="tg151.2.15.whmb.0">Spart nur Papier!« Doch mit empörter Geste</l>
+                                 <l xml:id="tg151.2.16.whmb.0">erhebt sich brüsk die Zeitungskonfektion:</l>
+                                 <l xml:id="tg151.2.17.whmb.0">»Der Fortschritt ist bedroht! das Volk! der Staat!«</l>
+                                 <l xml:id="tg151.2.18.whmb.0">Dahinter, riesengroß: das Inserat!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg151.2.19.whmb.0"/>
+                                 <l xml:id="tg151.2.20.whmb.0">Das ist der deutsche Zustand. Und du, Zeitung,</l>
+                                 <l xml:id="tg151.2.21.whmb.0">du kleener Freiheitshut, wie stehst du da?</l>
+                                 <l xml:id="tg151.2.22.whmb.0">Noch hast du Platz – zum Beispiel zur Verbreitung</l>
+                                 <l xml:id="tg151.2.23.whmb.0">von Kintopschwatz für ganz Christiania.</l>
+                                 <l xml:id="tg151.2.24.whmb.0">Es strömt bei Arras. Die Annoncen-Leitung</l>
+                                 <l xml:id="tg151.2.25.whmb.0">pflegt eifrig Gasthaus-Personalia . . .</l>
+                                 <l xml:id="tg151.2.26.whmb.0">Ob ihr genug Papier habt oder keins:</l>
+                                 <l xml:id="tg151.2.27.whmb.0">Ihr helft dem Land nicht!</l>
+                                 <l xml:id="tg151.2.28.whmb.0">Es ist alles eins.</l>
+                              </lg>
+                              <lb xml:id="tg151.2.29.whmb.0"/>
+                              <byline xml:id="tg151.2.30.whmb.0">
+                                 <seg xml:id="tg151.2.30.1.whmb.0">
+· Theobald Tiger<lb xml:id="tg151.2.30.1.1.whmb.0"/>
+Die Schaubühne, 12.07.1917.</seg>
+                              </byline>
+                              <lb xml:id="tg151.2.31.whmb.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:whkg.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Vorher!</title><title>Papiernot</title><title>Auf Urlaub</title><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5F82-3</idno><idno type="textgrid">textgrid:whkg.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>271-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg152.whkf.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Vorher!">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Vorher!</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5F81-5</idno><idno type="TextGridUri">textgrid:whkf.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>272-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg152.2.whkf.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg152.2.1.whkf.0">Vorher!</head>
+
+                              <p xml:id="tg152.2.2.whkf.0">Bei Albert Langen ist im Jahre 1910 ein Buch erschienen, das bereits hundertmal vorher geschrieben worden ist und noch Hunderte von Malen nachher geschrieben werden wird. Es heißt <hi rend="italic" xml:id="tg152.2.2.1.whkf.0">›Hinter Schloß und Riegel‹</hi> und schildert mit unerbittlicher Genauigkeit die deutsche Art der Strafverbüßung in einem Zuchthaus. Es ist jetzt nicht die Zeit, die längst erkannten Fehler dieser Sühne aufzuzählen – genug, so wie es Tausende getroffen hat, so traf es in diesem Buche, das sich in nichts von seinen Brüdern unterscheidet, einen Juristen. Der sah nun seine Welt von unten, wunderte sich und schrieb das Werk.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.3.whkf.0">Aber er hätte es vorher schreiben sollen! Da hätte ers nicht gekonnt? Dann hat er keine Augen gehabt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.4.whkf.0"> 
+                                 <pb n="272" xml:id="tg152.2.4.1.whkf.0"/> In dem Buche <hi rend="italic" xml:id="tg152.2.4.2.whkf.0">›Hinter Schloß und Riegel‹</hi> zählt der so deutsche Verfasser minutiös die Quälereien seines wasserpolackischen Wärters auf, schildert seine widerlichen Roheiten an den wehrlosen Gefangenen, die er nicht etwa schlug, sondern mit Nadelstichen peinigte – man kennt das; die Schilderung langweilt den, der die Augen in seinem Leben aufgemacht hat. Sehen wir das nicht alle Tage? Dem Deutschen hat einmal einer mangelnden Sinn für Wirklichkeit vorgeworfen: hier offenbart er sich aufs herrlichste.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.5.whkf.0"> Oben stelzt unantastbar, sauber, und hinter sich im wesenlosen Scheine das, was uns alle bändigt: oben stelzt – nun, sagen wir, dieser und jener. Das Podium wird gehalten und getragen von Kaschuben, von dickköpfigen, meist minderwertigen Menschen, für die es keine nähere Bezeichnung gibt, die man kennen und lieben gelernt haben muß.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.6.whkf.0"> Diese Burschen – es ist eine ganze breite Klasse, und jeder von uns kennt sie; wer im Kriege ist, doppelt und dreifach – diese Burschen vertreten nach unten hin die Macht. In ihnen ist der jeweils Regierende personifiziert – aber welch ein Zerrbild! Man müßte die Gattung konfiszieren, weil sie das tut, was der <hi rend="italic" xml:id="tg152.2.6.1.whkf.0">›Charivari‹</hi> in seinen besten Zeiten nicht besser gekonnt hat: weil sie die Macht in einem Lachspiegel höhnen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.7.whkf.0"> Aber sie werden gehalten. Vielleicht weiß es der Herr aus dem obern Stockwerk, daß der Pförtner die Leute peinigt, daß er seine Vorteile und Vorteilchen aus seinem Amt schlägt, aber vor allem: daß er den König macht. Er macht ihn, wie ihn der Gockel macht, der sich auf dem Hühnerhof aufbläht – aber dieser ist so unendlich gefährlich, weil er schaden kann, weil er eine kleine oder große Macht geliehen bekommen hat, die er benutzt, als wäre es seine eigene. Das war die Absicht der Herrschaft nicht? Aber dann möge sie aufpassen, dann soll sie wissen, daß der da unten, alles, aber alles verdirbt, was sie in gutem deutschen Idealismus plante. »In Preußen«, heißt ein altes Wort, »sind die Geheimräte liberal.« Nun, das Wort stammt aus dem Frieden und stimmt heute nicht mehr ganz – aber der bewußte Gegensatz, in den man die Geheimräte zu jemand anderm setzen wollte, ist richtig.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.8.whkf.0"> Wir verdanken unsre Unbeliebtheit, die Schwierigkeiten, die man uns heute noch überall macht, nicht den höhern Beamten und ihren meist verständigen Anordnungen. Wer aber einmal die Wandlungen gesehen hat, die ein guter und von gutem Geist diktierter Befehl, ein Erlaß, eine Verfügung gemacht hat, ehe er unten ankommt, wer einmal gesehen hat, wie das Zehnpfennigstück, das als Geschenk gedacht war, auf dem Hofe aufschlägt, der weiß, daß es nicht genug getan ist, wenn der Geist erfindet und sich etwas ausdenkt – er muß auch überwachen und ständig auf der Lauer sein, daß nicht umgefälscht wird, was aus einem reinen Herzen kam. Vorher! vorher müssen wir das tun, nicht <pb n="273" xml:id="tg152.2.8.1.whkf.0"/> nachher in schmerzlicher Erkenntnis, daß es nun zu spät ist. Auf deutsch erfunden, auf kaschubisch verdorben – das Ergebnis haben wir auszukosten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.9.whkf.0"> Wem eine Macht gegeben ist, der muß ihr Siegelbewahrer sein. Der muß – ausgekocht und argwöhnisch – wissen, daß es ein viel schlimmeres Geschwür am Körper des deutschen Volkes gibt als die vielberufene décadence, von der viele knapp den accent aigu kennen. Das ist der kleine Mann, der seinesgleichen peinigt, weil das das einzige ist, was ihm das Leben gab. Den schlagt auf die Finger, bis sie bluten. Denn er hat viele Herzen bluten gemacht.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg152.2.10.whkf.0"> Aber vorher! nicht nachher!</p>
+                              <lb xml:id="tg152.2.11.whkf.0"/>
+                              <byline xml:id="tg152.2.12.whkf.0">
+                                 <seg xml:id="tg152.2.12.1.whkf.0">
+· Ignaz Wrobel<lb xml:id="tg152.2.12.1.1.whkf.0"/>
+Die Schaubühne, 26.07.1917, Nr. 30, S. 80.</seg>
+                              </byline>
+                              <lb xml:id="tg152.2.13.whkf.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:whfd.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Unterwegs 1915</title><title>Vorher!</title><title>Papiernot</title><title>Auf Urlaub</title><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-5F0C-D</idno><idno type="textgrid">textgrid:whfd.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>274-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>271-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg153.whfg.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Unterwegs 1915">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Unterwegs 1915</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-5F0D-B</idno><idno type="TextGridUri">textgrid:whfg.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>274-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg153.2.whfg.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg153.2.1.whfg.0">Unterwegs 1915</head>
+
+                              <p xml:id="tg153.2.2.whfg.0">Erst gibt es noch einen kleinen Streit, an welchen Wagen wir kommen sollen: also gut, an den Bataillonswagen. Zwei Mann mit Gewehr, zwei ohne – ein langer Zug. Und immer durch den abschüssigen, schwer fahrbaren Sandweg und dann wieder bergauf . . . Stab und Stütze meines Alters ist der Kutscher Wenzel. Man muß sehen, wie dieser dufte Knabe die Schnauze vorzieht, wie er spricht und raucht und schimpft. Schon auf dem Kasernenhof in Suwalki, allwo er noch in seiner Arbeitsschale mit Halsbinde und Mützchen antrat, hatte er gesagt: »Ick will jahnich wieder nach Hause – mir suchen se –!« Und jetzt setzte er den Pferden auseinander, wenn sie nicht besser zögen, dann würde er . . . Aber er tuts nicht. Er ist ein feiner Mann.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.3.whfg.0">Wir machen uns die Sache bequem. Ich lasse mich fahren, sein Gepäck trägt keiner.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.4.whfg.0"> Ankunft auf dem Bahnhof. Stundenlanger Aufenthalt. Wir werden verladen. Wir sitzen auf unserm alten Wagen, und der sitzt auf einer Lore, einem offenen Eisenbahnwagen. Ich klettre herum und lande auf einem kleinen Kutschwägelchen. Der Wind weht, aber es ist kein Wind, die schönen Wolken sind keine Wolken, der Regen kein Regen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.5.whfg.0"> Tilsit. Marsch durch die Stadt, ans Bollwerk. Unter Leitung eines kleinen (reklamierten) Assessors werden wir alle, Pferde, Wagen, Leute auf Kähne verladen. Ich werde als Requisit verwendet und muß eine Kienfackel halten, bei deren Schein das Ganze vor sich geht. Die Fackel geht aus. Schließlich ist alles oben. Das ganze Kahndeck steht voller Wagen, die Leute sollen noch kommen. Was nun? Ich steige mit dem Melonenkopf in die Schifferkabuse herunter – und bekomme einen furchtbaren Schreck. Auf dem Sofa in dem winzigen Raum sitzt ein wunderschöner Junge. Er ist so schön, daß ich ihn immerzu ansehen muß. Er ist eine Mischung von Kind und englischem Chormädchen. Er hat ganz weiche Bewegungen und lange Augenbrauen und kann <pb n="274" xml:id="tg153.2.5.1.whfg.0"/> lächeln . . . ! Wie er den Mund aufmacht, ist es beinahe aus: ein widerliches, gezogenes, ostpreußisches Platt. Aber dann schweigt er wieder und schläft –himmlisch! Wie kommt er hierher? Die sozusagen Mutter ist eine entsetzliche knochige und hagere Person, die für uns kochen will. Auch wollen wir da schlafen: beide in einem Bett. Nebenan? Nein, nebenan könne sie es uns nicht empfehlen. Wir sehen uns das an: ein dunkler niedriger Raum – plötzlich ist eine große, weiße Gans und eine Ziege da. Das ist nichts. Wir sitzen an dem kleinen Tisch unter der Lampe. In dem Quadratmeter Küche klappert die Hagere mit den Töpfen. Ich hole mir von der Kommode die Bibel und das Gesangbuch. Der Melonenschädel fragt: »Ist das was Interessantes?« und gähnt. Aber nun – Herrgott! »Das«, sagt die Frau von nebenan, die alles gesehen hat, »ist das Interessanteste, was es gibt. Wenn Sie das nur Zeit Ihres Lebens lesen –!« Au backe. Und dann gehts los. Der lebende Traktat. »Als ich noch in Berlin Schneiderin war . . . « Aha, denke ich. Und muß immer wieder den Jungen ansehen. Er seufzt und schlägt die großen Augen auf. Mit einem wunderbar verträumten Ausdruck beginnt er, sich in der Nase zu bohren. »Kuno!« sagt die Hagere. Kuno! spricht die Frau Mama. Und wie ich den schönsten Psalm lese, Nummer neunzig, liegt in der frommen Bibel ein Brief. Heimlich lese ich: »In Sachen Bickereit gegen Schalmofsky teile ich Ihnen mit, daß Ihre Berufung vollen Erfolg gehabt hat. Ihr Schwager ist verurteilt, 286 Mark und 34 Pfennige benebst sechs Prozent Zinsen vom zwölften August dieses Jahres ab zu zahlen. Rechtsanwalt Martin.« Ja, ja, die Frommen. So dir einer gibt einen Streich auf die linke Backen. Und zweimal wache ich nachts auf, weil sie einem Soldaten auseinandersetzt, daß dieser Krieg durch den Zorn Gottes verursacht sei.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.6.whfg.0"> Fährt das Schiff? Wahrscheinlich; im Bett ist nichts zu merken. Morgens sieht man an den Sonnenflecken, daß es sanft dahingleitet.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.7.whfg.0"> Auf ›Deck‹! Wir fahren als zweiter Kahn mit vier andern im Schlepptau eines kleinen Dampfers. Das Volk liegt verdreckt und verschlafen auf den Wagen. Das Ganze sieht aus wie eine Blumenfahrt junger Venetianer. Ohne Mädchen, sozusagen. Es gibt warmen Kaffee, und manche saufen Schnaps. Kuno hopst herum und beklagt in langgezogenen, nasalen Tönen – wie parodistisch – einen verlorenen Hund. Er hat gebräunte, ganz schlanke Beine. Er ist, glaube ich, ein Mädchen. Wir steigen auf dem Schiff herum, oben und unten. Die andern Brüder vom gleichen Kreis sitzen natürlich auf dem Dämpferlein beim Stab, das haben wir verpatzt, und jetzt ist bald nichts mehr zu essen da, und dann kommen wir schließlich an.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.8.whfg.0"> Da gibt es auch eine Kantine, und der kleine dicke Schuster, der mit den Plattfüßen, schwärmt anzüglich von einem wundervollen Rotwein, den er getrunken habe: »Denk mal, das Glas zu fünfundzwanzig Fennje! Aber fein!« Ich kaufe uns demgemäß zweie, schmecke – und spreche <pb n="275" xml:id="tg153.2.8.1.whfg.0"/> den Tarragona für Portwein an. Die Begeisterung des Schusters ist zügellos. »Donnerwetter – Portwein! Da habe ich ja in meinem Leben auch mal Portwein getrunken . . . « Und strahlt. Selig macht der Glaube.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.9.whfg.0"> Nachts im Freien auf einem Heuwagen. Als ich erwache, ist der Himmel blutigrot. Aber es ist nur ein kleines Wärmfeuer, das sich die Leute angezündet haben.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.10.whfg.0"> Morgens Marsch. Nichts von Belang. Später Quartier, Rast, Baden und morgens wieder Abmarsch.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.11.whfg.0"> Am Mittag steht die schlangenlange Kolonne Wagen mit den schweifschlagenden Rössern vor Rossienie. Stundenlang auf der Chaussee. Kleine Judenmädchen verkaufen Tschakalade, bester Herr, und als wir mit einer ungeschäftliche Witze machen, ohne etwas abzunehmen, bekommt sie von befreundeter, auch in Hausse spekulierender Seite den Rat, wegzugehen. Formuliert: »Mach enem Abtritt von em! « – »Hoho! « Und grinsend, schwitzend, lärmend ziehen wir ein.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.12.whfg.0"> Das Quartier – ich wohne bei den Obrigkeiten – ist mäßig. Jüdische Bäckersleute. Hier sind die Juden noch nicht vertrieben, wie weiterhin im Gouvernement. Hier gibt es also noch zu kaufen. Auffällig, wie kramhaft, trödlerisch alles ist. Keiner hat Liebe oder Interesse für seine Waren – nur Prozente. Bei den Bäckers ist ein kleines nettes Mädelchen, die sich willig begreifen läßt, aber immerfort ihre kalten, blanken Augen spielen läßt, ob und wo es etwas zu verkaufen gibt. Eine brummige Mama, allerhand Mädchen, auch halbverheiratete (aber nur mit ihrem richtigen). Nachts Wanzen. Viel Wanzen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.13.whfg.0"> Auf dem morgendlichen Hof sitzen der Herr Feldwebel und lassen sich rasieren. Ich höre, wie er in der aufquellenden Lebensfreude seines Herzens alles anruft, doch ein bißchen zu ihm zu kommen. Mädchen, Soldaten, Hunde – alles. »Gitta! Rosa! Rachel! Molle, Molle, Molle! Schulz!« Je lauter er schreit, je niemander kommt. Aber das trübt keineswegs seine Morgenfreude – er will ja auch nur brüllen. »Molle – Molle – Molle!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.14.whfg.0"> Im Zimmer sind Myriaden Fliegen. Dann laufen wir in die Stadt, stöbern in einem trivialen Kloster herum, die Bücher taugen nichts – und essen und sehen uns Gefangene an und sprechen mit den vorhandenen Jüdinnen, die – wie immer –äußerlich alles versprechen und nichts halten. Abends wollen wir saufen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.15.whfg.0"> Aber es gibt nichts. (Wenigstens nichts für uns.) Und ein fröhlicher Abend ist nun einmal nichts ohne Alkohol, der Härten dämpft und einen leisen Rausch erzeugt, durch den gesehen alles milder erscheint.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.16.whfg.0"> Es wird aber noch ganz freundlich. Ich klimpere auf der Gitarre, die Judenmädchen sitzen an den Wänden, mit den Kerls, und summen im Jargon einen hübschen russischen Walzer. Das hat alles der Feldwebel organisiert. Er bringt Leben in die Bude, er schmeißt das Ding, er machts. Mal los! Ran hier –! Und ohne durch Spiritus gesteigert zu <pb n="276" xml:id="tg153.2.16.1.whfg.0"/> sein, versteigt sich die Fröhlichkeit um elf Uhr zu merkwürdigen Dingen. Der stellvertretende Kompanieführer und der Webel tanzen selbander einen schönen Krakowiak. Wir pfeifen, bis uns der Atem ausgeht. Die Gitarre zimpert. Und weil der Webel grade nur noch unterwärtig bekleidet ist, muß er sich betätigen. Er muß ringen. Der Melonenkopp tritt an. Wir spielen, die Hauskapelle spielt den Gladiatorenmarsch, und der Leutnant pfeift als Schiedsrichter mörderisch auf einer Trillerpfeife. Die beiden ringen. Natürlich siegt der Weibel und freut sich dessen mit immensem Gebrüll. Und weiß der Teufel, wer mich reitet, dieser oder jener, ich biete ihm einen Gang an, zu boxen. Hach – das ist was für ihn! Und ehe ich zum Schlag komme – ins Gesicht darf ich ohnehin nicht schlagen – hat er mich derartig zugedeckt, daß meine sterblichen Überreste auf dem Boden verzappeln. Unauslöschliches Gelächter der reisigen Helden durchbraust die Halle. Auch die Jungfrauen freuen sich. Am meisten der Feldwebel. Das ist ein Abend! Er nennt die vorhandenen Judenjungens durchweg ›Janko‹, numeriert sie der Ordnung halber, und versucht mit Berserkergebrüll, Janko Nummer vier durchs Fenster zu neuem Match und neuen Siegen zu ziehen. Der kann sich beherrschen, und grade, als ein diesbezüglicher Kampf um einen Kampf im Zenit steht – erscheint der Etappenkommandant. Der behoste Feldwebel steht frappiert stramm, der hohe Vorgesetzte richtet einige leutselige Worte an ihn, wird leicht angelogen und verschwindet in der Nacht. Dann singen wir das Lied von den zehn Nonnen, bei Strophe drei schiebt die brummige Mama alles heraus, bleibt aber von vier bis zehn drin, mit anscheinend intensivstem Genuß. Ich singe alles mit. Dann stimmt der siegreiche Weibelein Lied an, eines von denen, die immer länger werden. » . . . und die Brust – voller Lust – und das Knie – wie noch nie – und die Hacke – macht Attacke – und das Bein tut mir so weh – (Chorus) wenn ich aus der Kneipe geh!« Geist nicht grade, aber schön laut. Um eins gehen alle zu Bett. Ich rauche noch mit dem Melonenkopf je eine Zigarette auf dem dunkeln Hof. Nachts Wanzen. Siehe oben.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.17.whfg.0"> Der nächste Tag vergeht. Wir suchen uns was, finden aber nichts, sondern nur Teestuben mit unzweifelhafter Bedienung: vom Sergeanten geliebkoste Mädchen. Der Tag vergeht. Und vergeht doch nicht, ohne mir das einzige Erlebnis mit einem Mädchen zu bringen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.18.whfg.0"> Abends um sechs Uhr wird noch einmal angetreten. Man könne doch nicht wissen, und es kämen doch immerhin Überfälle vor. Instruktion über das Verhalten beim Alarm auf dem Marsch. Alles in den Chausseegraben. Als die Gewehrhähne probeweise im Stroh auf der Wiese knacken, läuft die aus zwei Köpfen bestehende Landbevölkerung erschreckt davon. Dann rücken wir ein. Ich gehe aufs Etappenmagazin, um Alkohol zu kaufen, bekomme aber keinen. Wir machen Besorgungen. Und dann kommt Mina Rëus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.19.whfg.0"> 
+                                 <pb n="277" xml:id="tg153.2.19.1.whfg.0"/> In einem Drogeriegeschäft (ich weiß nicht, wie das jetzt auf neudeutsch heißt) war uns schon am Vormittag ein ganz in Schwarz gekleidetes Mädchen aufgefallen. Tanner, dem sie gefiel, hatte versucht, mit ihr spazierenzugehen – sie wollte aber nicht. Am Abend kam ich hin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.20.whfg.0"> Ich bin ja ein alter Narr, aber feine Nasenflügel hatte sie doch. Und ganz schlanke Hände (keine sehr schönen Finger), sehr hübsche Füße und eine gute Figur. Sie sprach nett und hatte so freundliche Augen. Nach einer Viertelstunde hatte ich zwar nicht ihr Bild – das wollte ich, aber es war keins da – immerhin jedoch die Erlaubnis (auch von der Tante), mit ihr zu lustwandeln.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.21.whfg.0"> Es war nur eine halbe Stunde, und es war gar nichts, und ich habe ihr nur einmal die Hand geküßt. Sie war nicht besonders klug, aber so freundlich und sanft und weich, daß man ihr immer übers Haar hätte streicheln mögen. Sie prätendierte gar nichts, und selbst wenn man die Monate abstreicht, die ich ohne dergleichen zugebracht hatte, bleibt noch immer ein rassiges, nettes Mädel. Frech wäre sie mir lieber gewesen – aber auch so hatte ich sie bis auf ihren Vornamen lieb. Wir gingen langsam durch die Straßen, sie mochte nicht gern mit einem Soldaten gesehen werden – dazu hatte ich nichts zu sagen. Sie erzählte von ihrer Familie, stellte rührende Fragen, und die Zeit lief, und ich sah sie immerzu an, und hörte meine Uhr ticken. Ich versprach, ihr zu schreiben. Sie freute sich. Sie hatte einen feinen, dünnen Hals.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.22.whfg.0"> Als wir wieder zurückkamen, lud mich die Tante, bei der ich viel gekauft hatte, zum Abendbrot ein. Es war Freitag abend, die Straßen leer, die Fenster erleuchtet. Wenn ich alles aus dieser üblen Zeit vergesse: von diesem Abend weiß ich noch jede Einzelheit, jedes Wort. Sie führten mich vor ein Haus, das ziemlich traurig aussah. »Wie es armen Jüden sich anschickt«, sagte die Tante. (Die Mutter war tot, der Vater siebzig Jahre, »ein alter Mensch«, er war nicht da.) Der Onkel erschien, noch ein junger Mann, noch ein Kerl, dazu ein Mann Einquartierung, Katze und Hund. Es gab unendlich viel und fett zu essen. Suppe und Fleisch und Fisch und Gurke und Kirschen und Met und Gott weiß was alles. Der Hund bekam seins unmittelbar von der Gabel; er war ganz dick. Ich konnte fast nichts essen. Sie saß neben mir auf einem schweren Ledersofa, beleuchtet von der Lampe. Wir sprachen fast gar nicht mehr zusammen. Aber ich weiß doch, was andre Leute denken. Laut und gebildet unterhielt ich mich mit dem Onkel, über die Russen und über die Juden und über sehr feine Sachen. Sie sagte nichts. Ich sah ab und zu herüber: ich bilde mir das nicht ein, daß sie ein hilfloses Gesicht gemacht hat. Viertel neun, halb neun, drei Viertel neun – und dann bin ich weggegangen. Die Tante brachte mich auf die Straße, um mich zu fragen, wie mir denn ihre <pb n="278" xml:id="tg153.2.22.1.whfg.0"/> Nichte gefallen habe. (Der süße Kuppelpelz!) Ich konnte nichts sagen. Ich wußte nur: morgen um fünf ist Abmarsch.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.23.whfg.0"> Ich werde sie natürlich nicht wiedersehen. Und auch schreiben kann ich nicht, wenigstens das nicht, was zu schreiben wäre: wie lieb ich sie gehabt habe. Denn der Brief geht durch die Etappenkommandantur, und er wird geöffnet, und ich werde mit Recht in contumaciam ausgelacht. Ich glaube, du hast keinen Grund zur Eifersucht. Vielleicht habe ich in ein schönes Gefäß etwas hineingelegt, was nicht drin war. Und ich weiß ja alles: wie dick diese Weiber werden, wie träge und fett und schlampig, und wie sie all das, was sie ziert, instinktiv herausstecken, um geheiratet zu werden. Und doch.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.24.whfg.0"> Morgens war wirklich Abmarsch und der scheußlichste Tag des gesamten Umzuges. Viele Kilometer ohne Pause, halbtote Pferde und fluchende Kutscher – es war nicht schön. Aber als wir abends verärgert, erschöpft, verschmutzt ankamen, genügte das Lied von den zehn Nonnen, ein Viertel Bier und die riesige Lebenskraft des Feldwebels, alles vergessen zu machen: den Marsch und die Anstrengungen und alles. Das Quartier war gut, das Bier auch.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.25.whfg.0"> Dann kam wieder ein Marschtag mit gelehrten Unterhaltungen. Dann ein Rastort, an dem scharf gekämpft worden war. Es stank daselbst heftig. Abends prügelte ich mich mit dem Koch des Kompanieführers: ich haue ihm ein paar hinter die Ohren, und er gießt mir etwas warmen, aromatischen Tee auf den Kopf. Und dann gehen wir schlafen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.26.whfg.0"> Wieder weiter. Auf dem Hinterkopf habe ich eine Beule von gestern abend. Der Koch ist ein kleiner verwunschener Zwerg aus Tausendundeine Nacht, mit gackerndem Gelächter, kleinen listigen Äuglein und ein bißchen diebisch veranlagt. Wir haben uns schon wieder vertragen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.27.whfg.0"> Wir haben auf einer Bahnhofsstation geschlafen. Räume, die nie abgeschlossene Stuben waren, weil es durch sie ›zog‹, sind nun unsre Zimmer mit Stroh und geschlossenen Türen. Ich stehe auf dem leeren Bahnsteig und erwarte trotz allem Besserwissenden Zug.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg153.2.28.whfg.0"> Hier ist jetzt ein kleines Nest, vom Bahnhof eine Viertelstunde entfernt. Gestern haben wir reichlich und gut gegessen. Jemand aus Berlin hat gute Zigaretten geschickt. Den Rauch blies ich durch die Nase wie ein Groß-Sultan; wir tranken Kognak. Der Himmel war halbbedeckt. Durch die Sterne zogen fortwährend Sternschnuppen. Drei, vier, fünf. Und wenn ich eine sah, hatte ich immer nur denselben, einen Wunsch. Den Wunsch.</p>
+                              <lb xml:id="tg153.2.29.whfg.0"/>
+                              <byline xml:id="tg153.2.30.whfg.0">
+                                 <seg xml:id="tg153.2.30.1.whfg.0">
+                                    <pb n="279" xml:id="tg153.2.30.1.1.whfg.0"/> · Ignaz Wrobel<lb xml:id="tg153.2.30.1.2.whfg.0"/>
+Die Schaubühne, 30.08.1917, Nr. 35, S. 209.</seg>
+                              </byline>
+                              <lb xml:id="tg153.2.31.whfg.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wnjp.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Die Einsiedlerschule</title><title>Unterwegs 1915</title><title>Vorher!</title><title>Papiernot</title><title>Auf Urlaub</title><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-6C8E-4</idno><idno type="textgrid">textgrid:wnjp.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>280-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>274-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>271-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg154.wnjn.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Die Einsiedlerschule">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Einsiedlerschule</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6C8F-2</idno><idno type="TextGridUri">textgrid:wnjn.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>280-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg154.2.wnjn.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg154.2.1.wnjn.0">Die Einsiedlerschule</head>
+
+                              <lg>
+                                 <l xml:id="tg154.2.2.wnjn.0">In das Graß / so lang ich bin</l>
+                                 <l xml:id="tg154.2.3.wnjn.0">Einsamb sträkke ich mich hin.</l>
+                              </lg>
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPR" xml:id="tg154.2.4.wnjn.0">Dafnis</p>
+                              <milestone unit="hi_end"/>
+                              <lb xml:id="tg154.2.5.wnjn.0"/>
+                              <p xml:id="tg154.2.6.wnjn.0">»Mein Sohn lernt einsiedeln«, sagte Herr von Kügelgen zu mir, »weil er menschenscheu ist und die Welt verachtet. Er lebt jetzt auf ›Solitaire‹. Sie sollten sich das ansehen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.7.wnjn.0">Wirklich: ich sollte mir das ansehen. Und ich setzte mich in Herrn von Kügelgens Landauer, die Dorfhunde kläfften, und wir fuhren über Berg und Tal – zum ›Solitaire‹.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.8.wnjn.0"> Es öffneten sich die großen Parktore; von selbst öffneten sie sich, als der Kutscher nur ungeduldig davor mit der Zunge schnalzte, und über den steinigen Sand knirschte die Karosse. Wir fuhren ein. Ernst und still standen die Bäume da, aber kein Mensch war zu sehen. Noch ein Weilchen – und da war das Gebäude. Ich stieg aus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.9.wnjn.0"> Ein riesiger, würdevoller Portier begrüßte mich mit strafendem Blick; er hatte einen langen Stock mit rötlich goldenem Knopf und ebensolche Nase: ein Trinkgelderpatriarch von hieratisch königlichem Gestus. Er geleitete mich in die innern Räume, mit fürstlicher Herablassung half er mir aus meinem Überzieher, noch immer sprach er nicht – dann meldete er mich beim Direktor Poestbein an.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.10.wnjn.0"> »Herein!« sagte der Direktor Poestbein. »Guten Tag«, sagte ich.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.11.wnjn.0"> »Wir haben hier«, sagte der Direktor, »ein Institut, wie es die Welt noch nicht gesehen hat. Die Weltenflucht ist immer mehr in Mode gekommen, aber niemand flüchtet richtig. Das dilettantenhafte Herumwirtschaften in der Einsiedlerei ist ein Greuel, und haben wir es uns zur Aufgabe gemacht, demselben zu steuern. Nach den Vorschriften der Kirchenväter und ff. Rezepten des Original-Gautama-Buddha lehren wir die allein richtige Methode, einzusiedeln. Das Amateurtum hört auf. Es verschwinden die Sonntags-Eremiten, denen man in jedem Hain, beziehungsweise Flur begegnet, die nicht einmal die einfachsten Grundregeln des Einsiedelns beherrschen – und es treten an ihre Stelle ehrliche, wackre Professionisten unsrer schwierigen Kunst. Das Honorar für den Gesamtkursus stellt sich auf 300 Mark, inklusive voller Verpflegung und Trinkgeldern. Bitte, folgen Sie mir!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.12.wnjn.0"> Durch lange, graue Korridore führte mich der Direktor Poestbein; das helle Licht des Sommertages fiel gedämpft durch trübe Butzenfenster. Vor einer Tür machte er halt. »Treten Sie ein«, sagte er. Ich trat ein. Die Schulklasse erhob sich – es waren Jünglinge aller Alter. Dem Lehrer auf dem Katheder, einem zerschrumpelten Greise, machten wir eine Verbeugung. Der Direktor stellte vor: »Herr Doktor – wie war doch der werte Name? ein Besucher der Anstalt – dort der Lehrer, <pb n="280" xml:id="tg154.2.12.1.wnjn.0"/> ein Menschenfeind Doktor Schütte.« Dann nahm der Unterricht seinen Fortgang. Der Menschenfeind netzte bedächtig den Zeigefinger, fuhr in einem dicken Folianten die Seiten auf und ab und las mit monotoner Stimme den schwierigen Traktat des jüngeren Polybius Pharo über den Genuß der Einsamkeit und darüber, inwiefern der Mensch, allein seiend, erst wahrhaft glücklich genannt werden könne. Die Schüler schrieben eifrig mit. »Im Zusammenleben mit andern«, übersetzte der Lehrer, »verliert er viel (oder vieles) von seiner eigenen Aura und wird allgemein oder gradezu: gemein.« Sie schrieben – und auf Zehenspitzen verließen wir das Zimmer.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.13.wnjn.0"> »Der Kursus ist überfüllt«, sprach draußen der Direktor. »Der Ekel an der Menschheit ist in Wahrheit übergroß. Wir werden das Honorar erhöhen müssen. Und hier«, fuhr er fort, indem er eine andre Tür öffnete, »sehen Sie das Laboratorium. Denn was wäre ein Einsiedeln, wenn der Eremit sich nicht ein Schnäpschen zu brauen in der Lage wäre?« In dem düstern Saal hockten an vielen kleinen Tischen die Schüler, darunter schon ernste Männer; sie destillierten, kochten, mischten und brodelten. Oben von der Wand sah ein Porträt des alten Mampe geruhig auf die Arbeitsstätte. Der Lehrer – ein auffallend junger Mann von ganz blasser Gesichtsfarbe und flackernden Augen – legte bei unserm Kommen ein helles Stäbchen aus der Hand und griff mit weißen, langen Fingern in einen wallenden Kessel. »Der Butterlikör, mein Herr«, sagte er zu mir mit einer sopranhellen Stimme, »da sehen Sie selbst!« An seinen Händen hing eine ölige, zitternde Masse – flaschengrün und fast durchsichtig. Ein wunderbar aromatischer Geruch zog durch den Saal. Sämtliche Schüler hörten im Augenblick mit ihrer Arbeit auf und sahen glänzenden Auges auf ihren verehrten Lehrer, dem so Herrliches gelungen war: den edlen Benediktiner derart zu verdichten, daß der Extrakt, durch Zusätze verdünnt, jahrhundertelang reichte. Bewegt begaben wir uns hinaus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.14.wnjn.0"> »Das war der Professor Piepgras«, sagte der Direktor. »Ein fabelhafter Mann – die heiligen Brüder in Frankreich haben ihn schon oft in feste Kondition haben wollen zur Bereitung ihrer Liköre. Aber er ist ein Patriot und geht nicht. Außerdem bekommt er bei mir mehr.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.15.wnjn.0"> »Und was ist dieses hier?« fragte ich, als wir zu einer hohen Eisentür kamen. »Dies ist«, sagte der Direktor, »eine wichtige Abteilung der Schule: hier werden die künftigen Eremiten versucht!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.16.wnjn.0"> Sie werden versucht? dachte ich. Was mag das heißen? Versucht . . . Natürlich werden sie versucht! Die Versuchung, die Versuchung des heiligen Antonius! Das war es.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.17.wnjn.0"> »Die erste Station kann ich Ihnen zur Zeit nicht vorführen«, sagte der Herr Direktor. »Die Novizen versucht meine Frau, und da bleiben sie alle standhaft. Aber hier – was sagen Sie dazu?« und er schob einen Vorhang in der Mauer beiseite.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.18.wnjn.0"> 
+                                 <pb n="281" xml:id="tg154.2.18.1.wnjn.0"/> I, sieh mal an, in der Tat! – »Was?« Er schmunzelte, seiner Anerkennung gewiß.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.19.wnjn.0"> Die Einsiedler saßen auf Bänken im Halbkreis – halblaute, unsichtbare Musik ertönte: kleine Mandolinen klimperten, und eine Baßgitarre brummte, leicht angeschlagen, den Takt. Vor den Schülern aber stand auf einem Bein, nur mit einem Armband bekleidet, die – wie das Lehrprogramm mir später verkündete – erste Balletttänzerin vom Stadttheater zu Fürstenfeldbruck, eine zierliche Vierzigerin. Sie tat ihr Möglichstes. Sie warf die heißesten Blicke nach rechts und nach links, sie pirouettierte und vollführte dann sogar etwas sehr, aber sehr Gewagtes – es half ihr alles nichts: die Einsiedler blieben ruhig wie die Eisblöcke, ihre Augen blickten glanzlos ins Leere – apage Satanas, o nein, mein Fräulein! – Es war eine respektable Leistung.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.20.wnjn.0"> »Wo ist der Hörsaal B?« fragte der Direktor die Tänzerin. Die schöne Sünde, die leicht nach Schwefel roch, brach ab. »Die Herren von B sind nebenan, im Versuchsraum«, sagte sie schnippisch. Wir gingen durch den Saal auf die hintere Tür zu – wieder perlten die Mandolinen, die verborgene Gitarre nahm den Takt auf, lockend sang eine kleine weiche Melodie hinter uns her . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.21.wnjn.0"> »Die Herren Einsiedler vom Coetus B!« rief der Herr Direktor. Sie kamen aus dem Nebenraum, der im ›Solitaire‹ das darstellte, was in der großen Bibliothek der Stadt Paris ›l'enfer‹ genannt wird, ›die Hölle‹, wo Satan selbst seine Laszivitäten ausgespien hat; aus diesem Raum, den nur die Adoranten betreten durften, also nicht einmal ich, kamen sie heraus. Der Instruktor geleitete sie, ein fetter Mann mit blanken Jettäugelchen, der wie ausgestopft aussah: der berühmte Pornograph Peter Panter. »Darf ich die Herren Einsiedler zum Essen bitten«, sagte der Direktor.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.22.wnjn.0"> Es war ein heiteres Mahl. Der Coetus bestand aus den Vorgeschrittneren – Menschenfeindlichkeit und gediegene Fachkenntnis hielten sich die Waage. Viele trugen bereits das kleine Einsiedlerabzeichen auf der rechten Brust. Wir aßen sehr gut, wir tranken stille Weine, die genossen werden wollten, ich lernte den jungen Herrn von Kügelgen kennen, einen tief veranlagten jungen Mann mit Idealen und einer schönen Weltanschauung. »Die Menschen«, sagte er mit schmerzlicher Betonung, »die Menschen . . . « Die Herren sprachen von dem ›Einsiedlerskat‹, der Erfindung eines ehemaligen Schülers der Anstalt – denn sein Solo muß der Eremit haben. Und wir waren fröhlich und guter Dinge, wir sangen schöne Lieder wie:</p>
+                              <lb xml:id="tg154.2.23.wnjn.0"/>
+                              <lg>
+                                 <l xml:id="tg154.2.24.wnjn.0">»Die Welt, die ist ein Jammertal«</l>
+                                 <l xml:id="tg154.2.25.wnjn.0">und</l>
+                                 <pb n="282" xml:id="tg154.2.26.wnjn.0"/> 
+                                 <l xml:id="tg154.2.27.wnjn.0">»Einsiedelmann ist nicht zu Haus,</l>
+                                 <l xml:id="tg154.2.28.wnjn.0">Dieweil es Zeit zu mähen.</l>
+                                 <l xml:id="tg154.2.29.wnjn.0">Ich sah ihn bei der Halde drauß,</l>
+                                 <l xml:id="tg154.2.30.wnjn.0">Bei einer Schnittrin –«</l>
+                              </lg>
+                              <lb xml:id="tg154.2.31.wnjn.0"/>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.32.wnjn.0">»Sagen Sie mal«, fragte ich meinen Nachbarn, »studieren denn hier bei Ihnen keine Frauen?« – »Nein!« antwortete er. »Haben Sie schon einmal eine Einsiedlerin gesehen?« Ich schwieg betroffen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.33.wnjn.0"> Nun war es schon spät am Nachmittag geworden – der Direktor war unermüdlich. Er zeigte mir noch so vieles: praktische Übungen im Bau von Eremitagen und Felshöhlen, die Handhabung der Einsiedlerwerkzeuge, als da sind: der Ring mit dem Amethyst, das Glöcklein und der Umhängebart, weise Sprüche für den Alltagsgebrauch, die Kurse über Einklagbarkeit der milden Gaben und andres mehr.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.34.wnjn.0"> Er zeigte mir die Übungsklause im zweiten Stock; sie wurde grade benutzt: ein frommer Mann stand gebeugten Knies mit der Geige am Kinn darinnen, und seine Lippen murmelten. Durchs Fensterlein lugte auf den Zehenspitzen der jüngere Poestbein als Engel verkleidet, ein süßes Tönen durchzog den Raum, und wir waren alle sehr zufrieden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.35.wnjn.0"> Und er zeigte mir vom Söller aus den weiten Blick über das gewellte Land – da und dort lagen die Einsiedlerklausen der Schule, wie kleine Tempelchen verstreut. Rauch stieg aus manchen von ihnen auf, friedlich senkte sich die Dämmerung hernieder, dort arbeiteten die Adepten an ihrer letzten Ausbildung für die große Einsiedlerprüfung. Wir stiegen hinunter.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.36.wnjn.0"> Der Wagen fuhr vor. Ich drückte dem Pförtner die Hand, er räusperte sich befriedigt in tiefstem Baß. Der Direktor verabschiedete sich warm und herzlich. Ich dankte ihm für alles. »Nichts zu danken, mein Herr«, sagte er. »Kommen Sie einmal selbst, wenn Sie dessen da draußen überdrüssig geworden sind. Die Welt ist schal, verlassen Sie sich drauf! Und empfehlen Sie mich in Ihrem respektiven Bekanntenkreise!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg154.2.37.wnjn.0"> Die Pferde ruckten an, die Riemen knarrten. Durch die warme Sommernacht zogen noch einmal leise die Töne aus dem erleuchteten Haus:</p>
+                              <lb xml:id="tg154.2.38.wnjn.0"/>
+                              <lg>
+                                 <l xml:id="tg154.2.39.wnjn.0">»14-, 15-, 16-, 17-, 18- Siedelmann,</l>
+                                 <l xml:id="tg154.2.40.wnjn.0">19- Siedelmann, 20 Seidel!«</l>
+                              </lg>
+                              <lb xml:id="tg154.2.41.wnjn.0"/>
+                              <lg>
+                                 <l rend="zenoPLm4n0" xml:id="tg154.2.42.wnjn.0">Dann verhallten sie, und wir fuhren wieder durch den grünen Wald, nach Haus, in die böse, böse Welt.</l>
+                              </lg>
+                              <lb xml:id="tg154.2.43.wnjn.0"/>
+                              <byline xml:id="tg154.2.44.wnjn.0">
+                                 <seg xml:id="tg154.2.44.1.wnjn.0">
+                                    <pb n="283" xml:id="tg154.2.44.1.1.wnjn.0"/> · Ignaz Wrobel<lb xml:id="tg154.2.44.1.2.wnjn.0"/>
+Die Schaubühne, 27.09.1917, Nr. 39, S. 307, wieder in: Träumereien an preußischen Kaminen.</seg>
+                              </byline>
+                              <lb xml:id="tg154.2.45.wnjn.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus><teiCorpus corresp="textgrid:wkb5.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Die Träume</title><title>Die Einsiedlerschule</title><title>Unterwegs 1915</title><title>Vorher!</title><title>Papiernot</title><title>Auf Urlaub</title><title>An einen garnisondienstfähigen Dichter</title><title>Das Geheimnis des gelben Zimmers</title><title>Das grüne Gesicht</title><title>Meinen Freunden den Idealisten</title><title>Die Sekt-Eule</title><title>Werke</title><title>Tucholsky, Kurt</title><title>1917</title><author>Tucholsky, Kurt</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-653E-A</idno><idno type="textgrid">textgrid:wkb5.0</idno><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability><availability><ab/></availability></publicationStmt><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>284-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>280-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>274-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>272-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>271-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>270-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>267-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>265-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>264-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title><author key="pnd:11862444X">Tucholsky, Kurt</author></titleStmt><extent>263-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Hamburg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg155.wkb6.0" n="/Literatur/M/Tucholsky, Kurt/Werke/1917/Die Träume">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Träume</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-653F-8</idno><idno type="TextGridUri">textgrid:wkb6.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>284-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg155.2.wkb6.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg155.2.1.wkb6.0">Die Träume</head>
+
+                              <p xml:id="tg155.2.2.wkb6.0">Die Uhr schlug vier. Vertattert fuhr der Herr Hoftraumhändler Symander vom Sofa auf. Was – vier Uhr? – »Anastasia«, sagte er in die Luft hinein. Er schlief noch halb. Mit kräftigem Schwung klopfte er sich auf den Bauch – das half immer und machte ihn ganz wach. »Anastasia«, rief er lauter. »Adalbertchen!« antwortete eine Stimme aus dem Nebenzimmer. »Es ist vier Uhr«, sagte Herr Symander gereizt, »fang an!« – Das Nebenzimmer kramte, rumpelte, schlug Türen auf und zu. Auch Herr Symander schritt nun hinaus, und das Ehepaar begab sich in die unterirdische Werkstatt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.3.wkb6.0">»Was sagst du«, fragte er schon im Fahrstuhl, »zu dieser lächerlichen Gründung von meinem alten Sozius Gradnitzer: Träume-, Schäume- und Fata-Morganen-Aktiengesellschaft! Niemals bekommt er die Konzession! Außerdem ist das ein Unfug, den alten Fachmann mit seinem tüchtigen, eingearbeiteten Personal durch so einen modernen Kram zu ersetzen. Was sagst du?« – Anastasia sagte dasselbe.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.4.wkb6.0"> Die Symanders hatten die Traumlieferung (Monopol) für den Bezirk Kösen–Naumburg–Halle. Industrie, Ackerbau, die Universität – es war immerhin eine ganze Menge zu tun. Im allgemeinen erledigte Herr Provisor Nikodemus van der Grachten die laufenden Aufträge; daß das Ehepaar die Arbeit heute selbst besorgte, hatte seinen Grund darin, daß Sonnabend war – die Leute trinken da allerhand, sie können ausschlafen – da muß der Chef schon selbst am Werke sein, wenns klappen soll. Sie gingen in die Werkstatt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.5.wkb6.0"> Die Werkstatt war ein ungeheurer, weiter und langer Raum mit vielem Gefach und Kisten und Kasten, Man durchschritt ihn aber nicht – sondern man stieg auf ein hohes Gerüst, auf dem eine große Kurbel angebracht war. Die Treppe hing ein wenig über dem Boden. Von da wurde einem der Raum unter den Füßen weggedreht; kam die gewünschte Stelle – sagen wir ›Mädchenträume‹ –, dann stellte man ab und stieg hinunter.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.6.wkb6.0"> Augenblicklich stand das Ehepaar Symander oben und drehte die Kurbel – er im behäbigen schneeweißen Operationsmantel, sie – trotz ihrer Fülle ein wenig kokett – in einem knallgelben, schlafrockartigen Gewand mit großen schwarzen Punkten. »Halt!« sagte Herr Symander und hörte auf zu drehen. Dann kletterten sie nach unten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.7.wkb6.0"> Der Herr Hoftraumhändler nahm die Liste zur Hand. »Da hätten wir also zunächst den Traum für Amtsanwalt Schückebier«, sagte er. »Was nehmen wir denn da – nehmen wir denn da – –« Ei suchte in den Kisten. »Wie wäre es denn«, fragte seine Frau Anastasia, »mit einem schönen verwickelten Rechtsfall?« – »Nein«, entschied Herr Symander, »das hat er schon vorigen Sonnabend gehabt. – Aber hier – sieh mal –!« Er entnahm einer Kiste einen zitternden, farblosen <pb n="284" xml:id="tg155.2.7.1.wkb6.0"/> Gegenstand aus Gelee. (Träume färben sich erst des Nachts.) Es war ein lebensgroßer ›Grand mit Vieren‹, aus der Hand zu spielen. »Ich denke, das ist etwas für den Anfang«, sagte er. »Nachher vielleicht aus der Abteilung ›Schadenfreude‹ einen blamierten Kollegen und dazu eine kleine Gehaltszulage.« – »Gut«, sagte Frau Anastasia. »Weiter!« – Sie kurbelten eine ganze Weile.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.8.wkb6.0"> Als die Abteilung ›Damenkonfektion und Verwandtes‹ herankam, machte Herr Symander halt. »Jetzt kommt«, sagte er, »etwas für Fräulein Adelaine Knöpfchen.« – »Der müssen wir etwas besonders Hübsches aussuchen«, sagte Frau Anastasia. »Sie hat sich voriges Mal bei der Traummaus so geängstigt!« – »Dann geh nur hin und such aus«, sagte Herr Symander. Und Frau Anastasia suchte aus. Ein wunderbares Kleid mit Handstickerei (von oben bis unten Handstickerei!) – wie ein duftiges Gewebe breitete sich die Pracht aus; durch das Muster schimmerte undeutlich ein feiner Kavalier mit hochgebürstetem Schnurrbart; er trug in leiser Ähnlichkeit die Züge des Herrn Kapellmeisters Diederich, – eines schönen Mannes. »Hast du nun bald genug für dein Teekind zusammengepackt?« sagte der Gatte oben ungeduldig. »Gemach – gemach«, beruhigte Frau Anastasia, »gleich bin ich fertig.« Und fügte noch eine extra süße Tanzweise und eine Handvoll Kerzenflimmer im Ballsaal dazu, und – ohne daß ihr Mann es merkte – einen schmalen goldenen Ring. »E. D.« stand darin. Und: »18. 4. 19.« So – das wäre das. »Weiter!« sagte Frau Anastasia. Und sie kurbelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.9.wkb6.0"> »Halt an!« sagte der Gatte. »Diesmal laß mich herunter. Ich habe es einem zu besorgen.« – »Wem?« fragte die Gemahlin. »Dem cand. theol. Semmelmayer«, sagte Herr Symander. »Der Kerl kommt regelmäßig früh um vier Uhr nach Hause. Was ihm da bis zum Halse steht, weiß ich nicht – aber Wasser kann es nicht sein. Na, warte –!« Und wie auch die gutmütige Frau Symander bat, er klaubte und klebte und bastelte, und so schön es war, so schreckeinflößend war es. Der Träumer selbst, cand. theol. Semmelmayer, stand da und sollte die Leichenrede halten. Und voll des süßen Weines, wie er war, passierte es ihm, daß er also stecken blieb: »Wir stehen allhier an dem Grabe unseres geliebten – – –« und dann beugte er sich herunter und fragte: »Wie war doch der werte Name?« – Das fiel allgemein auf, und beschämt sollte er erwachen. Herr Symander ließ sich nichts abhandeln; es sei roh, sagte er, aber eine gute Lektion. »Weiter!« sagte Frau Anastasia. Und sie kurbelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.10.wkb6.0"> Herr Symander sah in die Liste. »Was machen wir«, fragte er, »mit Egon Hagelheinrich, dem jugendlichen Dichter? – Eine hohe Honorarquittung? Ein ausverkauftes Haus, seiner jambischen<hi rend="italic" xml:id="tg155.2.10.1.wkb6.0"> ›Polytrapa, Königin von Ägypten‹</hi> lauschend?« – »Du hast keine Einfälle, mein Lieber«, sagte Frau Symander. »Laß mich nur bauen!« – »Bau«, <pb n="285" xml:id="tg155.2.10.2.wkb6.0"/> murrte er. Und sie baute. Und als sie fertig war, mußte sogar ihr erfahrener Gatte zugeben, daß es etwas sehr Schönes geworden war. Die mangelhaft in Rosa gehüllte Muse hielt einen vergüldeten Lorbeerkranz über Egons blanken Dichterscheitel, schwebend freihändig hielt sie ihn; aufgeschlagene Schullesebücher und eine gut getroffene Gipsbüste deuteten auf unvergänglichen Ruhm. Außerdem war die Muse, das gute, dicke Mädchen, eingerichtet, von Zeit zu Zeit zu sagen: »Du Götterliebling!« – Es war ein besserer Traum. »Weiter!« sagte Frau Anastasia. Und sie kurbelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.11.wkb6.0"> »Der Feldwebel Hemdenscheier – ich hätte schon etwas –«, sagte Herr Symander und ließ die Abteilung ›Militaria‹ herangleiten. »Das heißt, so wie die Soldaten da alle sind, können wir sie ihm unmöglich schicken. Einer hat kein Koppel, der andere hat schmutzige Ohren. – Er sperrt sie alle ein. Ordnung muß sein, und wenns im Traum ist! Hm – – wir werden ihm einen Auszug aus seinen Personalpapieren liefern und unter ›Führung‹ – warte mal – so: ›Über alles Lob erhaben. Mit Genehmigung des Soldatenrats (gez.) Kaiser Wilhelm.‹« – »Weiter!« sagte Frau Anastasia. Und sie kurbelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.12.wkb6.0"> »Für Wrobeln«, sprach Herr Symander, »kann ich kaum noch etwas finden. Der Mensch hat eine geradezu ausschweifende Phantasie. Und zu allem Unglück bekommen wir jetzt nichts mehr aus Bukarest – Madame Hélène hatte sonst immer noch einige Bilder aus dem rumänischen Familienleben, das sich so in ihrem Haus abspielte. Tja – was machen wir denn da –? Anastasia«, sagte er, »geh einmal aufs Podium. Du brauchst nicht grade dabei zu sein!« – »Ich dächte, wir sind verheiratet, Adalbert«, sagte sie gekränkt. »Sind wir«, antwortete er. »Aber bei Wrobeln hört schließlich die Gemütlichkeit auf. Wenn der nicht nach Professor Freud in Wien träumt, er sei seinen Blutsverwandten in unzulässiger Weise nahegetreten, dann machts ihm keinen Spaß.« (Auf die neuen Traumdeuter war Herr Symander nicht gut zu sprechen. Er schickte ihnen nachts Figuren braver Bürgerkomödien auf den Hals, aber völlig entkleidet und freute sich königlich, wenn sie, überwältigt von der Fülle der Eindrücke, am nächsten Tage orakelten, daß es eine Lust war.) »Geh«, sagte er, »ich bitte dich!« – Sie ging. Emsig packte er ein Szenarium zusammen – sie konnte es sich nicht versagen, ein wenig über das Geländer nach unten zu gucken. Was – machte er denn – pfui! »Adalbert!« sagte sie streng. »Bitte – ich habe schon gesehen, was du da in der Schachtel hast, du brauchst gar nicht die Hand darüber zu halten! Woher weißt du denn so etwas, wie?« – Sie fragte mit seltsamer Betonung, die nichts Gutes verhieß. »Aus den Büchern, mein Kind – nur aus den Büchern!« beruhigte er. »So – nun noch eine kleine Spezialnudität – und fertig ist.« Liebevoll trat er einen Schritt zurück und kniff das rechte Auge zu. Aber sein Gesicht blieb tiefernst, denn seine Gattin beobachtete <pb n="286" xml:id="tg155.2.12.1.wkb6.0"/> ihn aufmerksam. »Adalbert«, sagte Frau Anastasia, »du bist ein – na, weiter!« – Und sie kurbelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.13.wkb6.0"> »Ach – wie riecht das hier!« sagte Frau Symander, als sie in die nächste Abteilung herunterkletterten. »Das verstehst du nicht, mein Kind«, sagte er. »Das wird der Traum eines Politikers, und ohne Schwefelwasserstoff gehts da nicht. Puh – ja, Geschäft ist Geschäft!« Das Traumbild wurde in Eile erledigt, schön wurde es, roch aber nicht gut. Ein Aufruf an das deutsche Volk, in dem – – »Weiter!« sagte Frau Anastasia. Und sie kurbelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.14.wkb6.0"> »Und für wen ist das?« fragte sie, als sich Herr Symander erneut an die Arbeit machte. »Ich weiß nicht, wie er heißt«, sagte der Hoftraumhändler, »ich muß die eine Liste vorhin liegen gelassen haben, es war ein Kerl mit einem so komischen Namen – –.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.15.wkb6.0"> Und dieser Traum war ganz neu, und also mußte er probiert werden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.16.wkb6.0"> Frau Anastasia löschte die Lampen aus – es wurde pechschwarz. Die graue Traumwelle breitete sich in der Finsternis aus – dann ward es licht: eine weite Landschaft. Es war Herbst, die Farben leuchteten kräftig und klar. Ein frischer Wind rauschte in den Kronen der Bäume – sonst war es ganz still. Und eine schöne Altstimme sagte: »Gib mir deine Hand. Denn was so lange gewesen ist, das ist wahr und gräbt sich tief ein. Wenn wir aber als Alte im Lehnstuhl sitzen – dann wollen wir immer noch glauben, vier Jahreszeiten wären besser gewesen als die eine: unser Herbst.« – Das Ganze verschwand, und ein glockentiefer Ton hallte und klang in der Finsternis.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.17.wkb6.0"> Licht flammte auf. »Alterchen«, sagte Frau Anastasia, »Alterchen – für wen war das?« – »Ihr Frauen«, sagte er, »seid immer auf Personen begierig; als ob das nicht gleich wäre. Es ist eben für irgend jemanden . . . «</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.18.wkb6.0"> Dann wurden die anderen Träume fertiggestellt. Träume mit allem Komfort: Träume mit Albdrücken, fliegende Träume, Zahlenträume – und schließlich die Serienträume, die von Haus zu Haus ziehen – denn man kann nicht jedem Menschen jede Nacht einen besonderen Traum liefern – das alles war fertige Ware, die nicht viel Mühe machte. Unterdessen war es sechs Uhr geworden. Sie fuhren hinauf in die Expedition.</p>
+                              <lb xml:id="tg155.2.19.wkb6.0"/>
+                              <p xml:id="tg155.2.20.wkb6.0">Der Kalfaktor und Expedient Fritz Bumke lehnte an einer Schrankkante und rieb sich wohlig den Rücken. »Wenn ick mir det so bedenke«, sagte er, »wat hast du eijentlich vom Lehm? Nischt hast du dervon. Du lebst, newa, keiner jibt dir was davor, und du hast bloß die Unkosten. Diß mit die Weiber – ick habe imma jefunden, am Tage is es nischt mit sie. Bleibt – – na prost!« – Und sah auf zu den Sternen. Die kleine Flasche ließ den Stöpsel nicht wieder hinein. Fritze betrachtete dies als eine Schicksalsfügung und tat ihr den Gefallen. Die Tür ging auf.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.21.wkb6.0">
+                                 <pb n="287" xml:id="tg155.2.21.1.wkb6.0"/> »Bumke«, sagte Herr Symander eilig, »das muß hier gleich weg. Die Kisten sind fertig gepackt, Sie wissen ja, alles wie gewöhnlich. Also los –!« – »Jawoll, Herr Hoflieferant –!« sagte Fritze. Der Tonfall –? Herr Symander sah seinen Expedienten an. »Ich möchte nur wissen«, sagte er zu seiner Frau auf portugiesisch, »woher der Kerl den vielen Fusel hat! Hier in der Nähe ist doch keine Kneipe?« – »Wat heißt hier franzeesisch«, murrte Herr Bumke. »Det ick besoffen bin, weiß ick alleene!« – »Sagten Sie was, Bumke?« erkundigte sich Herr Symander. – »Also die Tuhre wie jewöhnlich – jawoll, Herr Hoflieferant!« – Und machte seinen Kratzfuß, auch vor der Frau Hoflieferantin, nahm seine beiden Kisten unter den Arm, und die Mütze keck auf einem Ohr und heftig schluckend – so schaukelte Fritz Bumke hinaus.</p>
+                              <lb xml:id="tg155.2.22.wkb6.0"/>
+                              <p xml:id="tg155.2.23.wkb6.0">Das war Sonnabend abend. Am Sonntag früh gegen zehn war im Büro des Herrn Symander ein derartiger Spektakel, daß die Wände wackelten. »Ich schlage den Kerl tot!« schrie Herr Symander. – »Aber Herr Hoftraumhändler!« sagte der lange Provisor van der Grachten und ließ geruhig seinen kalten Rauch aus der langen, langen Tonpfeife in die Luft klettern. »Aber Adalbert!« sagte seine Gattin. »Du wirst doch nicht!« – »Ich schlage ihn in lauter einzelne Stücke, den Haderlump, den versoffenen! Alle Träume hat er mir vertauscht – die Jungfrau träumt von Politik, der Dichter vom Skat und der Kompaniefeldwebel von Spitzenkleidern – ja, ist denn die Welt aus den Fugen? Wo kämen wir denn da hin? – Hier – Beschwerden über Beschwerden: ›Ach – was habe ich heute für dummes Zeug geträumt !‹ Und: ›Mein Kopf, mein Kopf!‹ – Und: › . . . sehen wir uns genötigt, nun doch in Zukunft für die Errichtung der Träume-, Schäume- und Fata-Morganen-Aktiengesellschaft einzutreten.‹ – Die ernsten Träume sind richtig angekommen, – aber was ein bißchen bewegt war – das hat das Luder alles falsch abgegeben! Und die Rechnung stimmt überhaupt nicht! Ich zähle und zähle – da fehlt ein Traum! – Ich schlage ihn tot, den Berliner, den verdammten –! Wenn ich ihn finde – –!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.24.wkb6.0">Keine Sorge, Leser, er findet ihn noch nicht. Er findet ihn wahrscheinlich erst abends, wenn er wieder den Fahrstuhl benutzen muß, um in die Werkstatt zu gelangen. Denn in eben diesem Elevator liegt Fritze Bumke – den Geräuschen in seinem Innern lauschend und selig lächelnd. Vor die Tür hat er seine Stiefel gestellt, wie sich das für einen ordentlichen Mann gehört. Seine rechte Hand tastet in der Luft streichelnd eine kugelige Rundung ab . . . Still – er spricht! –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg155.2.25.wkb6.0"> »Blau wien Ritter!« spricht er. »Aber wat mir heute nacht jeträumt hat – vaflucht juchhe –! Ein paar janz dolle Nummern warn det – – Und ein Weib –! Junge . . . Junge . . . ! Ein Weib, sage ick dir – prost!« –</p>
+                              <lb xml:id="tg155.2.26.wkb6.0"/>
+                              <byline xml:id="tg155.2.27.wkb6.0">
+                                 <seg xml:id="tg155.2.27.1.wkb6.0">
+                                    <pb n="288" xml:id="tg155.2.27.1.1.wkb6.0"/> · Kurt Tucholsky<lb xml:id="tg155.2.27.1.2.wkb6.0"/>
+Simplicissimus, 30.10.1917, Nr. 21, S. 558, wieder in: Träumereien an preußischen Kaminen.</seg>
+                              </byline>
+                              <lb xml:id="tg155.2.28.wkb6.0"/>
+
+
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus></teiCorpus>

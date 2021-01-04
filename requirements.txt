@@ -1,0 +1,9 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+scipy
+tqdm
+nltk
+lxml
+textacy
