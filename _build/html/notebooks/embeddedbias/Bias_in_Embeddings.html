@@ -1,0 +1,757 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Embedded bias &#8212; Books as knowledge reservoirs</title>
+    
+  <link rel="stylesheet" href="../../_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.3da636dd464baa7582d2.js">
+
+    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "maltevogl/Books-as-knowledge-reservoirs");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="prev" title="Training a new spacy model for Tucholsky" href="../readingdata/ReadingData_5_Training_Spacy.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../../index.html">
+  
+  <img src="../../_static/wissensformen.jpeg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Books as knowledge reservoirs</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../intro.html">
+   Books as knowledge reservoirs
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Outline
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../outline.html">
+   Overview
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Setup tools and Jupyter
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/cover.html">
+   Tools for the book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../basics/jn.html">
+   Talking with Code
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  From objects to data
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/cover.html">
+   From objects to data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_1.html">
+   Starting to use Python (and Pandas)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../text2data/Text2Data_2.html">
+   Read all works by Tucholsky
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Reading data
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/cover.html">
+   Reading data
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_1.html">
+   Load JSONL with pandas
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_2.html">
+   Finding and counting words
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/nlp.html">
+   Natural Language Processing
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_3_Excercise_NLTK.html">
+   Working with NLTK
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/spacy.html">
+   Tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_4_Excercise_Spacy.html">
+   Using Spacy for POS tagging
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/ReadingData_5_Training_Spacy.html">
+   Training a new spacy model for Tucholsky
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Embedded bias
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../../_sources/notebooks/embeddedbias/Bias_in_Embeddings.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fnotebooks/embeddedbias/Bias_in_Embeddings.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://notebooks.gesis.org/binder/v2/gh/maltevogl/Books-as-knowledge-reservoirs/master?urlpath=lab/tree/notebooks/embeddedbias/Bias_in_Embeddings.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="../../_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#method-1-bag-of-words">
+   Method 1: bag-of-words
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#method-2-unsupervised-word-vectors">
+   Method 2: Unsupervised word-vectors
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#general-problems">
+   General problems
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#showing-the-embedded-biasword">
+   Showing the embedded biasword
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#working-with-word-vectors">
+   Working with word vectors
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#are-there-semantics-captured">
+   Are there semantics captured ?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#is-there-a-gender-vector">
+   Is there a
+   <em>
+    gender
+   </em>
+   vector?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#how-to-change-this">
+   How to change this ?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#can-we-use-ml-to-detect-bias">
+   Can we use ML to detect bias ?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#outlook-intellectual-dept-of-software">
+   Outlook: Intellectual dept of software
+  </a>
+ </li>
+</ul>
+
+        </nav>
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="embedded-bias">
+<h1>Embedded bias<a class="headerlink" href="#embedded-bias" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><p>How to deal with words in mathematical models?</p></li>
+</ul>
+<blockquote>
+<div><p>represent words with numbers!</p>
+</div></blockquote>
+<div class="section" id="method-1-bag-of-words">
+<h2>Method 1: bag-of-words<a class="headerlink" href="#method-1-bag-of-words" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>make list of occurring words and give them numbers ordered by frequency</p>
+<ul>
+<li><p>‘the’ -&gt; <code class="docutils literal notranslate"><span class="pre">1</span></code></p></li>
+<li><p>‘it’ -&gt; <code class="docutils literal notranslate"><span class="pre">2</span></code></p></li>
+<li><p>…</p></li>
+<li><p>‘embedding’ -&gt; <code class="docutils literal notranslate"><span class="pre">23579</span></code></p></li>
+</ul>
+</li>
+<li><p>Problems:</p>
+<ul>
+<li><p>huge <em>one-hot-vectors</em></p></li>
+<li><p>hard to train</p></li>
+<li><p>no context embedded</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="method-2-unsupervised-word-vectors">
+<h2>Method 2: Unsupervised word-vectors<a class="headerlink" href="#method-2-unsupervised-word-vectors" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>use word and its context in reduced vector space (e.g. 300 dim.)</p>
+<ul>
+<li><p>train model such that similar context leads to similar vectors</p></li>
+</ul>
+</li>
+<li><p>Pro: Semantics partly encoded in numbers</p></li>
+<li><p>Problems:</p>
+<ul>
+<li><p>large and very clean corpora necessary</p></li>
+<li><p>computational hard</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="general-problems">
+<h2>General problems<a class="headerlink" href="#general-problems" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>No result for out-of-corpus words</p></li>
+<li><p>Bad for specific language of e.g. scientific terms</p></li>
+<li><p>Word embeddings are based on contemporary texts</p></li>
+<li><p>If specific words occur in a limited set of contexts, bias translates from text to numbers</p>
+<ul>
+<li><p>‘man’ occurs with ‘doctor’, but ‘woman’ occurs with ‘nurse’</p></li>
+<li><p>‘black’ occurs with ‘criminal’</p></li>
+<li><p>‘muslim’ with ‘radical’</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="showing-the-embedded-biasword">
+<h2>Showing the embedded biasword<a class="headerlink" href="#showing-the-embedded-biasword" title="Permalink to this headline">¶</a></h2>
+<p>Based on the blog post:</p>
+<ul class="simple">
+<li><p>Marco Peixeiro (2019) <a class="reference external" href="https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-and-bias-in-ai-877d3f3ee680">Introduction to NLP and bias in AI</a>, TowardsDataScience-Blog</p></li>
+<li><p>T. Manzini et.al (2019) <a class="reference external" href="https://www.aclweb.org/anthology/N19-1062/">Black is to Criminal as Caucasian is to Police</a>, ACL Anthology</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>The GloVe dataset contains lines with words and their vectors. You have to download the dataset from the source page: <a class="reference external" href="https://nlp.stanford.edu/projects/glove/">Source</a></p>
+<p>Choose the smallest dataset, since this is already around 800MB.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">read_glove_vecs</span><span class="p">(</span><span class="n">glove_file</span><span class="p">):</span>
+    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">glove_file</span><span class="p">,</span> <span class="s1">&#39;r&#39;</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf8&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+        <span class="n">words</span> <span class="o">=</span> <span class="nb">set</span><span class="p">()</span>
+        <span class="n">word_to_vec_map</span> <span class="o">=</span> <span class="p">{}</span>
+        
+        <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">line</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
+            <span class="n">curr_word</span> <span class="o">=</span> <span class="n">line</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+            <span class="n">words</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">curr_word</span><span class="p">)</span>
+            <span class="n">word_to_vec_map</span><span class="p">[</span><span class="n">curr_word</span><span class="p">]</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">line</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">float64</span><span class="p">)</span>
+            
+    <span class="k">return</span> <span class="n">words</span><span class="p">,</span> <span class="n">word_to_vec_map</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">words</span><span class="p">,</span> <span class="n">word2vectors</span> <span class="o">=</span> <span class="n">read_glove_vecs</span><span class="p">(</span><span class="s1">&#39;../data/glove.6B.50d.txt&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>One way to compare vectors is to calculate their cosine similarity (<a class="reference external" href="https://en.wikipedia.org/wiki/Cosine_similarity">wikipedia</a>):</p>
+<ul class="simple">
+<li><p>similar vectors point in similar directions, the angle between them is small</p></li>
+<li><p>equal vectors have cosine equals one</p></li>
+<li><p>exactly opposite vectors have cosine equals minus one</p></li>
+<li><p>unrelated vectors can have cosine equal zero</p></li>
+</ul>
+<p>Formular:</p>
+<blockquote>
+<div><p><span class="math notranslate nohighlight">\(\cos(\theta) = \frac{\textbf{U} \cdot \textbf{V}}{||\textbf{U}|| \cdot || \textbf{V}|| }\)</span></p>
+</div></blockquote>
+<p>Using <em>numpy</em> package we can encode this as a function.</p>
+<p>The parameters <em>disp</em> and <em>multi</em> allow to change the output or input format. If <em>disp=True</em> the function will print a string with the input words and the calculated value, if its off (default) only the calculated similarity is returned. If <em>multi=True</em> the input is expected as two lists, with two words each. The word vectors are then substracted from each other and the similarity of the new values is calculated.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">cosine_similarity</span><span class="p">(</span><span class="n">word1</span><span class="p">,</span> <span class="n">word2</span><span class="p">,</span> <span class="n">disp</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">multi</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">multi</span><span class="p">:</span>
+        <span class="n">u</span> <span class="o">=</span> <span class="n">word2vectors</span><span class="p">[</span><span class="n">word1</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()]</span> <span class="o">-</span> <span class="n">word2vectors</span><span class="p">[</span><span class="n">word1</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()]</span>
+        <span class="n">v</span> <span class="o">=</span> <span class="n">word2vectors</span><span class="p">[</span><span class="n">word2</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()]</span> <span class="o">-</span> <span class="n">word2vectors</span><span class="p">[</span><span class="n">word2</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()]</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">u</span> <span class="o">=</span> <span class="n">word2vectors</span><span class="p">[</span><span class="n">word1</span><span class="o">.</span><span class="n">lower</span><span class="p">()]</span>
+        <span class="n">v</span> <span class="o">=</span> <span class="n">word2vectors</span><span class="p">[</span><span class="n">word2</span><span class="o">.</span><span class="n">lower</span><span class="p">()]</span>
+    <span class="n">cossim</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">u</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">u</span><span class="o">**</span><span class="mi">2</span><span class="p">))</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="o">**</span><span class="mi">2</span><span class="p">)))</span>
+    <span class="k">if</span> <span class="n">disp</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;cos_sim(</span><span class="si">{0}</span><span class="s1">, </span><span class="si">{1}</span><span class="s1">) = </span><span class="si">{2}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">word1</span><span class="p">,</span> <span class="n">word2</span><span class="p">,</span> <span class="n">cossim</span><span class="p">))</span>
+    <span class="k">return</span> <span class="n">cossim</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="working-with-word-vectors">
+<h2>Working with word vectors<a class="headerlink" href="#working-with-word-vectors" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Experiment with the function!</p></li>
+<li><p>How does the similarity of (father,mother) compares to e.g. (rocket,cake)?</p></li>
+<li><p>Calculate the similarity for [‘rome’,’italy’] and [‘france’,’paris’].</p></li>
+<li><p>Why does the sign change for [‘rome’,’italy’],[‘paris’,’france’] ?</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>cosine_similarity(???,???,disp=True)
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>cosine_similarity(???,???,disp=True)
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>cosine_similarity([???,???], [???,???], disp=True, multi=True)
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="are-there-semantics-captured">
+<h2>Are there semantics captured ?<a class="headerlink" href="#are-there-semantics-captured" title="Permalink to this headline">¶</a></h2>
+<p>To have a look at semantics, we have to be able to analyse relations like</p>
+<blockquote>
+<div><p>Man is to woman as king is to X (e.g. queen)</p>
+</div></blockquote>
+<p>Since words are now encoded as vectors, we can calculate <code class="docutils literal notranslate"><span class="pre">(woman</span> <span class="pre">-</span> <span class="pre">man)</span></code>, which forms a new vector. Since we are looking for a word <code class="docutils literal notranslate"><span class="pre">X</span></code> such that <code class="docutils literal notranslate"><span class="pre">(X</span> <span class="pre">-</span> <span class="pre">king)</span></code> is similar to <code class="docutils literal notranslate"><span class="pre">(woman</span> <span class="pre">-</span> <span class="pre">man)</span></code>, we can iteratively scan all words of the corpus.</p>
+<p>If the cosine similarity of <code class="docutils literal notranslate"><span class="pre">cos_sim((woman-man),(X-king))</span></code> for a target word <code class="docutils literal notranslate"><span class="pre">X</span></code> is larger then the similarity of the word before, we take not of the word and the similarity and repeat.</p>
+<p>In the end, the word with the largest similarity is returned. If <em>disp=True</em> the input words are printed as well.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">complete_analogy</span><span class="p">(</span><span class="n">word1</span><span class="p">,</span> <span class="n">word2</span><span class="p">,</span> <span class="n">word3</span><span class="p">,</span> <span class="n">disp</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
+    <span class="n">word1</span><span class="p">,</span> <span class="n">word2</span><span class="p">,</span> <span class="n">word3</span> <span class="o">=</span> <span class="n">word1</span><span class="o">.</span><span class="n">lower</span><span class="p">(),</span> <span class="n">word2</span><span class="o">.</span><span class="n">lower</span><span class="p">(),</span> <span class="n">word3</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+    <span class="n">words</span> <span class="o">=</span> <span class="n">word2vectors</span><span class="o">.</span><span class="n">keys</span><span class="p">()</span>
+    <span class="n">max_cosine_sim</span> <span class="o">=</span> <span class="o">-</span><span class="mi">100</span>              <span class="c1"># Initialize max_cosine_sim to a large negative number</span>
+    <span class="n">best_word</span> <span class="o">=</span> <span class="kc">None</span>                   <span class="c1"># Initialize best_word with None, it will help keep track of the word to output</span>
+    <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">words</span><span class="p">:</span>           
+        <span class="k">if</span> <span class="n">w</span> <span class="ow">in</span> <span class="p">[</span><span class="n">word1</span><span class="p">,</span> <span class="n">word2</span><span class="p">,</span> <span class="n">word3</span><span class="p">]</span> <span class="p">:</span>
+            <span class="k">continue</span>
+        <span class="n">cosine_sim</span> <span class="o">=</span> <span class="n">cosine_similarity</span><span class="p">([</span><span class="n">word1</span><span class="p">,</span><span class="n">word2</span><span class="p">],</span> <span class="p">[</span><span class="n">word3</span><span class="p">,</span><span class="n">w</span><span class="p">],</span> <span class="n">multi</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+        <span class="c1"># If the cosine_sim is more than the max_cosine_sim seen so far,</span>
+            <span class="c1"># then: set the new max_cosine_sim to the current cosine_sim and the best_word to the current word</span>
+        <span class="k">if</span> <span class="n">cosine_sim</span> <span class="o">&gt;</span> <span class="n">max_cosine_sim</span><span class="p">:</span>
+            <span class="n">max_cosine_sim</span> <span class="o">=</span> <span class="n">cosine_sim</span>
+            <span class="n">best_word</span> <span class="o">=</span> <span class="n">w</span>
+    <span class="k">if</span> <span class="n">disp</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">print</span> <span class="p">(</span><span class="s1">&#39;</span><span class="si">{0}</span><span class="s1"> -&gt; </span><span class="si">{1}</span><span class="s1"> :: </span><span class="si">{2}</span><span class="s1"> -&gt; </span><span class="si">{3}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">word1</span><span class="p">,</span><span class="n">word2</span><span class="p">,</span><span class="n">word3</span><span class="p">,</span> <span class="n">best_word</span> <span class="p">))</span>
+    <span class="k">return</span> <span class="n">best_word</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p>Basics:</p>
+<ul class="simple">
+<li><p>Test if embeddings can capture semantics</p></li>
+<li><p>What is the best word for the trio (italy, italian, spain) ?</p></li>
+<li><p>And for (germany,berlin,austria) ?</p></li>
+</ul>
+<p>What about bias?</p>
+<ul class="simple">
+<li><p>What is the best word for (woman, nurse, man)?</p></li>
+<li><p>And for (christian, civilians, muslim)?</p></li>
+<li><p>Discuss these findings</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>complete_analogy(???,???,???, disp=True)
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="is-there-a-gender-vector">
+<h2>Is there a <em>gender</em> vector?<a class="headerlink" href="#is-there-a-gender-vector" title="Permalink to this headline">¶</a></h2>
+<p>Take for example the difference between woman and man. Does this encode a “gender” vector?</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">vecCosSimilarity</span><span class="p">(</span><span class="n">u</span><span class="p">,</span><span class="n">v</span><span class="p">):</span>
+    <span class="n">cossim</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">u</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">u</span><span class="o">**</span><span class="mi">2</span><span class="p">))</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="o">**</span><span class="mi">2</span><span class="p">)))</span>
+    <span class="k">return</span> <span class="n">cossim</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">g</span> <span class="o">=</span> <span class="n">word2vectors</span><span class="p">[</span><span class="s1">&#39;woman&#39;</span><span class="p">]</span> <span class="o">-</span> <span class="n">word2vectors</span><span class="p">[</span><span class="s1">&#39;man&#39;</span><span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">g</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<ul class="simple">
+<li><p>Check for a range of names if there is a common trend in male or female names.</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span> <span class="p">(</span><span class="s1">&#39;List of names and their similarities with constructed vector:&#39;</span><span class="p">)</span>
+<span class="n">name_list</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;john&#39;</span><span class="p">,</span><span class="s1">&#39;eve&#39;</span><span class="p">,</span><span class="s1">&#39;priya&#39;</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">name_list</span><span class="p">:</span>
+    <span class="nb">print</span> <span class="p">(</span><span class="n">w</span><span class="p">,</span> <span class="n">vecCosSimilarity</span><span class="p">(</span><span class="n">word2vectors</span><span class="p">[</span><span class="n">w</span><span class="p">],</span> <span class="n">g</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+</div>
+<ul class="simple">
+<li><p>Do the same for charged words, e.g. fashion, guns, etc.</p></li>
+<li><p>Do you see a trend?</p></li>
+</ul>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Other words and their similarities:&#39;</span><span class="p">)</span>
+<span class="n">word_list</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;actor&#39;</span><span class="p">,</span><span class="s1">&#39;actress&#39;</span><span class="p">,</span><span class="s1">&#39;doctor&#39;</span><span class="p">,</span><span class="s1">&#39;nurse&#39;</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">word_list</span><span class="p">:</span>
+    <span class="nb">print</span> <span class="p">(</span><span class="n">w</span><span class="p">,</span> <span class="n">vecCosSimilarity</span><span class="p">(</span><span class="n">word2vectors</span><span class="p">[</span><span class="n">w</span><span class="p">],</span> <span class="n">g</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="how-to-change-this">
+<h2>How to change this ?<a class="headerlink" href="#how-to-change-this" title="Permalink to this headline">¶</a></h2>
+<p>Not shown, but a simple projection works, if we assume that gender is indeed encoded in <code class="docutils literal notranslate"><span class="pre">g</span></code>.</p>
+<p><img alt="Basic idea, source deeplearning.ai" src="../../_images/bias_vector.png" /></p>
+</div>
+<div class="section" id="can-we-use-ml-to-detect-bias">
+<h2>Can we use ML to detect bias ?<a class="headerlink" href="#can-we-use-ml-to-detect-bias" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Pre-process Tucholsky corpus with NLP tools</p></li>
+<li><p>Train GloVe on Tucholsky</p></li>
+<li><p>Exercise:</p>
+<ul>
+<li><p>Can we see a bias in Tucholsky’s language?</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="outlook-intellectual-dept-of-software">
+<h2>Outlook: Intellectual dept of software<a class="headerlink" href="#outlook-intellectual-dept-of-software" title="Permalink to this headline">¶</a></h2>
+<p>We have stepped in the area of <em>unknown software</em> and silently started using programs without understanding them</p>
+<p>This has lots of interesting implications and philosophical dimensions!</p>
+<ul class="simple">
+<li><p>Cory Doctorow <a class="reference external" href="https://boingboing.net/2019/07/28/orphans-of-the-sky.html">Blog-Post</a></p>
+<ul>
+<li><p>Technology on top of other technology hides technological dept</p></li>
+</ul>
+</li>
+<li><p>Jonathan Zittrain <a class="reference external" href="https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking">New Yorker Article</a></p>
+<ul>
+<li><p>Main argument: AI is applied science and limits basic research</p></li>
+</ul>
+</li>
+<li><p>Tyler Vigen <a class="reference external" href="http://www.tylervigen.com/spurious-correlations">Collection of Correlations</a></p>
+<ul>
+<li><p>More data creates also more spurious correlations</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./notebooks/embeddedbias"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="../readingdata/ReadingData_5_Training_Spacy.html" title="previous page">Training a new spacy model for Tucholsky</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Malte Vogl, Vielfalt der Wissensformen, Humboldt-University Berlin & Max-Planck-Institut für Wissenschaftsgeschichte<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../../_static/js/index.3da636dd464baa7582d2.js"></script>
+
+
+    
+  </body>
+</html>

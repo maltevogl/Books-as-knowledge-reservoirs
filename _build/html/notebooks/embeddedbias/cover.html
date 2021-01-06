@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tagging &#8212; Books as knowledge reservoirs</title>
+    <title>Embedded bias &#8212; Books as knowledge reservoirs</title>
     
   <link rel="stylesheet" href="../../_static/css/index.73d71520a4ca3b99cfee5594769eaaae.css">
 
@@ -91,8 +91,7 @@ commentsRunWhenDOMLoaded(addUtterances);
     <script async="async" src="../../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Using Spacy for POS tagging" href="ReadingData_4_Excercise_Spacy.html" />
-    <link rel="prev" title="Working with NLTK" href="ReadingData_3_Excercise_NLTK.html" />
+    <link rel="prev" title="Training a new spacy model for Tucholsky" href="../readingdata/ReadingData_5_Training_Spacy.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
@@ -187,47 +186,47 @@ commentsRunWhenDOMLoaded(addUtterances);
 </p>
 <ul class="current nav sidenav_l1">
  <li class="toctree-l1">
-  <a class="reference internal" href="cover.html">
+  <a class="reference internal" href="../readingdata/cover.html">
    Reading data
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="ReadingData_1.html">
+  <a class="reference internal" href="../readingdata/ReadingData_1.html">
    Load JSONL with pandas
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="ReadingData_2.html">
+  <a class="reference internal" href="../readingdata/ReadingData_2.html">
    Finding and counting words
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="nlp.html">
+  <a class="reference internal" href="../readingdata/nlp.html">
    Natural Language Processing
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="ReadingData_3_Excercise_NLTK.html">
+  <a class="reference internal" href="../readingdata/ReadingData_3_Excercise_NLTK.html">
    Working with NLTK
   </a>
  </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../readingdata/spacy.html">
    Tagging
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="ReadingData_4_Excercise_Spacy.html">
+  <a class="reference internal" href="../readingdata/ReadingData_4_Excercise_Spacy.html">
    Using Spacy for POS tagging
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="ReadingData_5_Training_Spacy.html">
+  <a class="reference internal" href="../readingdata/ReadingData_5_Training_Spacy.html">
    Training a new spacy model for Tucholsky
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../embeddedbias/Bias_in_Embeddings.html">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
    Embedded bias
   </a>
  </li>
@@ -271,7 +270,7 @@ commentsRunWhenDOMLoaded(addUtterances);
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../../_sources/notebooks/readingdata/spacy.md"><button type="button"
+        <a class="dropdown-buttons" href="../../_sources/notebooks/embeddedbias/cover.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -291,7 +290,7 @@ commentsRunWhenDOMLoaded(addUtterances);
                 data-toggle="tooltip" data-placement="left" title="Source repository"><i
                     class="fab fa-github"></i>repository</button></a>
         <a class="issues-button"
-            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fnotebooks/readingdata/spacy.html&body=Your%20issue%20content%20here."><button
+            href="https://github.com/maltevogl/Books-as-knowledge-reservoirs/issues/new?title=Issue%20on%20page%20%2Fnotebooks/embeddedbias/cover.html&body=Your%20issue%20content%20here."><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
         
@@ -318,16 +317,51 @@ commentsRunWhenDOMLoaded(addUtterances);
         <nav id="bd-toc-nav">
             <ul class="nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#taggin-guidelines">
-   Taggin guidelines
+  <a class="reference internal nav-link" href="#word-embeddings">
+   Word embeddings
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#exercise">
-     Exercise
+    <a class="reference internal nav-link" href="#bag-of-words">
+     bag-of-words
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#unsupervised-word-vectors">
+     Unsupervised word-vectors
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#general-problems">
+     General problems
     </a>
    </li>
   </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bias-in-embeddings">
+   Bias in embeddings
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bias-exercise">
+   Bias exercise
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reducing-bias">
+   Reducing bias
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#can-we-use-ml-to-detect-bias">
+   Can we use ML to detect bias ?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#intellectual-dept-of-software">
+   Intellectual dept of software
+  </a>
  </li>
 </ul>
 
@@ -340,39 +374,121 @@ commentsRunWhenDOMLoaded(addUtterances);
         
               <div>
                 
-  <div class="section" id="tagging">
-<h1>Tagging<a class="headerlink" href="#tagging" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="embedded-bias">
+<h1>Embedded bias<a class="headerlink" href="#embedded-bias" title="Permalink to this headline">¶</a></h1>
 <ul class="simple">
-<li><p>Tagging by crowd sourcing</p>
-<ul>
-<li><p>Hugh market for low-skilled workers, e.g. <a class="reference external" href="https://www.mturk.com/">Amazon Mechanical Turk</a></p></li>
-<li><p>Skills of annotators are measured and weighted into results</p></li>
-</ul>
-</li>
+<li><p>How to deal with words in mathematical models?</p></li>
 </ul>
 <blockquote>
-<div><p>Inter-annotater agreement:</p>
-<p>How well do two or more annotators agree on annotation decisions</p>
+<div><p>represent words with numbers!</p>
 </div></blockquote>
-<div class="section" id="taggin-guidelines">
-<h2>Taggin guidelines<a class="headerlink" href="#taggin-guidelines" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="word-embeddings">
+<h2>Word embeddings<a class="headerlink" href="#word-embeddings" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="bag-of-words">
+<h3>bag-of-words<a class="headerlink" href="#bag-of-words" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p>Annotation guidelines describe how tags are to be used</p>
+<li><p>make list of occurring words and give them numbers ordered by frequency</p>
 <ul>
-<li><p>E.g. should “the book” be tagged or only “book”, is “Mr Smith” or “Smith” a persons name?</p></li>
-<li><p>To capture all possible cases, these documents can be huge, e.g. <a class="reference external" href="https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/5065/file/Beisswenger_Bartz_Storrer_Tagset_and_guidelines_for_the_PoS_tagging_2015.pdf">here</a></p></li>
+<li><p>‘the’ -&gt; <code class="docutils literal notranslate"><span class="pre">1</span></code></p></li>
+<li><p>‘it’ -&gt; <code class="docutils literal notranslate"><span class="pre">2</span></code></p></li>
+<li><p>…</p></li>
+<li><p>‘embedding’ -&gt; <code class="docutils literal notranslate"><span class="pre">23579</span></code></p></li>
+</ul>
+</li>
+<li><p>Problems:</p>
+<ul>
+<li><p>huge <em>one-hot-vectors</em></p></li>
+<li><p>hard to train</p></li>
+<li><p>no context embedded</p></li>
 </ul>
 </li>
 </ul>
-<div class="section" id="exercise">
-<h3>Exercise<a class="headerlink" href="#exercise" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="unsupervised-word-vectors">
+<h3>Unsupervised word-vectors<a class="headerlink" href="#unsupervised-word-vectors" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p>Head over to the <a class="reference external" href="http://doccano.herokuapp.com/">Doccano test instance</a></p></li>
-<li><p>Try out the tagging infrastructure</p></li>
-<li><p>What metadata could be useful for tagging?</p></li>
-<li><p>What are interesting POS for the Tucholsky corpus?</p></li>
+<li><p>use word and its context in reduced vector space (e.g. 300 dim.)</p>
+<ul>
+<li><p>train model such that similar context leads to similar vectors</p></li>
+</ul>
+</li>
+<li><p>Pro: Semantics partly encoded in numbers</p></li>
+<li><p>Problems:</p>
+<ul>
+<li><p>large and very clean corpora necessary</p></li>
+<li><p>computational hard</p></li>
+</ul>
+</li>
 </ul>
 </div>
+<div class="section" id="general-problems">
+<h3>General problems<a class="headerlink" href="#general-problems" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>No result for out-of-corpus words</p></li>
+<li><p>Bad for specific language of e.g. scientific terms</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="bias-in-embeddings">
+<h2>Bias in embeddings<a class="headerlink" href="#bias-in-embeddings" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Word embeddings are based on contemporary texts</p></li>
+<li><p>If specific words occur in a limited set of contexts, bias translates from text to numbers</p>
+<ul>
+<li><p>‘man’ occurs with ‘doctor’, but ‘woman’ occurs with ‘nurse’</p></li>
+<li><p>‘black’ occurs with ‘criminal’</p></li>
+<li><p>‘muslim’ with ‘radical’</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="bias-exercise">
+<h2>Bias exercise<a class="headerlink" href="#bias-exercise" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Exercise</p>
+<ul>
+<li><p>experiment with GloVe embeddings</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="reducing-bias">
+<h2>Reducing bias<a class="headerlink" href="#reducing-bias" title="Permalink to this headline">¶</a></h2>
+<p><img alt="Basic idea, source deeplearning.ai" src="../../_images/bias_vector.png" /></p>
+</div>
+<div class="section" id="can-we-use-ml-to-detect-bias">
+<h2>Can we use ML to detect bias ?<a class="headerlink" href="#can-we-use-ml-to-detect-bias" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Pre-process Tucholsky corpus with NLP tools</p></li>
+<li><p>Train GloVe on Tucholsky</p></li>
+<li><p>Exercise:</p>
+<ul>
+<li><p>Can we see a bias in Tucholsky’s language?</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="intellectual-dept-of-software">
+<h2>Intellectual dept of software<a class="headerlink" href="#intellectual-dept-of-software" title="Permalink to this headline">¶</a></h2>
+<p>We have stepped in the area of <em>unknown software</em> and silently started using programs without understanding them</p>
+<p>This has lots of interesting implications and philosophical dimensions!</p>
+<ul class="simple">
+<li><p>Cory Doctorow <a class="reference external" href="https://boingboing.net/2019/07/28/orphans-of-the-sky.html">Blog-Post</a></p>
+<ul>
+<li><p>Technology on top of other technology hides technological dept</p></li>
+</ul>
+</li>
+<li><p>Jonathan Zittrain <a class="reference external" href="https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking">New Yorker Article</a></p>
+<ul>
+<li><p>Main argument: AI is applied science and limits basic research</p></li>
+</ul>
+</li>
+<li><p>Tyler Vigen <a class="reference external" href="http://www.tylervigen.com/spurious-correlations">Collection of Correlations</a></p>
+<ul>
+<li><p>More data creates also more spurious correlations</p></li>
+</ul>
+</li>
+</ul>
 </div>
 </div>
 
@@ -389,7 +505,7 @@ commentsRunWhenDOMLoaded(addUtterances);
         },
         kernelOptions: {
             kernelName: "python3",
-            path: "./notebooks/readingdata"
+            path: "./notebooks/embeddedbias"
         },
         predefinedOutput: true
     }
@@ -404,8 +520,7 @@ commentsRunWhenDOMLoaded(addUtterances);
     
     <div class='prev-next-bottom'>
         
-    <a class='left-prev' id="prev-link" href="ReadingData_3_Excercise_NLTK.html" title="previous page">Working with NLTK</a>
-    <a class='right-next' id="next-link" href="ReadingData_4_Excercise_Spacy.html" title="next page">Using Spacy for POS tagging</a>
+    <a class='left-prev' id="prev-link" href="../readingdata/ReadingData_5_Training_Spacy.html" title="previous page">Training a new spacy model for Tucholsky</a>
 
     </div>
     <footer class="footer mt-5 mt-md-0">

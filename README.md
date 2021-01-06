@@ -37,4 +37,4 @@ The readers will get hands-on experience with the full pipeline of distant readi
 
 ## Note
 
-This book started as a seminar for the project _Vielfalt der Wissensformen_ at the Humboldt University in Berlin, funded by the _Bundesministerium für Bildung und Forschung_.
+This book started as a seminar for the project _Vielfalt der Wissensformen_ at the Helmholtz-Zentrum für Kulturtechnik, Humboldt University Berlin, funded by the _Bundesministerium für Bildung und Forschung_.

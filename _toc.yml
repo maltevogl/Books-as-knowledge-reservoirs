@@ -21,3 +21,4 @@
     - file: notebooks/readingdata/spacy
     - file: notebooks/readingdata/ReadingData_4_Excercise_Spacy.ipynb
     - file: notebooks/readingdata/ReadingData_5_Training_Spacy.ipynb
+    - file: notebooks/embeddedbias/Bias_in_Embeddings.ipynb
